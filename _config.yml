@@ -5,7 +5,7 @@ plugins:
 title: Khoa Pham
 logo: /assets/img/My Portrait_small.png
 description: text below image
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
 
 author:
