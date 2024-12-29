@@ -1,7 +1,3 @@
-# Data Scientist
-
-I am looking for a full-time data scientist position where I can leverage my skills in data analysis, machine learning, and statistics to solve complex business problems. I have a strong background in data science, machine learning, and statistics, and I am proficient in Python, R, SQL, and Tableau. I have experience working with large datasets, building predictive models, and communicating results to non-technical stakeholders. I am passionate about using data to drive business decisions and I am excited about the opportunity to work on challenging projects that have a real impact.
-
 ## Education
 **University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
 - **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
@@ -10,16 +6,18 @@ I am looking for a full-time data scientist position where I can leverage my ski
     - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
 - **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
 
+
 ## Technical Skills
 - **Tools:** Python (Pandas, NumPy, Seaborn) , SQL (MySQL, PostgreSQL, AWS Redshift), R (dplyr, tidyr, ggplot2), Tableau, Excel
 - **Libraries:** Scikit-learn, SciPy, Statsmodels, Plotly, TensorFlow, PyTorch, PySpark, BeautifulSoup, Requests, Scrapy, os, sys
 - **Techniques:** Regression, Classification (Decision Trees, Random Forests), Clustering (K-Means), PCA, A/B Testing
 - **Other:** AWS (RDS, S3, EC2, Lambda, IAM), Azure, Hadoop, Spark, Airflow, Docker, Agile Scrum, Bash/Shell, Git/Github
 
-## Technical Experience
 
+## Technical Experience
 **Finance Department’s Faculty Analysis** \| GitHub \| Garden Grove, CA \| Fall 2024
-- *Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
+
+*Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
@@ -38,4 +36,3 @@ I am looking for a full-time data scientist position where I can leverage my ski
 **Data Science Community’s StackOverflow** \| Course: Web Programming \| Amherst, MA | Fall 2021
 - *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
-

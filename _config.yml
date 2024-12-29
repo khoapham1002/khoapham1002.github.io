@@ -5,25 +5,5 @@ plugins:
 title: Khoa Pham
 logo: /assets/img/My Portrait_small.png
 description: text below image
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
-
-author:
-  name: Khoa Pham
-  email: kdpham1002@gmail.com
-
-# Additional configuration for jekyll-theme-minimal (example)
-colors:
-  primary: '#007bff'
-  accent: '#6c757d'
-
-# Enable or disable features
-show_archives: true
-show_posts_by_year: true
-show_related_posts: true
-
-# Social media links
-social:
-  twitter: khoapham
-  github: khoapham
-  linkedin: khoapham 
