@@ -5,6 +5,8 @@ plugins:
 title: Khoa Pham
 logo: /images/My Portrait.png
 description: All Data Science Projects go here!
+url: https://khoapham.github.io/DS_portfolio/
+url2: https://khoapham.github.io/DS_portfolio/
 # show_downloads: true
 theme: jekyll-theme-minimal
 
