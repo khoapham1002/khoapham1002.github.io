@@ -1,7 +1,7 @@
 # My Portfolio
 
 **Contact Information:**
-> kdpham@umass.edu| 714-858-7494
+> kdpham@umass.edu | 714-858-7494
 
 * [LinkedIn](https://www.linkedin.com/in/kdpham1002/)x
 * [GitHub](https://github.com/kdpham-01002)
