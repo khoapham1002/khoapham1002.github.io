@@ -3,10 +3,10 @@
 
 ## Education
 
-**Master of Science (M.S), Business Analytics (Accelerated 4+1 Program)**
-**Bachelor of Science (B.S), Informatics Data Science | Minor: Statistics | Pre-Med Track**
-
-
+**Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
+- **GPA: 3.97/4.0** | Expected Graduation: Dec 2025
+**Bachelor of Science (B.S), Informatics Data Science** | Minor: Statistics | Pre-Med Track
+- Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
