@@ -5,7 +5,5 @@ plugins:
 title: Khoa Pham
 logo: /images/My Portrait.png
 description: kdpham@umass.edu | 714-858-7494
-url: https://khoapham.github.io/DS_portfolio/
-url2: https://khoapham.github.io/DS_portfolio/
-# show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
