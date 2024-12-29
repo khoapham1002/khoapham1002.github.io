@@ -22,7 +22,8 @@
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
 **Students Mental Health Research Study** \| GitHub \| Garden Grove, CA \| Summer 2024
-- *Technology: SQL (PostgreSQL), Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels, SQLAlchemy), Git/GitHub*
+
+*Technology: SQL (PostgreSQL), Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels, SQLAlchemy), Git/GitHub*
 - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
 - Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it.
 
@@ -34,5 +35,6 @@
 - Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
 
 **Data Science Community’s StackOverflow** \| Course: Web Programming \| Amherst, MA | Fall 2021
-- *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
+
+*Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
