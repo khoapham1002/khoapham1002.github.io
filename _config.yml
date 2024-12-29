@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Khoa Pham
-logo: /assets/img/My Portrait_small.png
-# description: text below image
+logo: /images/My Portrait.png
+description: All Data Science Projects go here!
 # show_downloads: true
 theme: jekyll-theme-minimal
