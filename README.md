@@ -18,7 +18,7 @@
 
 
 ## Technical Experience
-**[Finance Department’s Faculty Analysis]**(https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Finance%20Department%20HR%20Analysis/Isenberg%20Faculty_Dashboards.pdf) \| GitHub \| Garden Grove, CA \| Fall 2024
+**[Finance Department’s Faculty Analysis](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Finance%20Department%20HR%20Analysis/Isenberg%20Faculty_Dashboards.pdf)** \| GitHub \| Garden Grove, CA \| Fall 2024
 
 *Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
