@@ -3,11 +3,11 @@
 I am looking for a full-time data scientist position where I can leverage my skills in data analysis, machine learning, and statistics to solve complex business problems. I have a strong background in data science, machine learning, and statistics, and I am proficient in Python, R, SQL, and Tableau. I have experience working with large datasets, building predictive models, and communicating results to non-technical stakeholders. I am passionate about using data to drive business decisions and I am excited about the opportunity to work on challenging projects that have a real impact.
 
 ## Education
+**University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
 - **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
-    - **GPA: 3.97/4.0** \| Expected Graduation: Dec 2025
+    - **GPA: 3.97/4.0** 
 - **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics | Pre-Med Track
     - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
-
 - **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
 
 ## Technical Skills
@@ -15,9 +15,6 @@ I am looking for a full-time data scientist position where I can leverage my ski
 - **Libraries:** Scikit-learn, SciPy, Statsmodels, Plotly, TensorFlow, PyTorch, PySpark, BeautifulSoup, Requests, Scrapy, os, sys
 - **Techniques:** Regression, Classification (Decision Trees, Random Forests), Clustering (K-Means), PCA, A/B Testing
 - **Other:** AWS (RDS, S3, EC2, Lambda, IAM), Azure, Hadoop, Spark, Airflow, Docker, Agile Scrum, Bash/Shell, Git/Github
-
-Term 1
-: Definition of term 1
 
 ## Work Experience
 
