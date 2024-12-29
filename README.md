@@ -18,13 +18,13 @@
 
 
 ## Technical Experience
-[**Finance Department’s Faculty Analysis**](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Project_Finance%20Department%20HR%20Analysis/Isenberg%20Faculty_Dashboards.pdf) \| GitHub \| Garden Grove, CA \| Fall 2024
+[**Finance Department’s Faculty Analysis**](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Finance%20Department%20HR%20Analysis/Isenberg%20Faculty_Dashboards.pdf) \| GitHub \| Garden Grove, CA \| Fall 2024
 
 *Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
-[**Students Mental Health Research Study**](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Project_Students%20Mental%20Health%20Analysis/students_analysis.ipynb) \| GitHub \| Garden Grove, CA \| Summer 2024
+[**Students Mental Health Research Study**](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Students%20Mental%20Health%20Analysis/students_analysis.ipynb) \| GitHub \| Garden Grove, CA \| Summer 2024
 
 *Technology: SQL (PostgreSQL), Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels, SQLAlchemy), Git/GitHub*
 - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
@@ -37,7 +37,7 @@
 - Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
 - Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
 
-**Data Science Community’s StackOverflow** \| Course: Web Programming \| Amherst, MA \| Fall 2021
+[**Data Science Community’s StackOverflow**](https://github.com/kdpham-01002/DS_portfolio/tree/main/Projects/DSDA%20Interview%20Preparation) \| Course: Web Programming \| Amherst, MA \| Fall 2021
 
 *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
