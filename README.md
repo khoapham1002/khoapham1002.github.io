@@ -3,9 +3,9 @@
 I am looking for a full-time data scientist position where I can leverage my skills in data analysis, machine learning, and statistics to solve complex business problems. I have a strong background in data science, machine learning, and statistics, and I am proficient in Python, R, SQL, and Tableau. I have experience working with large datasets, building predictive models, and communicating results to non-technical stakeholders. I am passionate about using data to drive business decisions and I am excited about the opportunity to work on challenging projects that have a real impact.
 
 ## Education
-
 **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
 - **GPA: 3.97/4.0** \| Expected Graduation: Dec 2025
+
 **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics | Pre-Med Track
 - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
 
@@ -42,7 +42,3 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
-
-
-
-
