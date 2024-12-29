@@ -3,9 +3,9 @@
 **Contact Information:**
 >    714-858-7494 | kdpham@umass.edu
 
-- [LinkedIn](https://www.linkedin.com/in/kdpham1002/)
-- [GitHub](https://github.com/kdpham-01002)
-- [Portfolio](https://kdpham-01002.github.io/DS_portfolio/)
+> [LinkedIn](https://www.linkedin.com/in/kdpham1002/)
+> [GitHub](https://github.com/kdpham-01002)
+> [Portfolio](https://kdpham-01002.github.io/DS_portfolio/)
 
 ## Education
 **University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
