@@ -9,13 +9,3 @@ url: https://khoapham.github.io/DS_portfolio/
 url2: https://khoapham.github.io/DS_portfolio/
 # show_downloads: true
 theme: jekyll-theme-minimal
-
-social_links:
-  - name: GitHub
-    url: https://github.com/yourusername
-  - name: LinkedIn
-    url: https://www.linkedin.com/in/yourusername/
-  - name: Tableau
-    url: https://public.tableau.com/profile/yourusername
-  - name: Twitter
-    url: https://twitter.com/yourusername
