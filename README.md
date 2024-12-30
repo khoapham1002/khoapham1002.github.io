@@ -3,8 +3,8 @@
 **Contact Information:**
 714-858-7494 | kdpham@umass.edu
 * [LinkedIn](https://www.linkedin.com/in/kdpham1002/)
-* [GitHub](https://github.com/kdpham-01002)
-* [Portfolio](https://kdpham-01002.github.io/DS_portfolio/)
+* [GitHub](https://github.com/kdpham-01002?tab=repositories)
+* [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing)
 
 ## Education
 **University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
@@ -23,13 +23,13 @@
 
 
 ## Technical Experience
-**[Finance Department’s Faculty Analysis](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Finance%20Department%20HR%20Analysis/Isenberg%20Faculty_Dashboards.pdf)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
+**[Finance Department’s New Hire Request](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
 
 *Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
-**[Students Mental Health Research Study](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Students%20Mental%20Health%20Research%20Study/students_analysis.ipynb)** \| Garden Grove, CA \| Summer 2024
+**[Unviersity Mental Health Research Study](https://github.com/kdpham-01002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Summer 2024
 
 *Technology: SQL (PostgreSQL), Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels, SQLAlchemy), Git/GitHub*
 - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
@@ -42,7 +42,7 @@
 - Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
 - Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
 
-**[Data Science Community’s StackOverflow](https://github.com/kdpham-01002/DS_portfolio/tree/main/Projects/DSDA%20Interview%20Preparation)** \| Course: Web Programming \| Amherst, MA \| Fall 2021
+**[Data Science Interview Preps Platform](https://github.com/kdpham-01002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| Fall 2021
 
 *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
