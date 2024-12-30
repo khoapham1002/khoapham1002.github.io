@@ -29,7 +29,7 @@
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
-**[Students Mental Health Research Study](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Students%20Mental%20Health%20Analysis/students_analysis.ipynb)** \| Garden Grove, CA \| Summer 2024
+**[Students Mental Health Research Study](https://github.com/kdpham-01002/DS_portfolio/blob/main/Projects/Students%20Mental%20Health%20Research%20Study/students_analysis.ipynb)** \| Garden Grove, CA \| Summer 2024
 
 *Technology: SQL (PostgreSQL), Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels, SQLAlchemy), Git/GitHub*
 - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
