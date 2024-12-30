@@ -1,7 +1,7 @@
 # My Portfolio
 
-<details>
-  <summary><span style="font-size: 1.5em; font-weight: bold; color: black">Table of Contents</span></summary>
+<details open>
+  <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
   <ul>
     <li><a href="#contact--links">Contact & Links</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
