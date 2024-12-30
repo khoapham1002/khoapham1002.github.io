@@ -57,3 +57,19 @@
 
 **[Logistic Manager](https://www.instagram.com/humansofcics/)** \| Humans of CICS \| Amherst, MA \| Spring 2020
 - Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
+
+
+<details>
+  <summary><strong>What is a linked list?</strong></summary>
+  A linked list is a linear data structure where each element is a separate object called a node. Each node contains data and a reference (or a pointer) to the next node in the sequence.
+</details>
+
+<details>
+  <summary><strong>Explain polymorphism in Object-Oriented Programming</strong></summary>
+  Polymorphism is a principle in OOP that allows objects to be treated as instances of their parent class rather than their actual class. It enables a single interface to represent different types of objects, typically achieved through method overriding or method overloading.
+</details>
+
+<details>
+  <summary><strong>What is the difference between HTTP and HTTPS?</strong></summary>
+  HTTP (Hypertext Transfer Protocol) is the basic protocol for transmitting data over the web. HTTPS (HTTP Secure) is a secure version of HTTP, which uses SSL/TLS encryption to ensure data privacy and integrity during transmission.
+</details>
