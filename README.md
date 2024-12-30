@@ -60,6 +60,7 @@
 **[Logistic Manager](https://www.instagram.com/humansofcics/)** \| Humans of CICS \| Amherst, MA \| Spring 2020
 - Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
 
+
 ## Education
 **University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
 - **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
