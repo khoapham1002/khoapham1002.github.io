@@ -10,7 +10,7 @@
 
 ## Contact & Links
 
-> [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494 | kdpham1002@gmail.com (Personal)
+> [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494 | kdpham@umass.edu
 
 > [GitHub](https://github.com/kdpham-01002?tab=repositories) | [Kaggle](https://www.kaggle.com/teenee3051) | [Tableau Public](https://public.tableau.com/app/profile/kdpham.umass/vizzes)
 
