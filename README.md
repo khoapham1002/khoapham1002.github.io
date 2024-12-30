@@ -8,8 +8,8 @@
 - [Leadership Experience](#leadership-experience)
 
 ## Contact & Links
-714-858-7494 | kdpham@umass.edu
-* [LinkedIn](https://www.linkedin.com/in/kdpham1002/)
+> 714-858-7494 | kdpham@umass.edu | [LinkedIn](https://www.linkedin.com/in/kdpham1002/)
+
 * [GitHub](https://github.com/kdpham-01002?tab=repositories)
 * [Tableau Public](https://public.tableau.com/app/profile/kdpham.umass/vizzes)
 * [Website](https://kdpham-01002.github.io/DS_portfolio/)
