@@ -2,26 +2,19 @@
 
 ## Table of Contents
 - [Contact & Links](#contact--links)
-- [Education](#education)
 - [Technical Skills](#technical-skills)
 - [Technical Experience](#technical-experience)
 - [Leadership Experience](#leadership-experience)
+- [Education](#education)
+- [Interests](#interests)
 
 ## Contact & Links
 
-> [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494 | kdpham@umass.edu
+> [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494 | kdpham1002@gmail.com (Personal)
 
 > [GitHub](https://github.com/kdpham-01002?tab=repositories) | [Kaggle](https://www.kaggle.com/teenee3051) | [Tableau Public](https://public.tableau.com/app/profile/kdpham.umass/vizzes)
 
 > [Website](https://kdpham-01002.github.io/DS_portfolio/) | [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing)
-
-## Education
-**University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
-- **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
-    - **GPA: 3.97/4.0**
-- **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
-    - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
-- **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
 
 
 ## Technical Skills
@@ -66,3 +59,16 @@
 
 **[Logistic Manager](https://www.instagram.com/humansofcics/)** \| Humans of CICS \| Amherst, MA \| Spring 2020
 - Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
+
+## Education
+**University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
+- **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
+    - **GPA: 3.97/4.0**
+- **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
+    - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
+- **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
+
+
+## Interests
+- **Photography**: I capture dance movements! Check out my [VSCO](https://vsco.co/teenee3051/gallery)!
+- **Dance**: Come dance with me at [@MDCDANCE](https://www.instagram.com/mdcdance/profilecard/?igsh=NTc4MTIwNjQ2YQ==)!
