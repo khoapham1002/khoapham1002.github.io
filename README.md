@@ -1,12 +1,16 @@
 # My Portfolio
 
-## Table of Contents
-- [Contact & Links](#contact--links)
-- [Technical Skills](#technical-skills)
-- [Technical Experience](#technical-experience)
-- [Leadership Experience](#leadership-experience)
-- [Education](#education)
-- [Interests](#interests)
+<details>
+  <summary><span style="font-size: 1.5em; font-weight: bold;">Table of Contents</span></summary>
+  <ul>
+    <li><a href="#contact--links">Contact & Links</a></li>
+    <li><a href="#technical-skills">Technical Skills</a></li>
+    <li><a href="#technical-experience">Technical Experience</a></li>
+    <li><a href="#leadership-experience">Leadership Experience</a></li>
+    <li><a href="#education">Education</a></li>
+    <li><a href="#interests">Interests</a></li>
+  </ul>
+</details>
 
 ## Contact & Links
 
