@@ -181,7 +181,8 @@ ul.downloads {
 }
 
 .downloads a:hover strong {
-  color: #4d96e9; /* Change the color of the "GitHub" inside <strong> to blue */
+  color: #4d96e9;
+  font-weight: 900;
 }
 
 .downloads ul a:active {
