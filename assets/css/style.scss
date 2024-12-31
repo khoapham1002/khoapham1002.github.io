@@ -1,4 +1,9 @@
 ---
 ---
 
-@import "jekyll-theme-minimal";
+@import "{{jekyll-theme-minimal}}";
+
+/* Custom CSS */
+body {
+    background-color: whitesmoke;
+}
