@@ -27,8 +27,8 @@
 [github]: https://github.com/kdpham-01002?tab=repositories
 [tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
 [website]: https://kdpham-01002.github.io/DS_portfolio/
-[resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing
-
+[resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing
+<!-- [old resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=share_link -->
 
 <!-- [Kaggle](kaggle) -->
 <!-- [kaggle]: https://www.kaggle.com/teenee3051 -->
