@@ -153,7 +153,12 @@ ul.downloads {
   margin: 0; /* Remove unnecessary margins */
 }
 
-
+.made-by {
+  text-align: center; /* Center the "Made by" text */
+  margin-top: 5px; /* Optional: Adjust spacing as needed */
+  font-size: 14px; /* Optional: Adjust the font size */
+  color: #f4f4f4; /* Optional: Add a subtle color */
+}
 // .downloads li:first-child a {
 //   border-radius:5px 0 0 5px;
 // }
@@ -176,7 +181,7 @@ ul.downloads {
 
 
 .downloads a:hover {
-  background-color: #b7b5b5; /* Add hover effect */
+  background-color: #bcbbbb; /* Add hover effect */
   color: #4d96e9; /* Slightly darker text on hover */
 }
 
@@ -235,7 +240,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:fixed;
+    position:static;
     width:auto;
   }
 
