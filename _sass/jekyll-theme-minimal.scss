@@ -2,7 +2,7 @@
 @import "rouge-github";
 
 body {
-  background-color: #121212 ;
+  background-color: #212020 ;
   // background-color: #d2cab7;
   padding:10px;
   font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -30,11 +30,11 @@ h1 {
 }
 
 h2 {
-  color:#272727;
+  color:#f4f1eb;
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#f4f1eb;
 }
 
 a {
@@ -51,13 +51,14 @@ a:hover, a:focus {
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#f4f1eb;
+  // color:#777;
   margin-top:-0.3em;
   display:block;
 }
 
 a:hover small {
-  color:#777;
+  color:#f4f1eb;
 }
 
 .wrapper {
