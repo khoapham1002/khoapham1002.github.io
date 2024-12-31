@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Khoa Pham
-logo: /images/My Portrait.png
+logo: /assets/My Portrait.png
 description: kdpham1002@gmail.com (Personal)
 show_downloads: true
 theme: jekyll-theme-minimal
