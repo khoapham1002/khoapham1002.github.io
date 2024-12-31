@@ -15,21 +15,25 @@
 [Link to another page](./another-page.html).
 
 ## Contact & Links
-<!-- |              |              |              | -->
-<!-- |:-------------|:-------------|:-------------| -->
-| [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494 | kdpham@umass.edu |
-
-| [GitHub](https://github.com/kdpham-01002?tab=repositories) | [Tableau](https://public.tableau.com/app/profile/kdpham.umass/vizzes) | |
-| [Website](https://kdpham-01002.github.io/DS_portfolio/) | [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing) | |
-
-|              |              |              |
+|              |              |               |
 |:-------------|:-------------|:-------------|
+| [LinkedIn](linkedin) | 714-858-7494       | kdpham@umass.edu |
+| [GitHub](github)     | [Tableau](tableau) |                  |
+| [Website](website)   | [Resume](resume)   |                  |
+
+[linkedin]: https://www.linkedin.com/in/kdpham1002/
+[github]: https://github.com/kdpham-01002?tab=repositories
+[tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
+[website]: https://kdpham-01002.github.io/DS_portfolio/
+[resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing
+<!-- [Kaggle](kaggle) -->
+<!-- [kaggle]: https://www.kaggle.com/teenee3051 -->
+
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-<!-- [Kaggle](https://www.kaggle.com/teenee3051) -->
 
 
 ## Technical Skills
