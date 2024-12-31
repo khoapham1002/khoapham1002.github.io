@@ -7,6 +7,10 @@ logo: /assets/img/My Portrait.jpg
 description:
   - kdpham1002@gmail.com (Personal)
   - Los Angeles, CA
-  - I am a dedicated data scientist with a strong foundation in business analytics and informatics from the University of Massachusetts, Amherst. Proficient in Python, SQL, R, and Tableau, I have applied my skills to real-world projects in finance, mental health research, and web programming. My professional experience includes roles as a Data Assistant and Research Assistant, where I honed my data analysis and communication skills. I am passionate about leveraging data to drive insights and support decision-making processes, and I am eager to contribute to impactful projects within a dynamic team.
+  -
+  - I am a Masters student with Data Science and Business Analyst major
+  - Skilled in Python, SQL, R, and Tableau, I have experience in finance, mental health research, and web programming projects.
+  - My roles as a Data Assistant and Research Assistant have refined my data analysis and communication skills.
+  - I am passionate about using data to drive insights and support decision-making.
 # show_downloads: true
 theme: jekyll-theme-minimal
