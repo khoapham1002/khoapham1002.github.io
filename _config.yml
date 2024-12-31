@@ -5,5 +5,5 @@ plugins:
 title: Khoa Pham
 logo: /assets/My Portrait.png
 description: kdpham1002@gmail.com (Personal)
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
