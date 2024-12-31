@@ -166,9 +166,9 @@ ul.downloads {
   display: inline-block; /* Allow centering of text inside the button */
   text-align: center; /* Ensure text inside is centered */
   padding: 10px 20px; /* Adjust padding for size */
-  background: #e6e0d3; /* Button background color */
+  background: whitesmoke; /* Button background color */
   border-radius: 5px; /* Apply consistent rounded corners */
-  border: 1px solid #e0e0e0; /* Subtle border */
+  border: 1px solid #d2d2d2; /* Subtle border */
   font-size: 14px; /* Adjust font size */
   font-weight: bold; /* Make text bold */
   color: #292828; /* Text color */
@@ -176,18 +176,18 @@ ul.downloads {
 
 
 .downloads a:hover {
-  background-color: #dbdbdb; /* Add hover effect */
+  background-color: #b0cde6; /* Add hover effect */
   color: #59a2f7; /* Slightly darker text on hover */
 }
 
 .downloads a:hover strong {
-  color: #005bc4;
+  color: #59a2f7;
   font-weight: 900;
 }
 
-.downloads ul a:active {
-  background-color:#c4c3c3;
-}
+// .downloads ul a:active {
+//   background-color:#6eafe4;
+// }
 
 strong {
   color: white;
