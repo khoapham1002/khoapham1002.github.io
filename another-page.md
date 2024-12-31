@@ -38,7 +38,7 @@ layout: default
 **Data Science Program’s Mentor** \| CICS Informatics Department \| Amherst, MA | Sep 2021 – May 2022
 - Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department.
 
-**Teaching Assistant** \| Five College Language Program \| Amherst, MA | Sep 2021 – May 2022
+**Teaching Assistant** \| Five College Language Program \| Amherst, MA | Sep 2021 – Jan 2022
 - Conduct weekly lessons to improve students’ language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
 **Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) \| Orange County, CA \| Amherst, MA | July - Nov 2024
