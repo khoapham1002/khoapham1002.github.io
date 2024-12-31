@@ -9,13 +9,14 @@
     <li><a href="./another-page.html">My Experiences</a></li>
     <!-- <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
-    <li><a href="#interests">Interests</a></li> -->
+    <li><a href="#interests">Interests</a></li>
+    <li><a href="./another-page.html#page-two">Page Two</a></li> -->
+
   </ul>
 </details>
 
 
 ## Contact & Links
-
 |                      |                    |                  |
 |:--------------------:|:------------------:|:----------------:|
 | [LinkedIn](linkedin) | 714-858-7494       | kdpham@umass.edu |
