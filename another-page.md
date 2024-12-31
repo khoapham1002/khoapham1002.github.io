@@ -35,13 +35,13 @@ layout: default
 - Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
 - Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
 
-**Data Science Program’s Mentor** \| CICS Informatics Department \|Amherst, MA \| Fall 2021
+**Data Science Program’s Mentor** \| CICS Informatics Department \| Amherst, MA | Sep 2021 – May 2022
 - Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department.
 
-**Teaching Assistant** \| Five College Language Program \| Amherst, MA \| Fall 2021
+**Teaching Assistant** \| Five College Language Program \| Amherst, MA | Sep 2021 – May 2022
 - Conduct weekly lessons to improve students’ language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
-**Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) \| Orange County, CA \| Summer 2024
+**Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) \| Orange County, CA \| Amherst, MA | July - Nov 2024
 - Filmed, edited, and managed video database for dance classes, implementing efficient categorization to enhance digital workflows.
 - Analyzed social media performance, delivering weekly insights and recommendations that drove increased audience engagements and social media growth.
 
