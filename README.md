@@ -56,7 +56,7 @@
 - Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it.
 
 **[States Economic Dynamics](https://github.com/kdpham-01002/State-Economic-Dynamics-Analysis)** \| Amherst, MA \| Spring 2024
-State Economic Dynamics and Living Standards Analysis
+
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
 - Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates).
 
