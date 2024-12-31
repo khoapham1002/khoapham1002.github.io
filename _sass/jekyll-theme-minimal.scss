@@ -139,14 +139,17 @@ header {
 
 ul.downloads {
   list-style: none; /* Remove bullet points */
-  padding: 0; /* Remove padding around the container */
-  margin: 20px auto; /* Center the container horizontally */
+  padding: 0; /* Remove padding */
+  margin: 20px auto; /* Center horizontally */
   text-align: center; /* Center the content inside */
-  width: auto; /* Let the container size itself based on content */
+  width: auto; /* Adjust width based on content */
+  background: none; /* No background for parent container */
+  border-radius: 0; /* Remove rounding */
 }
 
+
 .downloads li {
-  display: inline-block; /* Align the button inline and center it */
+  display: inline-block; /* Align the button inline */
   margin: 0; /* Remove unnecessary margins */
 }
 
@@ -161,21 +164,20 @@ ul.downloads {
 
 .downloads a {
   display: inline-block; /* Allow centering of text inside the button */
-  text-align: center; /* Ensure text inside the button is centered */
-  padding: 10px 20px; /* Add some space inside the button */
+  text-align: center; /* Ensure text inside is centered */
+  padding: 10px 20px; /* Adjust padding for size */
   background: #f4f4f4; /* Button background color */
-  border-radius: 5px; /* Rounded corners for the button */
+  border-radius: 5px; /* Apply consistent rounded corners */
   border: 1px solid #e0e0e0; /* Subtle border */
-  font-size: 14px; /* Adjust font size for better visibility */
+  font-size: 14px; /* Adjust font size */
   font-weight: bold; /* Make text bold */
   color: #676767; /* Text color */
 }
 
-.downloads a:hover,
-.downloads a:focus {
-  background-color: #eaeaea; /* Slightly lighter background on hover or focus */
-  color: #444; /* Darker text color */
-  font-weight: bold; /* Keep text bold */
+
+.downloads a:hover {
+  background-color: #eaeaea; /* Add hover effect */
+  color: #444; /* Slightly darker text on hover */
 }
 
 .downloads ul a:active {
