@@ -18,11 +18,11 @@
 
 
 ## Contact & Links
-<!-- |                      |                    |                  | -->
-| [LinkedIn](linkedin) | 714-858-7494       | kdpham@umass.edu |
+
+| [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494       | kdpham@umass.edu |
 |:--------------------:|:------------------:|:----------------:|
-| [GitHub](github)     | [Tableau](tableau) |                  |
-| [Website](website)   | [Resume](resume)   |                  |
+| [GitHub](https://www.linkedin.com/in/kdpham1002/)     | [Tableau](https://github.com/kdpham-01002?tab=repositories) |                  |
+| [Website](https://kdpham-01002.github.io/DS_portfolio/)   | [Resume](https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing)   |                  |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [github]: https://github.com/kdpham-01002?tab=repositories
