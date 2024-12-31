@@ -20,9 +20,13 @@
 | [GitHub](https://github.com/kdpham-01002?tab=repositories) | [Tableau](https://public.tableau.com/app/profile/kdpham.umass/vizzes) |  |
 | [Website](https://kdpham-01002.github.io/DS_portfolio/) | [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing) |
 
+|:-------------|:-------------|:-------------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
 
 <!-- [Kaggle](https://www.kaggle.com/teenee3051) -->
-
 
 
 ## Technical Skills
@@ -52,7 +56,6 @@
 
 
 ## Professional Experience
-
 **Data Assistant** \| Center for Teaching and Learning \| Amherst, MA \| Fall 2023
 - Cleaned and managed survey data from daily batch updates, ensuring readiness for analysis on workshops participation data. Coordinated evaluation processes for the Distinguished Teaching Awards, supporting the recognition of over 200 professors and lecturers.
 
