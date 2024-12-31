@@ -83,5 +83,4 @@
 - **Photography**: I capture dance movements! Check out my photos [@teenee_archives](https://vsco.co/teenee3051/gallery)!
 - **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/?igsh=NTc4MTIwNjQ2YQ%3D%3D)!
 
-
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.md).
