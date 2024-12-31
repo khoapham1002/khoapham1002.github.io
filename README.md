@@ -12,7 +12,6 @@
   </ul>
 </details>
 
-[Link to another page](./another-page.html).
 
 ## Contact & Links
 |              |              |               |
@@ -60,6 +59,9 @@
 
 *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
+
+
+[Link to another page](./another-page.html).
 
 
 ## Professional Experience
