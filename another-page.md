@@ -1,127 +1,51 @@
 ---
 layout: default
 ---
+# My Experiences
 
-## Page two
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-<!-- [Link to another page](./another-page.html). -->
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------:|:------------------:|:------:|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+<details open>
+  <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
+  <ul>
+    <!-- <li><a href="#contact--links">Contact & Links</a></li>
+    <li><a href="#technical-skills">Technical Skills</a></li>
+    <li><a href="#portfolio-projects">Portfolio Projects</a></li> -->
+    <li><a href="#education">Education</a></li>
+    <li><a href="#professional-experience">Professional Experience</a></li>
+    <li><a href="#interests">Interests</a></li>
+    <!-- <li><a href="./another-page.html#page-two">Page Two</a></li> -->
+  </ul>
+</details>
 
 
-### Definition lists can be used with HTML syntax.
+## Education
+**University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
+- **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
+    - **GPA:** 3.97/4.0
+- **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
+    - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
+- **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+## Professional Experience
+**Data Assistant** \| Center for Teaching and Learning \| Amherst, MA \| Fall 2023
+- Cleaned and managed survey data from daily batch updates, ensuring readiness for analysis on workshops participation data. Coordinated evaluation processes for the Distinguished Teaching Awards, supporting the recognition of over 200 professors and lecturers.
 
-```
-The final element.
-```
+**Research Assistant** \| Biomedical Informatics NLP Processing Laboratory \| Amherst, MA \| Spring 2022
+- Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
+- Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
+
+**Data Science Program’s Mentor** \| CICS Informatics Department \|Amherst, MA \| Fall 2021
+- Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department.
+
+**Teaching Assistant** \| Five College Language Program \| Amherst, MA \| Fall 2021
+- Conduct weekly lessons to improve students’ language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
+
+**[Logistic Manager](https://www.instagram.com/humansofcics/)** \| Humans of CICS \| Amherst, MA \| Spring 2020
+- Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
+
+
+## Interests
+- **Photography**: I capture dance movements! Check out my photos [@teenee_archives](https://vsco.co/teenee3051/gallery)!
+- **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/?igsh=NTc4MTIwNjQ2YQ%3D%3D)!
 
 [back](./)

@@ -6,16 +6,13 @@
     <li><a href="#contact--links">Contact & Links</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
-    <li><a href="#professional-experience">Professional Experience</a></li>
+    <li><a href="./another-page.html">My Experiences</a></li>
+    <!-- <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
-    <li><a href="#interests">Interests</a></li>
-    <li><a href="./another-page.html#page-two">Page Two</a></li>
+    <li><a href="#interests">Interests</a></li> -->
   </ul>
 </details>
 
-
-## About Me
-I am a data scientist with a strong background in business analytics and informatics from UMass Amherst. Skilled in Python, SQL, R, and Tableau, I have experience in finance, mental health research, and web programming projects. My roles as a Data Assistant and Research Assistant have refined my data analysis and communication skills. I am passionate about using data to drive insights and support decision-making.
 
 ## Contact & Links
 
@@ -63,36 +60,4 @@ I am a data scientist with a strong background in business analytics and informa
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
 
 
-[Link to another page](./another-page.html).
-
-
-## Professional Experience
-**Data Assistant** \| Center for Teaching and Learning \| Amherst, MA \| Fall 2023
-- Cleaned and managed survey data from daily batch updates, ensuring readiness for analysis on workshops participation data. Coordinated evaluation processes for the Distinguished Teaching Awards, supporting the recognition of over 200 professors and lecturers.
-
-**Research Assistant** \| Biomedical Informatics NLP Processing Laboratory \| Amherst, MA \| Spring 2022
-- Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
-- Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
-
-**Data Science Program’s Mentor** \| CICS Informatics Department \|Amherst, MA \| Fall 2021
-- Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department.
-
-**Teaching Assistant** \| Five College Language Program \| Amherst, MA \| Fall 2021
-- Conduct weekly lessons to improve students’ language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
-
-**[Logistic Manager](https://www.instagram.com/humansofcics/)** \| Humans of CICS \| Amherst, MA \| Spring 2020
-- Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
-
-
-## Education
-**University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
-- **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
-    - **GPA:** 3.97/4.0
-- **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
-    - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
-- **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
-
-
-## Interests
-- **Photography**: I capture dance movements! Check out my photos [@teenee_archives](https://vsco.co/teenee3051/gallery)!
-- **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/?igsh=NTc4MTIwNjQ2YQ%3D%3D)!
+[Go to My Experiences](./another-page.html).
