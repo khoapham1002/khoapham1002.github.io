@@ -17,9 +17,11 @@
 ## Contact & Links
 
 | [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494 | kdpham@umass.edu |
-|:-------------|:------------------|:------|
+<!-- |:-------------|:------------------|:------| -->
+
 | [GitHub](https://github.com/kdpham-01002?tab=repositories) | [Tableau](https://public.tableau.com/app/profile/kdpham.umass/vizzes) |  |
-| [Website](https://kdpham-01002.github.io/DS_portfolio/) | [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing) |   |
+
+| [Website](https://kdpham-01002.github.io/DS_portfolio/) | [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing) |
 
 
 <!-- [Kaggle](https://www.kaggle.com/teenee3051) -->
