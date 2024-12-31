@@ -176,7 +176,7 @@ ul.downloads {
 
 
 .downloads a:hover {
-  background-color: #a7a4a4; /* Add hover effect */
+  background-color: #b7b5b5; /* Add hover effect */
   color: #4d96e9; /* Slightly darker text on hover */
 }
 
@@ -235,7 +235,7 @@ footer {
 
   header, section, footer {
     float:none;
-    position:static;
+    position:fixed;
     width:auto;
   }
 
