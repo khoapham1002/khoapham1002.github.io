@@ -9,6 +9,7 @@
     <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#interests">Interests</a></li>
+    <li><a href="#page-two">Page Two</a></li>
   </ul>
 </details>
 
