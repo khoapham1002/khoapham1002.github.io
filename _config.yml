@@ -5,8 +5,8 @@ plugins:
 title: Khoa Pham
 logo: /assets/My Portrait.png
 description:
-- kdpham1002@gmail.com (Personal)
-- j
+  - kdpham1002@gmail.com (Personal)
+  - 714-858-7494 (Phone Number)
 
 # show_downloads: true
 theme: jekyll-theme-minimal
