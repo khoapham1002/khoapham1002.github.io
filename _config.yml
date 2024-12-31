@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 
 title: Khoa Pham
-logo: /assets/My Portrait.png
+logo: /assets/img/My Portrait.jpg
 description:
   - kdpham1002@gmail.com (Personal)
   - Los Angeles, CA
