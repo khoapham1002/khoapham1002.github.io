@@ -18,11 +18,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/kdpham1002/) | 714-858-7494 | kdpham@umass.edu
 
-[GitHub](https://github.com/kdpham-01002?tab=repositories) | [Tableau Public](https://public.tableau.com/app/profile/kdpham.umass/vizzes)
+> [GitHub](https://github.com/kdpham-01002?tab=repositories) | [Tableau Public](https://public.tableau.com/app/profile/kdpham.umass/vizzes)
 
 <!-- | [Kaggle](https://www.kaggle.com/teenee3051)  -->
 
-[Website](https://kdpham-01002.github.io/DS_portfolio/) | [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing)
+> [Website](https://kdpham-01002.github.io/DS_portfolio/) | [Resume](https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=sharing)
 
 
 ## Technical Skills
@@ -32,7 +32,7 @@
 - **Other:** AWS (RDS, S3, EC2, Lambda, IAM), Azure, Hadoop, Spark, Airflow, Docker, Agile Scrum, Bash/Shell, Git/Github
 
 
-## Professional Experience
+## Portfolio Projects
 **[Finance Department’s New Hire Request](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
 
 *Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
