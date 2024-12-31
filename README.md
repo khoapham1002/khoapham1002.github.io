@@ -9,15 +9,18 @@
     <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#interests">Interests</a></li>
-    <li><a href="#page-two">Page Two</a></li>
+    <li><a href="./another-page.html#page-two">Page Two</a></li>
   </ul>
 </details>
 
 
+## About Me
+I am a dedicated data scientist with a strong foundation in business analytics and informatics from the University of Massachusetts, Amherst. Proficient in Python, SQL, R, and Tableau, I have applied my skills to real-world projects in finance, mental health research, and web programming. My professional experience includes roles as a Data Assistant and Research Assistant, where I honed my data analysis and communication skills. I am passionate about leveraging data to drive insights and support decision-making processes, and I am eager to contribute to impactful projects within a dynamic team.
+
 ## Contact & Links
 
-|              |              |              |
-|:-------------|:-------------|:-------------|
+|                      |                    |                  |
+|:--------------------:|:------------------:|:----------------:|
 | [LinkedIn](linkedin) | 714-858-7494       | kdpham@umass.edu |
 | [GitHub](github)     | [Tableau](tableau) |                  |
 | [Website](website)   | [Resume](resume)   |                  |
