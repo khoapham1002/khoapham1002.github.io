@@ -153,12 +153,7 @@ ul.downloads {
   margin: 0; /* Remove unnecessary margins */
 }
 
-.made-by {
-  text-align: center; /* Center the "Made by" text */
-  margin-top: 5px; /* Optional: Adjust spacing as needed */
-  font-size: 14px; /* Optional: Adjust the font size */
-  color: #f4f4f4; /* Optional: Add a subtle color */
-}
+
 // .downloads li:first-child a {
 //   border-radius:5px 0 0 5px;
 // }
@@ -181,8 +176,12 @@ ul.downloads {
 
 
 .downloads a:hover {
-  background-color: #bcbbbb; /* Add hover effect */
+  background-color: #cfcfcf; /* Add hover effect */
   color: #4d96e9; /* Slightly darker text on hover */
+}
+
+.downloads a:hover strong {
+  color: #4d96e9; /* Change the color of the "GitHub" inside <strong> to blue */
 }
 
 .downloads ul a:active {
@@ -203,6 +202,19 @@ strong {
   font-size:14px;
   display:block;
   color:#222;
+}
+
+
+.downloads {
+  text-align: center; /* Center the button */
+  margin-bottom: 10px; /* Add spacing between button and "Made by" */
+}
+
+.made-by {
+  text-align: center; /* Center the "Made by" text */
+  margin-top: 5px; /* Optional: Adjust spacing as needed */
+  font-size: 14px; /* Optional: Adjust the font size */
+  color: #f0f0f0; /* Optional: Add a subtle color */
 }
 
 section {
