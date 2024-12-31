@@ -138,22 +138,24 @@ header {
 }
 
 ul.downloads {
-  list-style:none;
-  height:40px;
-  padding:0;
+  list-style: none;
+  height: auto; /* Adjust height for dynamic content */
+  padding: 10px; /* Add spacing around the button */
   background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:270px;
+  border-radius: 5px;
+  border: 1px solid #e0e0e0;
+  width: auto; /* Let the content dictate width */
+  margin: 0 auto; /* Center the entire container */
+  text-align: center; /* Center-align its content */
 }
 
 .downloads li {
-  width:89px;
-  float:none;
-  // float:left;
-  border-right:1px solid #e0e0e0;
-  height:40px;
+  display: inline-block; /* Align button inline and center */
+  width: auto; /* Allow button to size based on its content */
+  border-right: none; /* Remove the right border since there are no adjacent items */
+  height: auto; /* Adjust height for dynamic content */
 }
+
 
 .downloads li:first-child a {
   border-radius:5px 0 0 5px;
@@ -164,18 +166,21 @@ ul.downloads {
 }
 
 .downloads a {
-  line-height:1;
-  font-size:11px;
-  color:#676767;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
+  line-height: 1;
+  font-size: 11px;
+  color: #676767;
+  display: inline-block; /* Center the button text */
+  text-align: center;
+  padding: 10px 20px; /* Add spacing inside the button */
+  height: auto; /* Let the content determine height */
+  background: #ffffff; /* Optional: Ensure contrast with background */
+  border-radius: 5px; /* Smooth corners */
 }
 
 .downloads a:hover, .downloads a:focus {
-  color:#675C5C;
-  font-weight:bold;
+  color: #675c5c;
+  font-weight: bold;
+  background-color: #f0f0f0; /* Add hover effect */
 }
 
 .downloads ul a:active {
@@ -184,8 +189,7 @@ ul.downloads {
 
 strong {
   color: white;
-  // color: #222;
-  font-weight:700;
+  font-weight: 700;
 }
 
 .downloads li + li + li {
