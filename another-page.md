@@ -41,6 +41,10 @@ layout: default
 **Teaching Assistant** \| Five College Language Program \| Amherst, MA \| Fall 2021
 - Conduct weekly lessons to improve students’ language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
+**Digital Media Manager** \| Millennium Dance Complex \| Orange County, CA \| Summer 2024
+- Filmed, edited, and managed a comprehensive video database for dance classes, implementing efficient categorization and retrieval systems to enhance digital content workflows.
+- Analyzed social media performance and audience engagement metrics, delivering weekly reports to senior management with that boosted followers engagement and social media growth.
+
 **[Logistic Manager](https://www.instagram.com/humansofcics/)** \| Humans of CICS \| Amherst, MA \| Spring 2020
 - Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
 
