@@ -7,7 +7,6 @@
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
     <li><a href="./another-page.html">My Experiences</a></li>
-    <li><a href="./another-page.html">Page Two</a></li>
     <!-- <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#interests">Interests</a></li>
