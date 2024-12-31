@@ -19,7 +19,7 @@ layout: default
 
 
 ## Education
-**University of Massachusetts, Amherst** | Expected Graduation: Dec 2025
+**University of Massachusetts, Amherst** | Expected: Dec 2025
 - **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
     - **GPA:** 3.97/4.0
 - **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
