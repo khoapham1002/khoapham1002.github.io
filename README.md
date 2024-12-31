@@ -7,6 +7,7 @@
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
     <li><a href="./another-page.html">My Experiences</a></li>
+    <li><a href="./another-page.html">Page Two</a></li>
     <!-- <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#interests">Interests</a></li>
@@ -17,9 +18,10 @@
 
 
 ## Contact & Links
-|                      |                    |                  |
-|:--------------------:|:------------------:|:----------------:|
+
+<!-- |                      |                    |                  | -->
 | [LinkedIn](linkedin) | 714-858-7494       | kdpham@umass.edu |
+|:--------------------:|:------------------:|:----------------:|
 | [GitHub](github)     | [Tableau](tableau) |                  |
 | [Website](website)   | [Resume](resume)   |                  |
 
@@ -61,4 +63,4 @@
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
 
 
-[Go to My Experiences](./another-page.html).
+[Go to My Experiences](./another-page.html)
