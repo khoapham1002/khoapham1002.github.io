@@ -41,9 +41,9 @@ layout: default
 **Teaching Assistant** \| Five College Language Program \| Amherst, MA \| Fall 2021
 - Conduct weekly lessons to improve students’ language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
-**Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/?igsh=NTc4MTIwNjQ2YQ%3D%3D) \| Orange County, CA \| Summer 2024
-- Filmed, edited, and managed a comprehensive video database for dance classes, implementing efficient categorization and retrieval systems to enhance digital content workflows.
-- Analyzed social media performance and audience engagement metrics, delivering weekly reports to senior management with that boosted followers engagement and social media growth.
+**Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) \| Orange County, CA \| Summer 2024
+- Filmed, edited, and managed video database for dance classes, implementing efficient categorization to enhance digital workflows.
+- Analyzed social media performance, delivering weekly insights and recommendations that drove increased audience engagements and social media growth.
 
 **Logistic Manager** \| [Humans of CICS](https://www.instagram.com/humansofcics/) \| Amherst, MA \| Spring 2020
 - Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
@@ -51,6 +51,6 @@ layout: default
 
 ## Interests
 - **Photography**: I capture dance movements! Check out my photos [@teenee_archives](https://vsco.co/teenee3051/gallery)!
-- **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/?igsh=NTc4MTIwNjQ2YQ%3D%3D)!
+- **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/)!
 
 #### [Back to My Portfolio](./)
