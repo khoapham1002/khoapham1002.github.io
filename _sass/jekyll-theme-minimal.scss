@@ -11,33 +11,25 @@ body {
   // color:black;
   font-weight:500;
 }
-
+/* General heading styles */
 h1, h2, h3, h4, h5, h6 {
-  color:beige;
-  // color:black;
-  margin:0 0 20px;
+  color: white; /* Applies to all headings */
+  margin: 0 0 20px; /* Consistent margin */
 }
 
-p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
-}
-
-h1, h2, h3 {
-  color:white;
-  line-height:1.1;
-}
-
+/* Specific styles for headings */
 h1 {
-  color:white;
-  font-size:28px;
+  font-size: 28px;
+  line-height: 1.1;
 }
 
-h2 {
-  color:white;
+h2, h3 {
+  line-height: 1.1; /* Shared property for h2 and h3 */
 }
 
-h3, h4, h5, h6 {
-  color:white;
+/* Paragraphs, lists, and other block elements */
+p, ul, ol, table, pre, dl {
+  margin: 0 0 20px; /* Shared margin for these elements */
 }
 
 a {
