@@ -38,7 +38,7 @@ h3 {
 
 h4 {
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 
 h5 {
@@ -204,12 +204,22 @@ ul.downloads {
   font-size: 17px;
 }
 
-/* Reset any default or inherited styles for the icon */
+i {
+  border: none; /* Remove any borders */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+  background: none; /* Remove background */
+  content: none; /* Ensure no placeholder content */
+}
+
+/* Reset styles for the <i> element */
 .icon i {
-  all: unset; /* Resets all styles inherited by the <i> tag */
-  font-family: "Font Awesome 5 Brands"; /* Ensure Font Awesome is used */
-  font-size: 18px; /* Adjust the size of the icon */
-  margin-right: 8px; /* Add spacing between the icon and the text */
+  all: unset; /* Reset any inherited styles */
+  display: inline-block; /* Ensure it displays as an inline icon */
+  font-family: "Font Awesome 5 Brands"; /* Force use of Font Awesome Brands */
+  font-size: 18px; /* Icon size */
+  margin-right: 8px; /* Spacing between icon and text */
+  color: inherit; /* Match text color */
 }
 
 /* Style the anchor tag for the button */
