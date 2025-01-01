@@ -23,9 +23,16 @@ h1 {
   line-height: 1.1;
 }
 
-h2, h3 {
-  line-height: 1.1; /* Shared property for h2 and h3 */
+h2 {
+  font-size: 25px;
+  line-height: 1.1;
 }
+
+h3 {
+  font-size: 20px;
+  line-height: 1.1;
+}
+
 
 /* Paragraphs, lists, and other block elements */
 p, ul, ol, table, pre, dl {
