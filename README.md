@@ -22,20 +22,21 @@
 |:--------------------:|:------------------:|:----------------:|
 | [GitHub][github]     | [Tableau][tableau] |   714-858-7494   |
 
-<!-- |                      |                    |                  | -->
-
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [github]: https://github.com/kdpham-01002?tab=repositories
 [tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
 [kaggle]: https://www.kaggle.com/teenee3051
 
+
+<!-- |                      |                    |                  | -->
 <!-- [Resume][resume]  -->
 <!-- [resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing -->
 <!-- [old resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=share_link -->
 
 <!-- [Website][website]  -->
 <!-- [website]: https://kdpham-01002.github.io/DS_portfolio/ -->
-
+<!-- https://vsco.co/teenee3051/gallery -->
+<!-- https://www.instagram.com/teenee_archives/ -->
 
 * * *
 
