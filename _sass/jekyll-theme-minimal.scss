@@ -165,7 +165,7 @@ ul.downloads {
 .downloads a {
   display: inline-block; /* Allow centering of text inside the button */
   text-align: center; /* Ensure text inside is centered */
-  padding: 10px 10px; /* Adjust padding for size */
+  padding: 10px 15px; /* Adjust padding for size */
   background: whitesmoke; /* Button background color */
   border-radius: 5px; /* Apply consistent rounded corners */
   border: 1px solid #d2d2d2; /* Subtle border */
@@ -183,6 +183,7 @@ ul.downloads {
 .downloads a:hover strong {
   color: #003693;
   font-weight: 900;
+  font-size: 16px;
 }
 
 // .downloads ul a:active {
