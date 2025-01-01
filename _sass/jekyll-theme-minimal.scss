@@ -5,7 +5,7 @@ body {
   background-color: #121212;
   padding:15px;
   font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:whitesmoke;
+  color:rgb(240, 240, 240);
   font-weight:400;
 }
 /* General heading styles */
@@ -47,7 +47,7 @@ h5 {
 }
 
 strong {
-  color: red;
+  color: white;
   font-weight: 900;
 }
 
@@ -61,7 +61,7 @@ header {
   width:300px;
   float:left;
   position:fixed;
-  // top: 0;
+  top: 0;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
