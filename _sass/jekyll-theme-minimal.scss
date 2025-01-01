@@ -155,83 +155,71 @@ hr {
   height:1px;
   margin: 20px 0px 20px;
 }
+
 /* Center the container for downloads and text */
 .downloads-container {
   display: flex; /* Use flexbox for alignment */
-  flex-direction: column; /* Stack elements vertically */
-  align-items: center; /* Center items horizontally */
-  justify-content: center; /* Center items vertically */
-  text-align: center; /* Ensure text alignment is centered */
-  margin: 20px auto; /* Center the container on the page */
+  flex-direction: column; /* Stack items vertically */
+  align-items: center; /* Center horizontally */
+  text-align: center; /* Center text alignment */
+  margin: 20px auto; /* Center container on the page */
 }
 
-/* Center the container for downloads */
+/* Center and align the list of buttons */
 ul.downloads {
-  list-style: none;
-  padding: 0;
-  margin: 20px auto;
-  text-align: center;
+  list-style: none; /* Remove bullet points */
+  padding: 0; /* Remove padding */
+  margin: 20px auto; /* Center list */
   display: flex; /* Align buttons horizontally */
-  gap: 10px; /* Add space between buttons */
-  justify-content: center; /* Center the buttons in the container */
+  gap: 8px; /* Adjust spacing between buttons */
+  justify-content: center; /* Center buttons horizontally */
 }
 
 /* Style individual list items */
 .downloads li {
-  display: inline-block;
+  display: inline-block; /* Align buttons side by side */
 }
 
-/* Style anchor links inside the list */
+/* Style the buttons */
 .downloads a {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 10px 15px;
-  background: rgb(222, 222, 222);
-  border-radius: 5px;
-  border: 1px solid #d2d2d2;
-  font-size: 15px;
-  font-weight: bold;
-  color: #636161;
-  text-decoration: none;
-  transition: all 0.3s ease;
-  gap: 8px; /* Space between icon and text */
+  display: inline-flex; /* Align text and icon inside button */
+  align-items: center; /* Vertically center icon and text */
+  justify-content: center; /* Horizontally center content */
+  padding: 8px 12px; /* Adjust padding for smaller button size */
+  background: rgb(222, 222, 222); /* Button background */
+  border-radius: 5px; /* Rounded corners */
+  border: 1px solid #d2d2d2; /* Subtle border */
+  font-size: 14px; /* Reduce font size slightly */
+  font-weight: bold; /* Keep text bold */
+  color: #636161; /* Default text color */
+  text-decoration: none; /* Remove underline */
+  gap: 6px; /* Space between icon and text */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth hover effect */
 }
 
 /* Hover effects for the buttons */
 .downloads a:hover {
-  background-color: #d8e9f8;
-  color: #59a2f7;
+  background-color: #d8e9f8; /* Light blue background on hover */
+  color: #59a2f7; /* Change text color on hover */
 }
 
-/* Optional: Styling for bold text in the button */
+/* Style the icon inside the button */
+.downloads a i {
+  font-size: 16px; /* Adjust icon size */
+  color: inherit; /* Match text color */
+}
+
+/* Optional: Bold styling for text in the button */
 .downloads a strong {
   color: black;
 }
 
-/* Icon styling */
-.icon i {
-  font-size: 18px;
-  color: inherit;
-}
-
-/* Optional: Styling for bold text inside the button */
-.icon strong {
-  color: black; /* Make "GitHub" text bold and black */
-}
-
-/* Hover effects for the button */
-.icon:hover {
-  background-color: #d8e9f8; /* Change background color on hover */
-  color: #59a2f7; /* Change text color on hover */
-}
-
-/* Style for the "Made by" text */
+/* Style the "Made by" text */
 .made-by {
-  color: #f0f0f0; /* Subtle light text color */
-  text-align: center; /* Center-align text */
-  font-size: 13px; /* Adjust font size */
-  // margin-top: 10px; /* Add spacing above */
+  color: #f0f0f0; /* Subtle text color */
+  text-align: center; /* Center text alignment */
+  font-size: 12px; /* Reduce font size slightly */
+  margin-top: 8px; /* Add spacing above */
 }
 
 footer {
