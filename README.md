@@ -11,7 +11,6 @@
     <li><a href="#education">Education</a></li>
     <li><a href="#interests">Interests</a></li>
     <li><a href="./another-page.html#page-two">Page Two</a></li> -->
-
   </ul>
 </details>
 
