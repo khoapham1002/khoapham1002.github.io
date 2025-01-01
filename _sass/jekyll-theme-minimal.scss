@@ -58,7 +58,7 @@ strong {
 
 header {
   // padding-top: 10px;
-  width:300px;
+  width:320px;
   float:left;
   position:fixed;
   top: 0;
@@ -66,7 +66,7 @@ header {
 }
 
 section {
-  width:600px;
+  width:630px;
   float:right;
   padding-bottom:40px;
 }
@@ -84,12 +84,14 @@ p, ul, ol, table, pre, dl {
 a {
   color:#59a2f7;
   text-decoration:none;
+  font-size: 15px;
   // font-weight: bold;
 }
 
 a:hover, a:focus {
   color:#003693;
-  font-weight: 900;
+  font-size: 16px;
+  font-weight: bold;
 }
 
 // blockquote {
@@ -115,15 +117,15 @@ a:hover, a:focus {
 
 table {
   width: 100%;
-  border-collapse: collapse; /* Still keeps cell spacing consistent */
+  border-collapse: collapse;
   border: none; /* Removes the table's outer border */
 }
 
 th, td {
   color: white;
   text-align: center;
-  // padding: 5px 15px;
-  border: none; /* Removes any borders from table cells */
+  padding: 15px 15px;
+  border: none;
 }
 
 th {
@@ -154,7 +156,7 @@ hr {
   border:0;
   background:#dddd;
   height:1px;
-  margin: 15px 0 25px;
+  margin: 15px 15px;
 }
 
 /* Style the unordered list */
@@ -167,39 +169,38 @@ ul.downloads {
 
 /* Style individual list items */
 .downloads li {
-  display: inline-block; /* Align items inline horizontally */
-  margin: 0 5px; /* Add some space between buttons */
+  display: inline-block;
+  margin: 0px 5px; /* Add some space between buttons */
 }
 
 /* Style anchor links inside the list */
 .downloads a {
   display: inline-block;
   text-align: center;
-  padding: 10px 10px;
-  background: rgb(223, 222, 222); /* Light gray background */
+  padding: 5px 5px;
+  background: rgb(222, 222, 222);
   border-radius: 5px;
   border: 1px solid #d2d2d2;
   font-size: 15px;
   font-weight: bold;
   color: #636161;
-  text-decoration: none; /* Remove underline */
+  text-decoration: none;
   transition: all 0.3s ease; /* Smooth hover effect */
 }
 
-/* Style the strong tag inside the anchor */
 .downloads a strong {
   font-size: 16px;
-  color: #000000; /* Black text */
+  color: #000000;
 }
 
 /* Hover effects for the anchor */
 .downloads a:hover {
-  background-color: #d8e9f8; /* Light blue background on hover */
-  color: #59a2f7; /* Blue text on hover */
+  background-color: #d8e9f8;
+  color: #59a2f7;
 }
 
 .downloads a:hover strong {
-  color: #003693; /* Darker blue for strong text */
+  color: #003693;
   font-weight: 900;
   font-size: 17px;
 }
@@ -217,10 +218,10 @@ ul.downloads {
   display: inline-flex; /* Align icon and text horizontally */
   align-items: center; /* Vertically align icon and text */
   justify-content: center; /* Center everything within the button */
-  background: rgb(223, 222, 222); /* Button background color */
+  background: rgb(222, 222, 222); /* Button background color */
   border: 1px solid #d2d2d2; /* Subtle border around the button */
   border-radius: 5px; /* Rounded corners */
-  padding: 10px 15px; /* Adjust spacing inside the button */
+  padding: 10px 10px; /* Adjust spacing inside the button */
   text-decoration: none; /* Remove underline */
   color: #636161; /* Default text color */
   font-weight: bold; /* Bold text for the button */
