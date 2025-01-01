@@ -204,51 +204,36 @@ ul.downloads {
   font-size: 17px;
 }
 
-/* Style for the link */
+/* Reset any default or inherited styles for the icon */
+.icon i {
+  all: unset; /* Resets all styles inherited by the <i> tag */
+  font-family: "Font Awesome 5 Brands"; /* Ensure Font Awesome is used */
+  font-size: 18px; /* Adjust the size of the icon */
+  margin-right: 8px; /* Add spacing between the icon and the text */
+}
+
+/* Style the anchor tag for the button */
 .icon {
   display: inline-flex; /* Align icon and text horizontally */
-  align-items: center; /* Vertically center icon and text */
+  align-items: center; /* Vertically align items in the center */
+  background: rgb(223, 222, 222); /* Button background color */
+  border: 1px solid #d2d2d2; /* Subtle border around the button */
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px 15px; /* Add spacing inside the button */
   text-decoration: none; /* Remove underline */
-  padding: 10px 15px; /* Add padding for a button-like appearance */
-  background: #f8f9fa; /* Button background color */
-  border-radius: 5px; /* Round button edges */
-  border: 1px solid #d2d2d2; /* Subtle border */
-  font-size: 15px;
-  color: #636161; /* Text color */
-  font-weight: bold;
+  color: #636161; /* Default text color */
+  font-weight: bold; /* Bold text for the button */
 }
 
-.icon i {
-  all: unset; /* Reset inherited styles */
-  font-family: "Font Awesome 5 Brands"; /* Ensure the GitHub logo font is used */
-  font-size: 18px; /* Adjust the icon size */
-  margin-right: 8px; /* Space between the icon and text */
-}
-
-.icon {
-  display: inline-flex;
-  align-items: center;
-  background: rgb(223, 222, 222);
-  border: 1px solid #d2d2d2;
-  border-radius: 5px;
-  padding: 10px 15px;
-  text-decoration: none;
-  color: #636161;
-  font-weight: bold;
-}
-
+/* Hover effect for the button */
 .icon:hover {
-  background-color: #d8e9f8;
-  color: #59a2f7;
+  background-color: #d8e9f8; /* Light blue background on hover */
+  color: #59a2f7; /* Change text color to blue on hover */
 }
 
-.icon i {
-  font-size: 18px;
-  margin-right: 8px;
-}
-
+/* Optional: Styling for the strong element in the text */
 .icon strong {
-  color: black;
+  color: black; /* Keep GitHub text bold and black */
 }
 
 .made-by {
