@@ -3,16 +3,21 @@
 
 body {
   background-color: #121212;
-  padding: 25px;
-  font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding: 40px;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:rgb(240, 240, 240);
   font-weight:400;
 }
 /* General heading styles */
 h1, h2, h3, h4, h5, h6 {
-  color: white; /* Applies to all headings */
-  margin: 15px 15px 15px; /* Consistent margin */
+  color: white;
+  margin: 0 0 15px;
 }
+
+p, ul, ol, table, pre, dl {
+  margin: 0 0 15px;
+}
+
 
 img {
   max-width:100%;
@@ -21,29 +26,28 @@ img {
 /* Specific styles for headings */
 h1 {
   font-size: 51px;
-  // margin-bottom: 5px;
-  // line-height: 1.1;
+  line-height: 1.2;
 }
 
 h2 {
   font-size: 30px;
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 h3 {
   font-size: 25px;
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 h4 {
   font-size: 15px;
-  line-height: 1.6;
+  line-height: 1.5;
   font-weight: normal;
 }
 
 h5 {
   font-size: 20px;
-  line-height: 1.1;
+  line-height: 1.2;
 }
 
 strong {
@@ -68,7 +72,7 @@ header {
 section {
   width:600px;
   float:right;
-  padding-bottom: 30px;
+  padding-bottom: 35px;
 }
 
 .wrapper {
@@ -76,10 +80,6 @@ section {
   margin: 0 auto;
 }
 
-/* Paragraphs, lists, and other block elements */
-p, ul, ol, table, pre, dl {
-  margin: 20px 20px;
-}
 
 a {
   color:#59a2f7;
@@ -107,8 +107,8 @@ code, pre {
 }
 
 pre {
-  padding:20px 20px;
-  background: red;
+  padding:8px 15px;
+  background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
@@ -123,7 +123,7 @@ table {
 th, td {
   color: white;
   text-align: center;
-  padding: 20px 20px;
+  padding: 10px 10px;
   border: none;
 }
 
