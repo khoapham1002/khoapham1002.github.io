@@ -3,7 +3,7 @@
 
 body {
   background-color: #121212;
-  padding: 40px;
+  padding: 20px;
   font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:rgb(240, 240, 240);
   font-weight:400;
@@ -68,7 +68,7 @@ header {
 section {
   width:630px;
   float:right;
-  padding-bottom:40px;
+  padding-bottom: 20px;
 }
 
 .wrapper {
@@ -123,7 +123,7 @@ table {
 th, td {
   color: white;
   text-align: center;
-  padding: 15px 15px;
+  padding: 20px 20px;
   border: none;
 }
 
@@ -161,7 +161,6 @@ hr {
 /* Style the unordered list */
 ul.downloads {
   list-style: none; /* Remove bullet points */
-  padding: 0;
   margin: 20px auto; /* Center the list horizontally */
   text-align: center;
 }
@@ -278,13 +277,13 @@ ul.downloads {
   }
 
   header {
-    // padding-right:320px;
+    padding-right:320px;
   }
 
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
+    padding:20px 0px;
     margin:0 0 20px;
   }
 
