@@ -204,6 +204,32 @@ ul.downloads {
   font-size: 17px;
 }
 
+/* Style for the link */
+.icon {
+  display: inline-flex; /* Align icon and text horizontally */
+  align-items: center; /* Vertically center icon and text */
+  text-decoration: none; /* Remove underline */
+  padding: 10px 15px; /* Add padding for a button-like appearance */
+  background: #f8f9fa; /* Button background color */
+  border-radius: 5px; /* Round button edges */
+  border: 1px solid #d2d2d2; /* Subtle border */
+  font-size: 15px;
+  color: #636161; /* Text color */
+  font-weight: bold;
+}
+
+/* Icon styling */
+.icon .fab {
+  margin-right: 8px; /* Space between the icon and the text */
+  font-size: 18px; /* Adjust icon size */
+}
+
+/* Hover effect */
+.icon:hover {
+  background-color: #d8e9f8; /* Change background color on hover */
+  color: #59a2f7; /* Change text color on hover */
+}
+
 .made-by {
   text-align: center; /* Center the "Made by" text */
   margin-top: 5px; /* Optional: Adjust spacing as needed */

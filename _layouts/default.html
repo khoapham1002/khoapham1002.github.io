@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -38,7 +39,17 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <li><a href="{{ site.github.repository_url }}">View on <strong>GitHub</strong></a></li>
+          <!-- <li><a href="{{ site.github.repository_url }}">View on <strong>GitHub</strong></a></li> -->
+          <li>
+            <a href="{{ site.github.repository_url }}" class="icon brands fa-github">
+              <i class="fab fa-github"></i> <!-- Font Awesome GitHub Icon -->
+              <span>View on <strong>GitHub</strong></span>
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/kdpham-01002?tab=repositories" class="icon brands fa-github">
+              <span class="label">GitHub</span>
+            </a>
         </ul>
         <p class="made-by">Made by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
