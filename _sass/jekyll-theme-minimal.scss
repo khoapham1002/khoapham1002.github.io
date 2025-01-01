@@ -4,7 +4,7 @@
 body {
   background-color: #121212;
   padding:15px;
-  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:whitesmoke;
   font-weight:400;
 }
@@ -20,8 +20,8 @@ img {
 
 /* Specific styles for headings */
 h1 {
-  font-size: 50px;
-  margin-bottom: 5px;
+  font-size: 55px;
+  // margin-bottom: 5px;
   // text-align: center;
   // line-height: 1.1;
 }
@@ -38,7 +38,7 @@ h3 {
 
 h4 {
   font-size: 15px;
-  line-height: 1.5;
+  line-height: 1.6;
   font-weight: normal;
 }
 
@@ -79,7 +79,7 @@ section {
 
 /* Paragraphs, lists, and other block elements */
 p, ul, ol, table, pre, dl {
-  margin: 0 0 20px; /* Shared margin for these elements */
+  // margin: 0 0 20px; /* Shared margin for these elements */
 }
 
 a {
@@ -93,26 +93,26 @@ a:hover, a:focus {
   font-weight: 900;
 }
 
-blockquote {
-  border-left:1px solid #e5e5e5;
-  margin:0;
-  padding:0 0 0 20px;
-  font-style:italic;
-}
+// blockquote {
+//   border-left:1px solid #e5e5e5;
+//   margin:0;
+//   padding:0 0 0 20px;
+//   font-style:italic;
+// }
 
-code, pre {
-  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:white;
-  ;
-}
+// code, pre {
+//   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+//   color:white;
+//   ;
+// }
 
-pre {
-  padding:8px 15px;
-  background: #f8f8f8;
-  border-radius:5px;
-  border:1px solid #e5e5e5;
-  overflow-x: auto;
-}
+// pre {
+//   padding:8px 15px;
+//   background: #f8f8f8;
+//   border-radius:5px;
+//   border:1px solid #e5e5e5;
+//   overflow-x: auto;
+// }
 
 table {
   width: 100%;
@@ -137,25 +137,25 @@ dt {
 }
 
 
-kbd {
-  background-color: #fafbfc;
-  border: 1px solid #c6cbd1;
-  border-bottom-color: #959da5;
-  border-radius: 3px;
-  box-shadow: inset 0 -1px 0 #959da5;
-  color: #444d56;
-  display: inline-block;
-  font-size: 11px;
-  line-height: 10px;
-  padding: 3px 5px;
-  vertical-align: middle;
-}
+// kbd {
+//   background-color: #fafbfc;
+//   border: 1px solid #c6cbd1;
+//   border-bottom-color: #959da5;
+//   border-radius: 3px;
+//   box-shadow: inset 0 -1px 0 #959da5;
+//   color: #444d56;
+//   display: inline-block;
+//   font-size: 11px;
+//   line-height: 10px;
+//   padding: 3px 5px;
+//   vertical-align: middle;
+// }
 
 hr {
   border:0;
   background:#dddd;
   height:1px;
-  margin:0 0 20px;
+  margin: 15px 0 25px;
 }
 
 /* Style the unordered list */
@@ -250,10 +250,10 @@ ul.downloads {
 }
 
 .made-by {
+  color: #f0f0f0; /* Optional: Add a subtle color */
   text-align: center; /* Center the "Made by" text */
   margin-top: 5px; /* Optional: Adjust spacing as needed */
   font-size: 14px; /* Optional: Adjust the font size */
-  color: #f0f0f0; /* Optional: Add a subtle color */
 }
 
 // footer {
