@@ -11,7 +11,7 @@ body {
 /* General heading styles */
 h1, h2, h3, h4, h5, h6 {
   color: white;
-  margin: 0 0 20px;
+  margin: 10px 0 20px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -70,16 +70,15 @@ header {
 }
 
 section {
-  width:560px;
+  width:600px;
   float:right;
   padding-bottom: 35px;
 }
 
 .wrapper {
-  width: 900px;
+  width: 950px;
   margin: 0 auto;
 }
-
 
 a {
   color:#59a2f7;
