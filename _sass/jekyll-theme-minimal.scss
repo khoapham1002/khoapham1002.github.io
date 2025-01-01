@@ -68,7 +68,7 @@ header {
 section {
   width:630px;
   float:right;
-  padding-bottom: 20px;
+  padding-bottom: 30px;
 }
 
 .wrapper {
@@ -107,7 +107,7 @@ code, pre {
 }
 
 pre {
-  padding:15px 15px;
+  padding:20px 20px;
   background: red;
   border-radius:5px;
   border:1px solid #e5e5e5;
@@ -155,7 +155,7 @@ hr {
   border:0;
   background:#dddd;
   height:1px;
-  margin: 15px 15px;
+  margin: 0px 0px;
 }
 
 /* Style the unordered list */
@@ -168,7 +168,7 @@ ul.downloads {
 /* Style individual list items */
 .downloads li {
   display: inline-block;
-  margin: 0px 5px; /* Add some space between buttons */
+  margin: 5px 5px; /* Add some space between buttons */
 }
 
 /* Style anchor links inside the list */
