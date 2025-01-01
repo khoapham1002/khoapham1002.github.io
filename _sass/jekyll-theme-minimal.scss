@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Specific styles for headings */
 h1 {
-  font-size: 35px;
+  font-size: 40px;
   line-height: 1.1;
 }
 
@@ -52,6 +52,7 @@ header {
   width:300px;
   float:left;
   position:fixed;
+  top: 0; /* Ensures it stays at the top of the viewport */
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -112,7 +113,7 @@ table {
 }
 
 th, td {
-  text-align: left;
+  text-align: center;
   padding: 5px 10px;
   border: none; /* Removes any borders from table cells */
 }
