@@ -6,7 +6,6 @@ body {
   padding: 40px;
   font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:rgb(240, 240, 240);
-  font-weight:400;
 }
 /* General heading styles */
 h2, h3, h4, h5, h6 {
@@ -20,6 +19,7 @@ p, ul, ol, table, pre, dl {
 
 h1 {
   font-size: 52.5px;
+  padding: 0;
   // line-height: 1;
 }
 
@@ -55,6 +55,7 @@ strong {
 
 img {
   max-width:100%;
+  padding: 0;
   // height:auto;
 }
 
@@ -69,6 +70,7 @@ header {
   float:left;
   position:fixed;
   top: 0;
+  font-weight:380;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -77,6 +79,8 @@ section {
   float:right;
   // padding: 40px;
   padding-bottom: 40px;
+  font-weight:400;
+  -webkit-font-smoothing:subpixel-antialiased;
 }
 
 
