@@ -30,6 +30,15 @@ h3 {
   line-height: 1.1;
 }
 
+strong {
+  color: white;
+  font-weight: 900;
+}
+
+// small {
+//   font-size:11px;
+// }
+
 header {
   width:270px;
   float:left;
@@ -37,9 +46,16 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-strong {
-  color: white;
-  font-weight: 800;
+
+section {
+  width:500px;
+  float:right;
+  padding-bottom:50px;
+}
+
+.wrapper {
+  width:860px;
+  margin:0 auto;
 }
 
 /* Paragraphs, lists, and other block elements */
@@ -49,20 +65,17 @@ p, ul, ol, table, pre, dl {
 
 a {
   color:#59a2f7;
-  // color:#267CB9;
   text-decoration:none;
 }
 
 a:hover, a:focus {
   color:#003693;
-  // color:#069;
   font-weight: bold;
 }
 
 a small {
   font-size:11px;
   color:white;
-  // color:#777;
   margin-top:-0.3em;
   display:block;
 }
@@ -71,10 +84,6 @@ a:hover small {
   color:white;
 }
 
-.wrapper {
-  width:860px;
-  margin:0 auto;
-}
 
 blockquote {
   border-left:1px solid #e5e5e5;
@@ -149,7 +158,6 @@ ul.downloads {
   border-radius: 0; /* Remove rounding */
 }
 
-
 .downloads li {
   display: inline-block; /* Align the button inline */
   margin: 0; /* Remove unnecessary margins */
@@ -205,15 +213,6 @@ ul.downloads {
   color: #f0f0f0; /* Optional: Add a subtle color */
 }
 
-section {
-  width:500px;
-  float:right;
-  padding-bottom:50px;
-}
-
-small {
-  font-size:11px;
-}
 
 hr {
   border:0;
