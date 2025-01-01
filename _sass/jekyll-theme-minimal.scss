@@ -39,8 +39,12 @@ strong {
 //   font-size:11px;
 // }
 
+img {
+  max-width:90%;
+}
+
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -48,7 +52,7 @@ header {
 
 
 section {
-  width:530px;
+  width:550px;
   float:right;
   padding-bottom:50px;
 }
@@ -128,9 +132,6 @@ th {
   font-weight: normal;
 }
 
-img {
-  max-width:85%;
-}
 
 kbd {
   background-color: #fafbfc;
