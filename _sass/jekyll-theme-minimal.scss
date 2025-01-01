@@ -9,7 +9,7 @@ body {
   font-weight:400;
 }
 /* General heading styles */
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color: white;
   margin: 20px 0 20px;
 }
@@ -41,7 +41,7 @@ h3 {
 }
 
 h4 {
-  font-size: 17px;
+  font-size: 16px;
   line-height: 1.5;
   font-weight: normal;
 }
@@ -73,8 +73,8 @@ header {
 section {
   width:630px;
   float:right;
-  padding: 20px;
-  // padding-bottom: 40px;
+  // padding: 40px;
+  padding-bottom: 40px;
 }
 
 .wrapper {
