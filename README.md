@@ -15,6 +15,7 @@
   </ul>
 </details>
 
+* * *
 
 ## Contact & Links
 
@@ -31,8 +32,11 @@
 
 
 <!-- [old resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=share_link -->
-<!-- [Kaggle](kaggle) -->
+
+<!-- [Kaggle][kaggle] -->
 <!-- [kaggle]: https://www.kaggle.com/teenee3051 -->
+
+* * *
 
 
 ## Technical Skills
@@ -41,6 +45,7 @@
 - **Techniques:** Regression, Classification (Decision Trees, Random Forests), Clustering (K-Means), PCA, A/B Testing
 - **Other:** AWS (RDS, S3, EC2, Lambda, IAM), Azure, Hadoop, Spark, Airflow, Docker, Agile Scrum, Bash/Shell, Git/Github
 
+* * *
 
 ## Portfolio Projects
 **[Finance Department’s New Hire Request](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
@@ -65,6 +70,7 @@
 *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
 
+* * *
 
 
 ### [Go to My Experiences](./my-experiences.html)

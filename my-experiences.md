@@ -17,6 +17,7 @@ layout: default
   </ul>
 </details>
 
+* * *
 
 ## Education
 **University of Massachusetts, Amherst** | Expected: Dec 2025
@@ -26,6 +27,7 @@ layout: default
     - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
 - **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
 
+* * *
 
 ## Professional Experience
 **Data Assistant** \| Center for Teaching and Learning \| Amherst, MA \| Fall 2023
@@ -48,9 +50,13 @@ layout: default
 **Logistic Manager** \| [Humans of CICS](https://www.instagram.com/humansofcics/) \| Amherst, MA \| Spring 2020
 - Highlighted professional stories of the CS Department’s faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
 
+* * *
 
 ## Interests
 - **Photography**: I capture dance movements! Check out my photos [@teenee_archives](https://vsco.co/teenee3051/gallery)!
 - **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/)!
+
+* * *
+
 
 ### [Back to My Portfolio](./)
