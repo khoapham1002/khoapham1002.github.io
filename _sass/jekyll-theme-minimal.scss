@@ -3,7 +3,7 @@
 
 body {
   background-color: #121212;
-  padding:20px;
+  padding:15px;
   font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:whitesmoke;
   font-weight:400;
@@ -21,7 +21,7 @@ img {
 /* Specific styles for headings */
 h1 {
   font-size: 45px;
-  margin-bottom: 0;
+  margin-bottom: 5;
   // text-align: center;
   // line-height: 1.1;
 }
@@ -175,7 +175,7 @@ ul.downloads {
 .downloads a {
   display: inline-block;
   text-align: center;
-  padding: 10px 15px;
+  padding: 10px 10px;
   background: rgb(223, 222, 222); /* Light gray background */
   border-radius: 5px;
   border: 1px solid #d2d2d2;
@@ -217,8 +217,8 @@ i {
   all: unset; /* Reset any inherited styles */
   display: inline-block; /* Ensure it displays as an inline icon */
   font-family: "Font Awesome 5 Brands"; /* Force use of Font Awesome Brands */
-  font-size: 18px; /* Icon size */
-  margin-right: 8px; /* Spacing between icon and text */
+  font-size: 20px; /* Icon size */
+  margin-right: 10px; /* Spacing between icon and text */
   color: inherit; /* Match text color */
 }
 
@@ -229,7 +229,7 @@ i {
   background: rgb(223, 222, 222); /* Button background color */
   border: 1px solid #d2d2d2; /* Subtle border around the button */
   border-radius: 5px; /* Rounded corners */
-  padding: 10px 15px; /* Add spacing inside the button */
+  padding: 10px 10px; /* Add spacing inside the button */
   text-decoration: none; /* Remove underline */
   color: #636161; /* Default text color */
   font-weight: bold; /* Bold text for the button */
