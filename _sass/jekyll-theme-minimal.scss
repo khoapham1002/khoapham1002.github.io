@@ -232,16 +232,16 @@ ul.downloads {
 .made-by {
   color: #f0f0f0; /* Subtle light text color */
   text-align: center; /* Center-align text */
-  font-size: 14px; /* Adjust font size */
+  font-size: 13px; /* Adjust font size */
   margin-top: 10px; /* Add spacing above */
 }
 
 footer {
   color: #f0f0f0; /* Subtle light text color */
   text-align: center;
-  font-size: 14px;
+  font-size: 13px;
   width: auto; /*270px*/
-  float: none;
+  float: left;
   position:fixed;
   bottom: 0px;
   -webkit-font-smoothing:subpixel-antialiased;

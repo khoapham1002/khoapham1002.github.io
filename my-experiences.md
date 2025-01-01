@@ -13,7 +13,6 @@ layout: default
     <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#interests">Interests</a></li>
     <li><a href="./">My Portfolio</a></li>
-
   </ul>
 </details>
 
