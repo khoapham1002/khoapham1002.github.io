@@ -23,7 +23,7 @@
 | [GitHub][github]     | [Tableau][tableau] |   714-858-7494   |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
-[github]: https://github.com/kdpham-01002?tab=repositories
+[github]: https://github.com/kdpham-01002
 [tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
 [kaggle]: https://www.kaggle.com/teenee3051
 

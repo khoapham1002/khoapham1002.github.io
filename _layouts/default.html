@@ -40,10 +40,9 @@
 
         {% if site.show_downloads %}
         <ul class="downloads">
-          <!-- <li><a href="{{ site.github.repository_url }}">View on <strong>GitHub</strong></a></li> -->
           <li>
-            <a href="{{ site.github.repository_url }}" class="icon">
-              <span>View <strong>Code</strong></span>
+            <a href="https://github.com/kdpham-01002" class="icon">
+              <span>View <strong>GitHub</strong></span>
               <i class="fab fa-github"></i>
             </a>
           </li>
@@ -55,7 +54,7 @@
           </li>
         </ul>
 
-        <p class="made-by">Made by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p class="made-by">View <a href="{{ site.github.repository_url }}">this code</a></p>
         {% endif %}
 
       </header>
@@ -63,9 +62,9 @@
 
       {{ content }}
 
-      {% if site.github.is_project_page %}
+      <!-- {% if site.github.is_project_page %}
       <p class="made-by">Made by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-      {% endif %}
+      {% endif %} -->
 
       </section>
       <footer>
