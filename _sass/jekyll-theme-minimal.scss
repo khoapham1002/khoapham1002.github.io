@@ -113,7 +113,7 @@ th {
 }
 
 img {
-  max-width:80%;
+  max-width:60%;
 }
 
 kbd {
@@ -188,7 +188,7 @@ ul.downloads {
 
 strong {
   color: white;
-  font-weight: 700;
+  font-weight: 800;
 }
 
 // .downloads li + li + li {
@@ -225,14 +225,14 @@ hr {
   margin:0 0 20px;
 }
 
-footer {
-  width:270px;
-  float:left;
-  position:fixed;
-  // bottom:50px;
-  bottom: 0;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
+// footer {
+//   width:270px;
+//   float:left;
+//   position:fixed;
+//   // bottom:50px;
+//   bottom: 0;
+//   -webkit-font-smoothing:subpixel-antialiased;
+// }
 
 @media print, screen and (max-width: 960px) {
 
