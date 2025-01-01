@@ -113,19 +113,19 @@ table {
 }
 
 th, td {
+  color: white;
   text-align: center;
-  padding: 5px 10px;
+  padding: 5px 15px;
   border: none; /* Removes any borders from table cells */
+}
+
+th {
+  font-weight: normal;
 }
 
 dt {
   color: white;
   font-weight: 700;
-}
-
-th {
-  color: white;
-  font-weight: normal;
 }
 
 
