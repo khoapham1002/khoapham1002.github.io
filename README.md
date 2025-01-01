@@ -49,6 +49,8 @@
 *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
 
+* * *
+
 ### Links & Contacts
 
 | kdpham@umass.edu     |     714-858-7494     | [LinkedIn][linkedin] |
