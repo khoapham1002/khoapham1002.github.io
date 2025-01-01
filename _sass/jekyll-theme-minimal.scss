@@ -153,15 +153,6 @@ ul.downloads {
   margin: 0; /* Remove unnecessary margins */
 }
 
-
-// .downloads li:first-child a {
-//   border-radius:5px 0 0 5px;
-// }
-
-// .downloads li:last-child a {
-//   border-radius:0 5px 5px 0;
-// }
-
 .downloads a {
   display: inline-block; /* Allow centering of text inside the button */
   text-align: center; /* Ensure text inside is centered */
@@ -174,6 +165,11 @@ ul.downloads {
   color: #636161; /* Text color */
 }
 
+.downloads a strong {
+  font-size:16px;
+  display:block;
+  color:#000000;
+}
 
 .downloads a:hover {
   background-color: #d8e9f8; /* Add hover effect */
@@ -183,7 +179,7 @@ ul.downloads {
 .downloads a:hover strong {
   color: #003693;
   font-weight: 900;
-  font-size: 16px;
+  font-size: 17px;
 }
 
 // .downloads ul a:active {
@@ -195,16 +191,12 @@ strong {
   font-weight: 700;
 }
 
-.downloads li + li + li {
-  border-right:none;
-  width:89px;
-}
+// .downloads li + li + li {
+//   border-right:none;
+//   width:89px;
+// }
 
-.downloads a strong {
-  font-size:14px;
-  display:block;
-  color:#000000;
-}
+
 
 
 .downloads {
