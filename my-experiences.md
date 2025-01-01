@@ -66,6 +66,7 @@ layout: default
 - **Photography**: I capture dance movements! Check out my photos [@teenee_archives][vsco]!
 - **Dance**: Come dance with me at [@mdcdance][mdcdance]!
 
+[vsco]: https://vsco.co/teenee3051/gallery
 [mdcdance]: https://www.instagram.com/mdcdance/
 
 * * *
