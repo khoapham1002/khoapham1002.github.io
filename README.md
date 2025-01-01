@@ -3,42 +3,16 @@
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
   <ul>
-    <li><a href="#links--contacts">Links & Contacts</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
     <li><a href="./my-experiences">My Experiences</a></li>
+    <li><a href="#links--contacts">Links & Contacts</a></li>
     <!-- <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#interests">Interests</a></li>
     <li><a href="./another-page.html#page-two">Page Two</a></li> -->
   </ul>
 </details>
-
-* * *
-
-### Links & Contacts
-
-| [LinkedIn][linkedin] |  [GitHub][github]  |   714-858-7494   |
-|:--------------------:|:------------------:|:----------------:|
-| [Tableau][tableau]   |  [Kaggle][kaggle]  | kdpham@umass.edu |
-| [Photography][vsco]  | [Dance][instagram] | [Blog][blog]      |
-
-[linkedin]: https://www.linkedin.com/in/kdpham1002/
-[github]: https://github.com/kdpham-01002?tab=repositories
-[tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
-[kaggle]: https://www.kaggle.com/teenee3051
-[vsco]: https://vsco.co/teenee3051/gallery
-[instagram]: https://www.instagram.com/teenee_archives/
-[blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
-
-
-<!-- [Resume][resume]  -->
-<!-- [resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing -->
-<!-- [old resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=share_link -->
-
-<!-- [Website][website]  -->
-<!-- [website]: https://kdpham-01002.github.io/DS_portfolio/ -->
-<!-- https://vsco.co/teenee3051/gallery -->
 
 * * *
 
@@ -80,3 +54,27 @@
 ##### [Go to My Experiences](./my-experiences)
 
 * * *
+
+### Links & Contacts
+
+| [LinkedIn][linkedin] |  [GitHub][github]  |   714-858-7494   |
+|:--------------------:|:------------------:|:----------------:|
+| [Tableau][tableau]   |  [Kaggle][kaggle]  | kdpham@umass.edu |
+| [Photography][vsco]  | [Dance][instagram] | [Blog][blog]      |
+
+[linkedin]: https://www.linkedin.com/in/kdpham1002/
+[github]: https://github.com/kdpham-01002?tab=repositories
+[tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
+[kaggle]: https://www.kaggle.com/teenee3051
+[vsco]: https://vsco.co/teenee3051/gallery
+[instagram]: https://www.instagram.com/teenee_archives/
+[blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
+
+
+<!-- [Resume][resume]  -->
+<!-- [resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing -->
+<!-- [old resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=share_link -->
+
+<!-- [Website][website]  -->
+<!-- [website]: https://kdpham-01002.github.io/DS_portfolio/ -->
+<!-- https://vsco.co/teenee3051/gallery -->
