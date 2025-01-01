@@ -1,4 +1,4 @@
-# My Portfolio
+## My Portfolio
 
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
@@ -17,7 +17,7 @@
 
 * * *
 
-## Contact & Links
+### Contact & Links
 
 | [LinkedIn][linkedin]  | 714-858-7494        | kdpham@umass.edu  |
 |:---------------------|:-------------------|:-----------------|
@@ -39,7 +39,7 @@
 * * *
 
 
-## Technical Skills
+### Technical Skills
 - **Tools:** Python (Pandas, NumPy, Seaborn) , SQL (MySQL, PostgreSQL, AWS Redshift), R (dplyr, tidyr, ggplot2), Tableau, Excel
 - **Libraries:** Scikit-learn, SciPy, Statsmodels, Plotly, TensorFlow, PyTorch, PySpark, BeautifulSoup, Requests, Scrapy, os, sys
 - **Techniques:** Regression, Classification (Decision Trees, Random Forests), Clustering (K-Means), PCA, A/B Testing
@@ -47,7 +47,7 @@
 
 * * *
 
-## Portfolio Projects
+### Portfolio Projects
 **[Finance Department’s New Hire Request](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
 
 *Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
@@ -73,4 +73,4 @@
 * * *
 
 
-### [Go to My Experiences](./my-experiences.html)
+#### [Go to My Experiences](./my-experiences.html)

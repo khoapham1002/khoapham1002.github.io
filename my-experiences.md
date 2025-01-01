@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# My Experiences
+## My Experiences
 
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
@@ -19,7 +19,7 @@ layout: default
 
 * * *
 
-## Education
+### Education
 **University of Massachusetts, Amherst** | Expected: Dec 2025
 - **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
     - **GPA:** 3.97/4.0
@@ -29,7 +29,7 @@ layout: default
 
 * * *
 
-## Professional Experience
+### Professional Experience
 **Data Assistant** \| Center for Teaching and Learning \| Amherst, MA \| Fall 2023
 - Cleaned and managed survey data from daily batch updates, ensuring readiness for analysis on workshops participation data. Coordinated evaluation processes for the Distinguished Teaching Awards, supporting the recognition of over 200 professors and lecturers.
 
@@ -52,11 +52,11 @@ layout: default
 
 * * *
 
-## Interests
+### Interests
 - **Photography**: I capture dance movements! Check out my photos [@teenee_archives](https://vsco.co/teenee3051/gallery)!
 - **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/)!
 
 * * *
 
 
-### [Back to My Portfolio](./)
+#### [Back to My Portfolio](./)
