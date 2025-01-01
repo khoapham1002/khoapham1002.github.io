@@ -63,8 +63,10 @@ layout: default
 
 ### Interests
 
-- **Photography**: I capture dance movements! Check out my photos [@teenee_archives](https://vsco.co/teenee3051/gallery)!
-- **Dance**: Come dance with me at [@mdcdance](https://www.instagram.com/mdcdance/)!
+- **Photography**: I capture dance movements! Check out my photos [@teenee_archives][vsco]!
+- **Dance**: Come dance with me at [@mdcdance][mdcdance]!
+
+[mdcdance]: https://www.instagram.com/mdcdance/
 
 * * *
 
