@@ -37,7 +37,7 @@ layout: default
 
 - Cleaned and managed survey data from daily batch updates, ensuring readiness for analysis on workshops participation data. Coordinated evaluation processes for the Distinguished Teaching Awards, supporting the recognition of over 200 professors and lecturers.
 
-#### **Research Assistant** \| Biomedical Informatics NLP Processing Laboratory \| Amherst, MA \| Spring 2022
+#### **Research Assistant** \| [Biomedical Informatics NLP Processing Laboratory](https://www.cics.umass.edu/organizations/biomedical-informatics-nlp-lab) \| Amherst, MA \| Spring 2022
 
 - Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
 - Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
