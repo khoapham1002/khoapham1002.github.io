@@ -150,62 +150,51 @@ hr {
   margin:0 0 20px;
 }
 
+/* Style the unordered list */
 ul.downloads {
   list-style: none; /* Remove bullet points */
-  padding: 0; /* Remove padding */
-  margin: 20px auto; /* Center horizontally */
-  text-align: center; /* Center the content inside */
-  width: auto; /* Adjust width based on content */
-  background: none; /* No background for parent container */
-  border-radius: 0; /* Remove rounding */
+  padding: 0;
+  margin: 20px auto; /* Center the list horizontally */
+  text-align: center;
 }
 
+/* Style individual list items */
 .downloads li {
-  display: inline-block; /* Align the button inline */
-  margin: 0; /* Remove unnecessary margins */
+  display: inline-block; /* Align items inline horizontally */
+  margin: 0 5px; /* Add some space between buttons */
 }
 
+/* Style anchor links inside the list */
 .downloads a {
-  display: inline-block; /* Allow centering of text inside the button */
-  text-align: center; /* Ensure text inside is centered */
-  padding: 10px 15px; /* Adjust padding for size */
-  background: rgb(223, 222, 222); /* Button background color */
-  border-radius: 5px; /* Apply consistent rounded corners */
-  border: 1px solid #d2d2d2; /* Subtle border */
-  font-size: 15px; /* Adjust font size */
-  font-weight: bold; /* Make text bold */
-  color: #636161; /* Text color */
+  display: inline-block;
+  text-align: center;
+  padding: 10px 15px;
+  background: rgb(223, 222, 222); /* Light gray background */
+  border-radius: 5px;
+  border: 1px solid #d2d2d2;
+  font-size: 15px;
+  font-weight: bold;
+  color: #636161;
+  text-decoration: none; /* Remove underline */
+  transition: all 0.3s ease; /* Smooth hover effect */
 }
 
+/* Style the strong tag inside the anchor */
 .downloads a strong {
-  font-size:16px;
-  display:block;
-  color:#000000;
+  font-size: 16px;
+  color: #000000; /* Black text */
 }
 
+/* Hover effects for the anchor */
 .downloads a:hover {
-  background-color: #d8e9f8; /* Add hover effect */
-  color: #59a2f7; /* Slightly darker text on hover */
+  background-color: #d8e9f8; /* Light blue background on hover */
+  color: #59a2f7; /* Blue text on hover */
 }
 
 .downloads a:hover strong {
-  color: #003693;
+  color: #003693; /* Darker blue for strong text */
   font-weight: 900;
   font-size: 17px;
-}
-
-// .downloads ul a:active {
-//   background-color:#6eafe4;
-// }
-
-// .downloads li + li + li {
-//   border-right:none;
-//   width:89px;
-// }
-
-.downloads {
-  text-align: center; /* Center the button */
-  margin-bottom: 10px; /* Add spacing between button and "Made by" */
 }
 
 .made-by {
