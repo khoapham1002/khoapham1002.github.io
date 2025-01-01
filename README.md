@@ -20,7 +20,7 @@
 ## Contact & Links
 
 | [LinkedIn][linkedin]  | 714-858-7494        | kdpham@umass.edu  |
-|:---------------------:|:-------------------:|:-----------------:|
+|:---------------------|:-------------------|:-----------------|
 | [GitHub][github]      | [Tableau][tableau]  |                   |
 | [Website][website]    | [Resume][resume]    |                   |
 
