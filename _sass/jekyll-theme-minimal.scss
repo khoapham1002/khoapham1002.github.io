@@ -166,44 +166,54 @@ hr {
   margin: 20px auto; /* Center the container on the page */
 }
 
-/* Style the unordered list */
+/* Center the container for downloads */
 ul.downloads {
-  list-style: none; /* Remove bullet points */
-  padding: 0; /* Remove extra padding */
-  margin: 10px 0; /* Add some vertical spacing */
-  text-align: center; /* Align content in the center */
+  list-style: none;
+  padding: 0;
+  margin: 20px auto;
+  text-align: center;
+  display: flex; /* Align buttons horizontally */
+  gap: 10px; /* Add space between buttons */
+  justify-content: center; /* Center the buttons in the container */
 }
 
 /* Style individual list items */
 .downloads li {
-  display: inline-block; /* Align buttons horizontally */
-  margin: 5px; /* Add spacing between buttons */
+  display: inline-block;
 }
 
 /* Style anchor links inside the list */
 .downloads a {
-  display: inline-flex; /* Align text and icon inside the button */
-  align-items: center; /* Vertically align icon and text */
-  justify-content: center; /* Center content within the button */
-  padding: 10px 15px; /* Adjust spacing for a button-like feel */
-  background: rgb(222, 222, 222); /* Button background color */
-  border-radius: 5px; /* Rounded corners */
-  border: 1px solid #d2d2d2; /* Subtle border */
-  font-size: 15px; /* Adjust font size */
-  font-weight: bold; /* Make text bold */
-  color: #636161; /* Default text color */
-  text-decoration: none; /* Remove underline */
-  gap: 8px; /* Add spacing between icon and text */
-  transition: all 0.3s ease; /* Smooth hover effect */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 15px;
+  background: rgb(222, 222, 222);
+  border-radius: 5px;
+  border: 1px solid #d2d2d2;
+  font-size: 15px;
+  font-weight: bold;
+  color: #636161;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  gap: 8px; /* Space between icon and text */
 }
 
-/* Styling for the GitHub icon inside the button */
+/* Hover effects for the buttons */
+.downloads a:hover {
+  background-color: #d8e9f8;
+  color: #59a2f7;
+}
+
+/* Optional: Styling for bold text in the button */
+.downloads a strong {
+  color: black;
+}
+
+/* Icon styling */
 .icon i {
-  display: inline-block; /* Ensure the icon is inline */
-  font-family: "Font Awesome 5 Brands"; /* Use Font Awesome */
-  font-size: 18px; /* Icon size */
-  color: inherit; /* Match text color */
-  margin: 0; /* Remove extra spacing */
+  font-size: 18px;
+  color: inherit;
 }
 
 /* Optional: Styling for bold text inside the button */
