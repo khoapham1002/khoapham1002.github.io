@@ -20,7 +20,7 @@ img {
 
 /* Specific styles for headings */
 h1 {
-  font-size: 45px;
+  font-size: 51px;
   // margin-bottom: 5px;
   // line-height: 1.1;
 }
@@ -176,7 +176,7 @@ ul.downloads {
 .downloads a {
   display: inline-block;
   text-align: center;
-  padding: 5px 5px;
+  padding: 10px 10px;
   background: rgb(222, 222, 222);
   border-radius: 5px;
   border: 1px solid #d2d2d2;
@@ -278,7 +278,7 @@ ul.downloads {
   }
 
   header {
-    padding-right:320px;
+    // padding-right:320px;
   }
 
   section {
