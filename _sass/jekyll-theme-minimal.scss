@@ -78,7 +78,7 @@ section {
 
 /* Paragraphs, lists, and other block elements */
 p, ul, ol, table, pre, dl {
-  // margin: 0 0 20px; /* Shared margin for these elements */
+  margin: 15px 0 15px;
 }
 
 a {
@@ -278,9 +278,9 @@ ul.downloads {
     width:auto;
   }
 
-  // header {
-  //   padding-right:320px;
-  // }
+  header {
+    padding-right:320px;
+  }
 
   section {
     border:1px solid #e5e5e5;
