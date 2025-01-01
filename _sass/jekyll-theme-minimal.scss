@@ -70,13 +70,13 @@ header {
 }
 
 section {
-  width:550px;
+  width:560px;
   float:right;
   padding-bottom: 35px;
 }
 
 .wrapper {
-  width:900px;
+  width: 900px;
   margin: 0 auto;
 }
 
@@ -90,6 +90,29 @@ a {
 a:hover, a:focus {
   color:#003693;
   font-weight: bold;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  border: none; /* Removes the table's outer border */
+  table-layout: fixed; /* Ensures equal column widths */
+}
+
+th, td {
+  color: white;
+  text-align: left;
+  padding: 5px 10px;
+  border: none;
+}
+
+th {
+  font-weight: normal;
+}
+
+dt {
+  color: white;
+  font-weight: 700;
 }
 
 blockquote {
@@ -111,28 +134,6 @@ pre {
   border-radius:5px;
   border:1px solid #e5e5e5;
   overflow-x: auto;
-}
-
-table {
-  width: 100%;
-  border-collapse: collapse;
-  border: none; /* Removes the table's outer border */
-}
-
-th, td {
-  color: white;
-  text-align: left;
-  padding: 5px 10px;
-  border: none;
-}
-
-th {
-  font-weight: normal;
-}
-
-dt {
-  color: white;
-  font-weight: 700;
 }
 
 
