@@ -204,46 +204,48 @@ ul.downloads {
   font-size: 17px;
 }
 
-i {
-  border: none; /* Remove any borders */
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
-  background: none; /* Remove background */
-  content: none; /* Ensure no placeholder content */
-}
-
-/* Reset styles for the <i> element */
-.icon i {
-  all: unset; /* Reset any inherited styles */
-  display: inline-block; /* Ensure it displays as an inline icon */
-  font-family: "Font Awesome 5 Brands"; /* Force use of Font Awesome Brands */
-  font-size: 20px; /* Icon size */
-  margin-right: 10px; /* Spacing between icon and text */
-  color: inherit; /* Match text color */
-}
+// i {
+//   border: none; /* Remove any borders */
+//   padding: 0; /* Remove padding */
+//   margin: 0; /* Remove margins */
+//   background: none; /* Remove background */
+//   content: none; /* Ensure no placeholder content */
+// }
 
 /* Style the anchor tag for the button */
 .icon {
   display: inline-flex; /* Align icon and text horizontally */
-  align-items: center; /* Vertically align items in the center */
+  align-items: center; /* Vertically align icon and text */
+  justify-content: center; /* Center everything within the button */
   background: rgb(223, 222, 222); /* Button background color */
   border: 1px solid #d2d2d2; /* Subtle border around the button */
   border-radius: 5px; /* Rounded corners */
-  padding: 10px 10px; /* Add spacing inside the button */
+  padding: 10px 15px; /* Adjust spacing inside the button */
   text-decoration: none; /* Remove underline */
   color: #636161; /* Default text color */
   font-weight: bold; /* Bold text for the button */
+  gap: 8px; /* Add space between the icon and text */
+  width: fit-content; /* Ensure the button only takes as much space as needed */
+}
+
+/* Style the <i> element (GitHub Icon) */
+.icon i {
+  display: inline-block; /* Ensure the icon is inline with the text */
+  font-family: "Font Awesome 5 Brands"; /* Force use of Font Awesome Brands */
+  font-size: 18px; /* Icon size */
+  color: inherit; /* Match text color */
+  margin: 0; /* Remove extra spacing */
+}
+
+/* Optional: Styling for the <strong> element */
+.icon strong {
+  color: black; /* Keep GitHub text bold and black */
 }
 
 /* Hover effect for the button */
 .icon:hover {
   background-color: #d8e9f8; /* Light blue background on hover */
   color: #59a2f7; /* Change text color to blue on hover */
-}
-
-/* Optional: Styling for the strong element in the text */
-.icon strong {
-  color: black; /* Keep GitHub text bold and black */
 }
 
 .made-by {
