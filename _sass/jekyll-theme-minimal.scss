@@ -72,13 +72,14 @@ header {
   width:300px;
   float:left;
   position:fixed;
-  top: 50px;
+  top: 0;
   font-size: 14.5px;
   font-weight:350;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
 section {
+  top: 40px;
   width:620px;
   float:right;
   padding-bottom: 25px;
