@@ -37,6 +37,10 @@ header {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+strong {
+  color: white;
+  font-weight: 800;
+}
 
 /* Paragraphs, lists, and other block elements */
 p, ul, ol, table, pre, dl {
@@ -183,11 +187,6 @@ ul.downloads {
 // .downloads ul a:active {
 //   background-color:#6eafe4;
 // }
-
-strong {
-  color: white;
-  font-weight: 750;
-}
 
 // .downloads li + li + li {
 //   border-right:none;
