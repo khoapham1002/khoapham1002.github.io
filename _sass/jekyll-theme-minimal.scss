@@ -107,30 +107,29 @@ pre {
 }
 
 table {
-  width:100%;
-  border-collapse:collapse;
+  width: 100%;
+  border-collapse: collapse; /* Still keeps cell spacing consistent */
+  border: none; /* Removes the table's outer border */
 }
 
 th, td {
-  text-align:left;
-  padding:5px 10px;
-  // border-bottom:1px solid #333333;
-  border-top: 1px solid lightgray;
-  border-bottom:1px solid lightgray;
+  text-align: left;
+  padding: 5px 10px;
+  border: none; /* Removes any borders from table cells */
 }
 
 dt {
   color: white;
-  font-weight:700;
+  font-weight: 700;
 }
 
 th {
-  color:white;
+  color: white;
   font-weight: normal;
 }
 
 img {
-  max-width:80%;
+  max-width:85%;
 }
 
 kbd {
