@@ -202,36 +202,37 @@ ul.downloads {
   font-size: 17px;
 }
 
-i {
-  border: none; /* Remove any borders */
-  padding: 0; /* Remove padding */
-  margin: 0; /* Remove margins */
-  background: none; /* Remove background */
-  content: none; /* Ensure no placeholder content */
-}
+// i {
+//   border: none; /* Remove any borders */
+//   padding: 0; /* Remove padding */
+//   margin: 0; /* Remove margins */
+//   background: none; /* Remove background */
+//   content: none; /* Ensure no placeholder content */
+// }
 
 /* Style the anchor tag for the button */
 .icon {
   display: inline-flex; /* Align icon and text horizontally */
   align-items: center; /* Vertically align icon and text */
-  justify-content: center; /* Center everything within the button */
+  justify-content: center; /* Center content within the button */
   background: rgb(222, 222, 222); /* Button background color */
   border: 1px solid #d2d2d2; /* Subtle border around the button */
   border-radius: 5px; /* Rounded corners */
-  padding: 10px 10px; /* Adjust spacing inside the button */
+  padding: 10px 15px; /* Adjust spacing inside the button */
   text-decoration: none; /* Remove underline */
   color: #636161; /* Default text color */
   font-weight: bold; /* Bold text for the button */
   gap: 8px; /* Add space between the icon and text */
   width: fit-content; /* Ensure the button only takes as much space as needed */
+  margin: 0 auto; /* Center the button horizontally in its container */
 }
 
 /* Style the <i> element (GitHub Icon) */
 .icon i {
   display: inline-block; /* Ensure the icon is inline with the text */
-  font-family: "Font Awesome 5 Brands"; /* Force use of Font Awesome Brands */
-  font-size: 18px; /* Icon size */
-  color: inherit; /* Match text color */
+  font-family: "Font Awesome 5 Brands"; /* Use Font Awesome */
+  font-size: 18px; /* Adjust the icon size */
+  color: inherit; /* Match the button text color */
   margin: 0; /* Remove extra spacing */
 }
 
@@ -240,17 +241,18 @@ i {
   color: black; /* Keep GitHub text bold and black */
 }
 
-/* Hover effect for the button */
+/* Hover effect */
 .icon:hover {
-  background-color: #d8e9f8; /* Light blue background on hover */
-  color: #59a2f7; /* Change text color to blue on hover */
+  background-color: #d8e9f8; /* Light blue background */
+  color: #59a2f7; /* Change text color */
 }
 
+/* Styling for "Made by" text */
 .made-by {
-  color: #f0f0f0; /* Optional: Add a subtle color */
-  text-align: center; /* Center the "Made by" text */
-  margin-top: 5px;
-  font-size: 14px; /* Optional: Adjust the font size */
+  color: #f0f0f0; /* Subtle light color */
+  text-align: center; /* Center align text */
+  margin-top: 10px; /* Add space above */
+  font-size: 14px;
 }
 
 // footer {
