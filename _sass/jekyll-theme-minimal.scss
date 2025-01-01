@@ -180,7 +180,7 @@ ul.downloads {
   padding: 0; /* Remove padding */
   margin: 20px auto; /* Center list */
   display: flex; /* Align buttons horizontally */
-  gap: 8px; /* Adjust spacing between buttons */
+  gap: 9px; /* Adjust spacing between buttons */
   justify-content: center; /* Center buttons horizontally */
 }
 
@@ -242,6 +242,8 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
+/* Adjustments for smaller screens */
+
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
@@ -253,6 +255,19 @@ footer {
     float:none;
     position:static;
     width:auto;
+  }
+
+  .downloads-container {
+    display: block; /* Ensure it behaves like a normal block below the paragraph */
+    margin: 20px auto; /* Maintain spacing */
+    text-align: center; /* Center-align on smaller screens */
+  }
+
+  ul.downloads {
+    display: flex;
+    flex-direction: row; /* Buttons stay horizontal */
+    justify-content: center; /* Center buttons horizontally */
+    margin: 20px auto; /* Space between paragraph and buttons */
   }
 
   header {
@@ -292,6 +307,15 @@ footer {
 
   pre, code {
     word-wrap:normal;
+  }
+
+  .downloads-container {
+    margin: 20px 0; /* Adjust spacing for smaller screens */
+  }
+
+  ul.downloads {
+    flex-direction: column; /* Stack buttons vertically if needed */
+    gap: 10px; /* Space between buttons */
   }
 }
 
