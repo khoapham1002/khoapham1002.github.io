@@ -42,11 +42,11 @@ layout: default
 - Cleaned and preprocessed unstructured biomedical data, including electronic health record (EHR) notes and scientific articles, to support information retrieval and NLP workflows.
 - Gained hands-on experience with Hadoop, Spark, and MapReduce for processing large datasets, optimizing parsing efficiency, and building inverse index tables for search and retrieval tasks.
 
-#### **Data Science Program’s Mentor** \| CICS Informatics Department \| Amherst, MA | Sep 2021 – May 2022
+#### **Data Science Program’s Mentor** \| [CICS Informatics Department](https://www.cics.umass.edu/advising/undergraduate-advising/undergraduate-peer-advising) \| Amherst, MA | Sep 2021 – May 2022
 
 - Mentored students in the Data Science Track with curriculum planning, long-term academic goal setting, and career development, fostering connections with mentors in the Computer Science Department.
 
-#### **Teaching Assistant** \| Five College Language Program \| Amherst, MA | Sep 2021 – Jan 2022
+#### **Teaching Assistant** \| [Five College Language Program](https://www.fivecolleges.edu/languages) \| Amherst, MA | Sep 2021 – Jan 2022
 
 - Conduct weekly lessons to improve students’ language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
