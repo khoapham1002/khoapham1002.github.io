@@ -16,7 +16,7 @@
 
 * * *
 
-### Contact & Links
+### Links & Contacts
 
 | [LinkedIn][linkedin] | [Kaggle][kaggle]   | kdpham@umass.edu |
 |:--------------------:|:------------------:|:----------------:|
