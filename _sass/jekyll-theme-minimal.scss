@@ -21,6 +21,7 @@ p, ul, ol, table, pre, dl {
 
 img {
   max-width:100%;
+  height:auto;
 }
 
 
@@ -83,12 +84,12 @@ section {
 a {
   color:#59a2f7;
   text-decoration:none;
-  // font-weight: bold;
+  font-weight: bold;
 }
 
 a:hover, a:focus {
   color:#003693;
-  // font-weight: bold;
+  font-weight: bold;
 }
 
 table {

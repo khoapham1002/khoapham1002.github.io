@@ -21,7 +21,7 @@
 | [LinkedIn][linkedin] | [Kaggle][kaggle]   | kdpham@umass.edu |
 |:--------------------:|:------------------:|:----------------:|
 | [GitHub][github]     | [Tableau][tableau] |   714-858-7494   |
-|                      |                    |                  |
+<!-- |                      |                    |                  | -->
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [github]: https://github.com/kdpham-01002?tab=repositories
