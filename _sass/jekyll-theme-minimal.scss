@@ -218,16 +218,37 @@ ul.downloads {
   font-weight: bold;
 }
 
-/* Icon styling */
-.icon .fab {
-  margin-right: 8px; /* Space between the icon and the text */
-  font-size: 18px; /* Adjust icon size */
+.icon i {
+  all: unset; /* Reset inherited styles */
+  font-family: "Font Awesome 5 Brands"; /* Ensure the GitHub logo font is used */
+  font-size: 18px; /* Adjust the icon size */
+  margin-right: 8px; /* Space between the icon and text */
 }
 
-/* Hover effect */
+.icon {
+  display: inline-flex;
+  align-items: center;
+  background: rgb(223, 222, 222);
+  border: 1px solid #d2d2d2;
+  border-radius: 5px;
+  padding: 10px 15px;
+  text-decoration: none;
+  color: #636161;
+  font-weight: bold;
+}
+
 .icon:hover {
-  background-color: #d8e9f8; /* Change background color on hover */
-  color: #59a2f7; /* Change text color on hover */
+  background-color: #d8e9f8;
+  color: #59a2f7;
+}
+
+.icon i {
+  font-size: 18px;
+  margin-right: 8px;
+}
+
+.icon strong {
+  color: black;
 }
 
 .made-by {
