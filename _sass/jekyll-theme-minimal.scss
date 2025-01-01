@@ -14,9 +14,14 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 20px; /* Consistent margin */
 }
 
+img {
+  max-width:95%;
+}
+
 /* Specific styles for headings */
 h1 {
   font-size: 40px;
+  margin-bottom: 0;
   // text-align: center;
   // line-height: 1.1;
 }
@@ -45,9 +50,6 @@ strong {
 //   font-size:11px;
 // }
 
-img {
-  max-width:90%;
-}
 
 header {
   width:300px;
@@ -58,7 +60,7 @@ header {
 }
 
 section {
-  width:550px;
+  width:600px;
   float:right;
   padding-bottom:40px;
 }
