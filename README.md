@@ -3,10 +3,10 @@
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
   <ul>
-    <li><a href="#contact--links">Contact & Links</a></li>
+    <li><a href="#links--contacts">Links & Contacts</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
-    <li><a href="./my-experiences.html">My Experiences</a></li>
+    <li><a href="./my-experiences">My Experiences</a></li>
     <!-- <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
     <li><a href="#interests">Interests</a></li>
