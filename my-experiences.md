@@ -27,7 +27,7 @@ layout: default
 - **Bachelor of Science (B.S), Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
   - Dean’s List (all year), Chancellor’s Award Scholarship, Nomination of The National Society of Leadership
 
-- **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Media Marketing
+- **Relevant Courses:** Database Management (SQL); Data Science for Business (Python); Data Mining in Business (XLMiner); Applied Statistics (R); Web Programming (JavaScript, HTML, CSS); Data Structures & Algorithms (Java); Linear Algebra; Discrete Math; Media Marketing
 
 * * *
 
