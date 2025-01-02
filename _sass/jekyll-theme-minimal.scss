@@ -223,6 +223,10 @@ ul.downloads {
   color: black;
 }
 
+.downloads a strong:hover, .downloads a strong:focus {
+  color:#0022ff;
+}
+
 /* Style the "Made by" text */
 .made-by {
   color: #f0f0f0; /* Subtle text color */
