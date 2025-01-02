@@ -41,6 +41,8 @@
 <!-- [website]: https://kdpham-01002.github.io/DS_portfolio/ -->
 <!-- https://vsco.co/teenee3051/gallery -->
 
+* * *
+
 ### Technical Skills
 
 - **Tools:** Python (Pandas, NumPy, Seaborn) , SQL (MySQL, PostgreSQL, AWS Redshift), R (dplyr, tidyr, ggplot2), Tableau, Excel
