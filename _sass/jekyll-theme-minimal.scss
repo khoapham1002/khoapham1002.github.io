@@ -311,6 +311,7 @@ ul.downloads {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap: break-word;
+    padding: 15px;
   }
 
   header {
