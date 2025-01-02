@@ -167,68 +167,6 @@ hr {
   margin: 20px 0px 20px;
 }
 
-/* Center the container for downloads and text */
-.downloads-container {
-  display: flex; /* Use flexbox for alignment */
-  flex-direction: column; /* Stack items vertically */
-  align-items: center; /* Center horizontally */
-  text-align: center; /* Center text alignment */
-  margin: 20px auto; /* Center container on the page */
-}
-
-/* Center and align the list of buttons */
-ul.downloads {
-  list-style: none; /* Remove bullet points */
-  padding: 0; /* Remove padding */
-  margin: 20px auto; /* Center list */
-  display: flex; /* Align buttons horizontally */
-  gap: 10px; /* Adjust spacing between buttons */
-  justify-content: center; /* Center buttons horizontally */
-}
-
-/* Style individual list items */
-.downloads li {
-  display: inline-block; /* Align buttons side by side */
-}
-
-/* Style the buttons */
-.downloads a {
-  display: inline-flex; /* Align text and icon inside button */
-  align-items: center; /* Vertically center icon and text */
-  justify-content: center; /* Horizontally center content */
-  padding: 8px 12px; /* Adjust padding for smaller button size */
-  background: rgb(222, 222, 222); /* Button background */
-  border-radius: 5px; /* Rounded corners */
-  border: 1px solid #d2d2d2; /* Subtle border */
-  font-size: 14px; /* Reduce font size slightly */
-  font-weight: bold; /* Keep text bold */
-  color: #636161; /* Default text color */
-  text-decoration: none; /* Remove underline */
-  gap: 6px; /* Space between icon and text */
-  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth hover effect */
-}
-
-/* Hover effects for the buttons */
-.downloads a:hover {
-  background-color: #d8e9f8; /* Light blue background on hover */
-  color: #59a2f7; /* Change text color on hover */
-}
-
-/* Style the icon inside the button */
-.downloads a i {
-  font-size: 16px; /* Adjust icon size */
-  color: inherit; /* Match text color */
-}
-
-/* Optional: Bold styling for text in the button */
-.downloads a strong {
-  color: black;
-}
-
-.downloads a strong:hover, .downloads a strong:focus {
-  color:#0022ff;
-}
-
 /* Style the "Made by" text */
 .made-by {
   text-align: center; /* Center text alignment */
@@ -236,122 +174,114 @@ ul.downloads {
   margin-top: 10px; /* Add spacing above */
 }
 
-footer {
-  color: #f0f0f0; /* Subtle light text color */
-  text-align: center;
-  font-size: 13px;
-  width: auto; /*270px*/
-  float: left;
-  position:fixed;
-  bottom: 0px;
-  -webkit-font-smoothing:subpixel-antialiased;
+// footer {
+//   color: #f0f0f0; /* Subtle light text color */
+//   text-align: center;
+//   font-size: 13px;
+//   width: auto; /*270px*/
+//   float: left;
+//   position:fixed;
+//   bottom: 0px;
+//   -webkit-font-smoothing:subpixel-antialiased;
+// }
+
+/* General styling for downloads container */
+.downloads-container {
+  display: flex; /* Flexbox for alignment */
+  justify-content: flex-end; /* Align to the right by default */
+  gap: 10px; /* Space between buttons */
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  margin: 0; /* Reset margin */
+  padding: 0; /* Reset padding */
 }
 
-/* Adjustments for smaller screens */
-@media print, screen and (max-width: 960px) {
-  div.wrapper {
-    width: auto;
-    margin: 0;
-  }
+/* Ensure buttons stay side-by-side by default */
+ul.downloads {
+  list-style: none; /* Remove bullet points */
+  display: flex; /* Flexbox for horizontal alignment */
+  gap: 10px; /* Space between buttons */
+  padding: 0;
+  margin: 0;
+  justify-content: center; /* Align buttons to center */
+}
 
-  header, section, footer {
-    float: none;
-    position: static;
-    width: auto;
+/* Style for buttons */
+.downloads a {
+  display: inline-flex; /* Inline-flex ensures proper alignment */
+  align-items: center; /* Center text and icons vertically */
+  justify-content: center; /* Center content horizontally */
+  padding: 8px 12px; /* Button padding */
+  background: rgb(222, 222, 222); /* Button background color */
+  border-radius: 5px; /* Rounded corners */
+  border: 1px solid #d2d2d2; /* Border color */
+  font-size: 14px; /* Font size */
+  font-weight: bold; /* Bold text */
+  text-decoration: none; /* Remove underlines */
+  color: #636161; /* Text color */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth hover effects */
+}
+
+/* Hover effect for buttons */
+.downloads a:hover {
+  background-color: #d8e9f8; /* Light blue hover background */
+  color: #59a2f7; /* Blue hover text color */
+}
+
+/* Media query for screens smaller than 960px */
+@media screen and (max-width: 960px) {
+  header {
+    display: flex;
+    flex-direction: column; /* Stack header content vertically */
+    align-items: center; /* Center-align content */
+    gap: 20px; /* Add spacing between elements */
   }
 
   .downloads-container {
-    display: flex; /* Flexbox ensures alignment stays intact */
-    flex-wrap: wrap; /* Allow buttons to wrap on smaller screens */
-    justify-content: center; /* Center-align on smaller screens */
-    margin: 20px auto; /* Maintain spacing */
-  }
-
-  ul.downloads {
-    display: flex;
-    flex-direction: row; /* Buttons stay horizontal */
-    justify-content: center; /* Center buttons horizontally */
-    margin: auto; /* Space between paragraph and buttons */
-  }
-
-  header {
-    padding-right: 320px;
-  }
-
-  section {
-    border: 1px solid #e5e5e5;
-    border-width: 1px 0;
-    padding: 20px 0px;
-    margin: 0 0 20px;
-  }
-
-  header a small {
-    display: inline;
-  }
-
-  header ul {
-    position: absolute;
-    right: 50px;
-    top: 52px;
+    justify-content: center; /* Center the buttons */
+    margin: 10px 0; /* Add spacing around buttons */
   }
 }
 
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap: break-word;
-  }
-
+/* Media query for screens smaller than 720px */
+@media screen and (max-width: 720px) {
   header {
-    padding: 0;
-    display: flex;
-    flex-direction: column; /* Stack header items vertically */
+    flex-direction: column; /* Ensure header stacks vertically */
     align-items: center; /* Center header elements */
-    gap: 10px; /* Add spacing between header elements */
-  }
-
-  header ul, header p.view {
-    position: static;
-  }
-
-  pre, code {
-    word-wrap: normal;
-  }
-
-  .downloads-container {
-    display: flex; /* Ensure flexbox remains intact */
-    flex-wrap: wrap; /* Allow buttons to wrap */
-    justify-content: center; /* Center-align the buttons */
-    align-items: center; /* Center-align buttons vertically */
-    margin: 10px auto; /* Add consistent spacing */
-  }
-
-  ul.downloads {
-    flex-direction: row; /* Keep buttons horizontal */
-    justify-content: center; /* Center-align horizontally */
-  }
-
-  .downloads a {
-    font-size: 12px; /* Adjust size for smaller screens */
-    padding: 6px 10px; /* Reduce button padding */
-  }
-}
-
-@media print, screen and (max-width: 480px) {
-  body {
-    padding: 15px;
+    padding: 0 10px; /* Adjust padding for smaller screens */
   }
 
   .downloads-container {
     flex-direction: column; /* Stack buttons vertically */
-    justify-content: center; /* Center-align on smaller screens */
-    gap: 10px; /* Add spacing between buttons */
+    align-items: center; /* Center-align buttons */
+    gap: 15px; /* Add spacing between buttons */
+    margin: 10px auto; /* Center the container */
+  }
+
+  ul.downloads {
+    flex-direction: column; /* Stack buttons vertically */
+    gap: 15px; /* Space between buttons */
   }
 
   .downloads a {
-    width: 100%; /* Full-width buttons */
-    font-size: 14px; /* Keep text readable */
-    padding: 10px; /* Add padding for touch devices */
+    width: 100%; /* Make buttons full-width for smaller screens */
     text-align: center; /* Center-align text */
+    padding: 10px; /* Adjust padding for touch-friendliness */
+  }
+}
+
+/* Media query for screens smaller than 480px */
+@media screen and (max-width: 480px) {
+  header {
+    padding: 0 5px; /* Reduce padding for small screens */
+  }
+
+  .downloads-container {
+    gap: 10px; /* Adjust spacing for small screens */
+  }
+
+  .downloads a {
+    font-size: 12px; /* Reduce button font size */
+    padding: 8px; /* Adjust button padding */
   }
 }
 
