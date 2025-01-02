@@ -247,103 +247,140 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-/* Adjustments for smaller screens */
+// /* Adjustments for smaller screens */
 
-@media print, screen and (max-width: 960px) {
-
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
-
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-
-  .downloads-container {
-    display: block; /* Ensure it behaves like a normal block below the paragraph */
-    margin: 20px auto; /* Maintain spacing */
-    text-align: center; /* Center-align on smaller screens */
-  }
-
-  ul.downloads {
-    display: flex;
-    flex-direction: row; /* Buttons stay horizontal */
-    justify-content: center; /* Center buttons horizontally */
-    margin: auto; /* Space between paragraph and buttons */
-  }
-
+/* Responsive adjustments for smaller screens */
+@media screen and (max-width: 960px) {
   header {
-    padding-right:320px;
-  }
-
-  section {
-    border:1px solid #e5e5e5;
-    border-width:1px 0;
-    padding:20px 0px;
-    margin:0 0 20px;
-  }
-
-  header a small {
-    display:inline;
-  }
-
-  header ul {
-    position:absolute;
-    right:50px;
-    top:52px;
-  }
-}
-
-@media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
-  }
-
-  // header {
-  //   padding:0;
-  // }
-
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
-
-  // header ul, header p.view {
-  //   position:static;
-  // }
-
-  pre, code {
-    word-wrap:normal;
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    align-items: center; /* Center content */
   }
 
   .downloads-container {
-    margin: auto;
-  }
-
-}
-
-@media print, screen and (max-width: 480px) {
-  // body {
-  //   padding:15px;
-  // }
-
-  .downloads {
-    width:99%;
-  }
-
-  .downloads li {
-    width:33%;
+    justify-content: center; /* Center buttons below other header elements */
+    margin-top: 20px; /* Add some spacing */
   }
 }
 
-@media print {
-  body {
-    padding:0.4in;
-    font-size:12pt;
-    color: white;
+@media screen and (max-width: 720px) {
+  .downloads-container a {
+    font-size: 14px; /* Adjust button size */
+    padding: 8px 15px;
   }
+}
+
+@media screen and (max-width: 480px) {
+  header {
+    padding: 10px; /* Reduce header padding */
+  }
+
+  .downloads-container {
+    flex-direction: column; /* Stack buttons vertically */
+    align-items: center;
+    margin: 0 auto; /* Center-align */
+  }
+
+  .downloads-container a {
+    width: 80%; /* Make buttons full-width */
+    margin-bottom: 10px;
+  }
+
+// @media print, screen and (max-width: 960px) {
+
+//   div.wrapper {
+//     width:auto;
+//     margin:0;
+//   }
+
+//   header, section, footer {
+//     float:none;
+//     position:static;
+//     width:auto;
+//   }
+
+//   .downloads-container {
+//     display: block; /* Ensure it behaves like a normal block below the paragraph */
+//     margin: 20px auto; /* Maintain spacing */
+//     text-align: center; /* Center-align on smaller screens */
+//   }
+
+//   ul.downloads {
+//     display: flex;
+//     flex-direction: row; /* Buttons stay horizontal */
+//     justify-content: center; /* Center buttons horizontally */
+//     margin: auto; /* Space between paragraph and buttons */
+//   }
+
+//   header {
+//     padding-right:320px;
+//   }
+
+//   section {
+//     border:1px solid #e5e5e5;
+//     border-width:1px 0;
+//     padding:20px 0px;
+//     margin:0 0 20px;
+//   }
+
+//   header a small {
+//     display:inline;
+//   }
+
+//   header ul {
+//     position:absolute;
+//     right:50px;
+//     top:52px;
+//   }
+// }
+
+// @media print, screen and (max-width: 720px) {
+//   body {
+//     word-wrap:break-word;
+//   }
+
+//   // header {
+//   //   padding:0;
+//   // }
+
+//   header, section, footer {
+//     float:none;
+//     position:static;
+//     width:auto;
+//   }
+
+//   // header ul, header p.view {
+//   //   position:static;
+//   // }
+
+//   pre, code {
+//     word-wrap:normal;
+//   }
+
+//   .downloads-container {
+//     margin: auto;
+//   }
+
+// }
+
+// @media print, screen and (max-width: 480px) {
+//   body {
+//     padding:15px;
+//   }
+
+//   .downloads {
+//     width:99%;
+//   }
+
+//   .downloads li {
+//     width:33%;
+//   }
+// }
+
+// @media print {
+//   body {
+//     padding:0.4in;
+//     font-size:12pt;
+//     color: white;
+//   }
 }
