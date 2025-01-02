@@ -305,54 +305,41 @@ ul.downloads {
     padding: 15px;
   }
 
-  /* Adjust header for smaller screens */
   header {
-    position: static; /* Ensure header flows with content */
-    width: 100%; /* Make the header take up full width */
+    padding: 0;
     display: flex;
-    flex-direction: column; /* Stack header elements vertically */
-    align-items: center; /* Center header content */
-    padding: 10px; /* Add some padding for spacing */
-    gap: 20px; /* Add spacing between header elements */
+    flex-direction: column; /* Stack header items vertically */
+    align-items: center; /* Center header elements */
+    gap: 10px; /* Add spacing between header elements */
   }
 
-  /* Wrapper adjustments */
-  .wrapper {
-    width: auto; /* Make wrapper width auto to fit screen */
-    margin: 0; /* Remove extra margins */
+  header ul, header p.view {
+    position: static;
   }
 
-  /* Adjust section for responsive layout */
-  section {
-    width: 100%; /* Make section take up full width */
-    float: none; /* Remove float for proper stacking */
-    padding: 20px; /* Add padding for content */
+  pre, code {
+    word-wrap: normal;
   }
 
-  /* Ensure downloads container aligns properly */
   .downloads-container {
-    display: flex;
-    flex-wrap: wrap; /* Allow buttons to wrap */
-    justify-content: center; /* Center buttons */
-    margin: 20px auto; /* Maintain spacing */
+    flex-wrap: wrap; /* Allow buttons to wrap to the next line */
+    justify-content: center; /* Center buttons on smaller screens */
   }
 
   .downloads-container a {
-    flex: 1 1 45%; /* Make buttons take up 45% of the width */
+    flex: 1 1 45%; /* Buttons take up 45% of the width */
     text-align: center; /* Center-align button content */
-    margin: 5px; /* Add spacing between buttons */
+    margin: 5px; /* Add spacing between wrapped buttons */
   }
 
   ul.downloads {
-    display: flex;
-    flex-wrap: wrap; /* Allow buttons to wrap */
-    gap: 10px; /* Add space between buttons */
-    justify-content: center; /* Center-align the buttons */
+    flex-direction: row; /* Keep buttons horizontal */
+    justify-content: center; /* Center-align horizontally */
   }
 
   .downloads a {
-    font-size: 14px; /* Keep buttons readable */
-    padding: 10px 15px; /* Add padding for better touch experience */
+    font-size: 12px; /* Adjust size for smaller screens */
+    padding: 6px 10px; /* Reduce button padding */
   }
 }
 
