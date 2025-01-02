@@ -29,10 +29,6 @@ header {
   font-size: 14.5px;
   font-weight:350;
   -webkit-font-smoothing:subpixel-antialiased;
-  // display: flex; /* Enable flexbox */
-  // flex-direction: column; /* Stack elements vertically */
-  // align-items: center; /* Center elements horizontally */
-  // justify-content: center; /* Center elements vertically (if needed) */
 }
 
 section {
@@ -55,7 +51,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
   color: white;
-  font-size: 52.5px;
+  font-size: 50px;
   margin: 10 0 10px;
   text-align: center; /* Ensure text is centered */
   justify-content: center;
@@ -260,29 +256,32 @@ ul.downloads {
 @media print, screen and (max-width: 960px) {
   body {
     padding: 20px;
+    word-wrap: normal;
   }
 
-  div.wrapper {
-    width:auto;
-    margin:0;
-  }
+  // div.wrapper {
+  //   width:auto;
+  //   margin:0;
+  // }
 
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-  }
+  // header, section, footer {
+  //   float:none;
+  //   position:static;
+  //   width:auto;
+  // }
 }
 
 @media print, screen and (max-width: 720px) {
   body {
     padding: 20px;
+    word-wrap: normal;
   }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
     padding: 20px;
+    word-wrap: normal;
   }
 }
 
