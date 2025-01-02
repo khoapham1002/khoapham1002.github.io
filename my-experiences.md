@@ -73,4 +73,4 @@ layout: default
 
 ##### [Back to My Portfolio](./)
 
-* * *
+<!-- * * * -->
