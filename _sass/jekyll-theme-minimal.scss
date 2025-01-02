@@ -318,11 +318,14 @@ ul.downloads {
   }
 
   .downloads-container {
-    display: flex; /* Ensure flexbox remains intact */
-    flex-wrap: wrap; /* Allow buttons to wrap */
-    justify-content: center; /* Center-align the buttons */
-    align-items: center; /* Center-align buttons vertically */
-    margin: 10px auto; /* Add consistent spacing */
+    flex-wrap: wrap; /* Allow buttons to wrap to the next line */
+    justify-content: center; /* Center buttons on smaller screens */
+  }
+
+  .downloads-container a {
+    flex: 1 1 45%; /* Buttons take up 45% of the width */
+    text-align: center; /* Center-align button content */
+    margin: 5px; /* Add spacing between wrapped buttons */
   }
 
   ul.downloads {
