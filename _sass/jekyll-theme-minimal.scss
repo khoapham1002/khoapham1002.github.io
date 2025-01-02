@@ -273,7 +273,7 @@ ul.downloads {
     word-wrap:break-word;
     padding:15px;
   }
-  h1 {
+  header {
     align-items: center;
   }
 }
@@ -281,6 +281,10 @@ ul.downloads {
 @media print, screen and (max-width: 480px) {
   body {
     padding:15px;
+  }
+  
+  header {
+    align-items: center;
   }
 }
 
