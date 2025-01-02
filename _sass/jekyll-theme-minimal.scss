@@ -23,13 +23,16 @@ img {
 header {
   // background-color: rgb(46, 61, 72);
   width:300px;
-  align-items: center;
   float:left;
   position:fixed;
   top: 0;
   font-size: 14.5px;
   font-weight:350;
   -webkit-font-smoothing:subpixel-antialiased;
+  // display: flex; /* Enable flexbox */
+  // flex-direction: column; /* Stack elements vertically */
+  // align-items: center; /* Center elements horizontally */
+  // justify-content: center; /* Center elements vertically (if needed) */
 }
 
 section {
@@ -54,6 +57,7 @@ h1 {
   color: white;
   font-size: 52.5px;
   margin: 10 0 10px;
+  text-align: center; /* Ensure text is centered */
   justify-content: center;
 }
 
