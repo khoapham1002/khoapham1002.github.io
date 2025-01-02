@@ -22,12 +22,13 @@ img {
 }
 
 header {
-  width:310px;
+  width: 320px;
   float:left;
   position:fixed;
   top: 0;
-  font-size: 14.5px;
+  font-size: 14px;
   font-weight:350;
+  border-bottom: 1px solid #dddd;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -52,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   color: white;
   font-size: 50px;
-  margin: 10 0 10px;
+  margin: 15px 0 10px;
   text-align: center;
   justify-content: center;
 }
@@ -149,11 +150,11 @@ pre {
 
 kbd {
   background-color: #fafbfc;
+  color: #444d56;
   border: 1px solid #c6cbd1;
   border-bottom-color: #959da5;
   border-radius: 3px;
   box-shadow: inset 0 -1px 0 #959da5;
-  color: #444d56;
   display: inline-block;
   font-size: 11px;
   line-height: 10px;
@@ -162,17 +163,17 @@ kbd {
 }
 
 hr {
-  border:0;
   background:#dddd;
+  border:0;
   height:1px;
   margin: 20px 0px 20px;
 }
 
 /* Style the "Made by" text */
 .made-by {
+  margin-top: 40px;
   text-align: center;
   font-size: 13px;
-  margin-top: 40px;
 }
 
 // footer {
