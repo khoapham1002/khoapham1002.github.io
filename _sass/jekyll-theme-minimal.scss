@@ -252,7 +252,6 @@ ul.downloads {
 /* Adjustments for smaller screens */
 @media print, screen and (max-width: 960px) {
   body {
-    word-wrap:break-word;
     padding: 20px;
   }
 
@@ -270,7 +269,6 @@ ul.downloads {
 
 @media print, screen and (max-width: 720px) {
   body {
-    word-wrap:break-word;
     padding: 20px;
   }
   header {
@@ -280,7 +278,6 @@ ul.downloads {
 
 @media print, screen and (max-width: 480px) {
   body {
-    word-wrap:break-word;
     padding: 20px;
   }
 
