@@ -3,29 +3,28 @@
 
 body {
   background-color: #121212;
-  // padding: 25px;
-  font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #f0f0f0ee;
+  font: 15px/1.6 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  // padding: 25px;
 }
 
 img {
   max-width:100%;
-  margin: 0 0 5px;
+  margin: 5px 0;
   height: auto;
   justify-content: center;
 }
 
 .wrapper {
-  width: 1000px;
-  margin: 0 auto;
+  width: auto;
+  margin: auto;
 }
 
 header {
-  // background-color: rgb(46, 61, 72);
   width:300px;
   float:left;
   position:fixed;
-  top: 0;
+  // top: 0;
   font-size: 14.5px;
   font-weight:350;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -171,9 +170,9 @@ hr {
 
 /* Style the "Made by" text */
 .made-by {
-  text-align: center; /* Center text alignment */
-  font-size: 13px; /* Reduce font size slightly */
-  margin-top: 10px; /* Add spacing above */
+  text-align: center;
+  font-size: 13px;
+  margin-top: 10px;
 }
 
 // footer {
