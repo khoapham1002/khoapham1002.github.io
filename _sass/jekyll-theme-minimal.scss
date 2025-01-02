@@ -253,7 +253,7 @@ ul.downloads {
 @media print, screen and (max-width: 960px) {
   body {
     word-wrap:break-word;
-    padding:15px;
+    padding: 20px;
   }
 
   div.wrapper {
@@ -271,7 +271,7 @@ ul.downloads {
 @media print, screen and (max-width: 720px) {
   body {
     word-wrap:break-word;
-    padding:15px;
+    padding: 20px;
   }
   header {
     align-items: center;
@@ -280,9 +280,10 @@ ul.downloads {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    word-wrap:break-word;
+    padding: 20px;
   }
-  
+
   header {
     align-items: center;
   }
