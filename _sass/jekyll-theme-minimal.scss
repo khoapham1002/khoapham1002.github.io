@@ -273,6 +273,9 @@ ul.downloads {
     word-wrap:break-word;
     padding:15px;
   }
+  h1 {
+    align-items: center;
+  }
 }
 
 @media print, screen and (max-width: 480px) {
