@@ -31,7 +31,7 @@ header {
 }
 
 section {
-  width:650px;
+  width:620px;
   float:right;
   padding: 20px 0 20px;
   font-size: 15.5px;
@@ -252,7 +252,7 @@ ul.downloads {
 @media print, screen and (max-width: 960px) {
   body {
     padding: 20px;
-    word-wrap: normal;
+    // word-wrap: normal;
   }
 
   // div.wrapper {
@@ -270,14 +270,14 @@ ul.downloads {
 @media print, screen and (max-width: 720px) {
   body {
     padding: 20px;
-    word-wrap: normal;
+    // word-wrap: normal;
   }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
     padding: 20px;
-    word-wrap: normal;
+    // word-wrap: normal;
   }
 }
 

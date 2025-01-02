@@ -14,10 +14,10 @@
 
 ### Links & Contacts
 
-|  ![Email](https://img.icons8.com/ios-filled/50/000000/email.png) kdpham@umass.edu  | [![LinkedIn](https://img.icons8.com/ios-filled/50/0077b5/linkedin.png) LinkedIn][linkedin] |  ![Phone](https://img.icons8.com/ios-filled/50/000000/phone.png) 714-858-7494  |
-|:-----------------------------------------------:|:------------------------------------------------:|:--------------------------------------------:|
-| [![Tableau](https://img.icons8.com/ios-filled/50/FF9800/tableau-software.png) Tableau][tableau] | [![GitHub](https://img.icons8.com/ios-filled/50/000000/github.png) GitHub][github] | [![Kaggle](https://img.icons8.com/ios-filled/50/20BEFF/kaggle.png) Kaggle][kaggle] |
-| [![Dance](https://img.icons8.com/ios-filled/50/8B4513/dance.png) Dance][dance] | [![Blog](https://img.icons8.com/ios-filled/50/000000/blog.png) Blog][blog] | [![Photography](https://img.icons8.com/ios-filled/50/000000/camera.png) Photography][vsco] |
+|  kdpham@umass.edu  | [LinkedIn][linkedin] |     714-858-7494    |
+|:------------------:|:--------------------:|:-------------------:|
+| [Tableau][tableau] |   [GitHub][github]   |   [Kaggle][kaggle]  |
+|   [Dance][dance]   |     [Blog][blog]     | [Photography][vsco] |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
 [github]: https://github.com/kdpham-01002?tab=repositories
@@ -26,6 +26,7 @@
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
+
 
 <!-- [Resume][resume]  -->
 <!-- [resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing -->
