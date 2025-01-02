@@ -6,12 +6,8 @@
     <li><a href="#links--contacts">Links & Contacts</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
-    <li><a href="./my-experiences"> >> My Experiences</a></li>
-    <!-- <li><a href="#professional-experience">Professional Experience</a></li>
-    <li><a href="#education">Education</a></li>
-    <li><a href="#interests">Interests</a></li>
-    <li><a href="./another-page.html#page-two">Page Two</a></li> -->
   </ul>
+  <p style="margin-left: 0; font-weight: bold;">>> <a href="./my-experiences">My Experiences</a></p>
 </details>
 
 * * *
