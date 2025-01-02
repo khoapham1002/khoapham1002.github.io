@@ -13,5 +13,5 @@ description:
   - 📈 My experiences in finance, healthcare refined my data analysis and research skills.
   - 🧑‍💻 Skilled in Python, SQL, R, Tableau but I'm also learning Data Engineering skills and Cloud technologies.
 
-show_downloads: true
+# show_downloads: true
 theme: jekyll-theme-minimal
