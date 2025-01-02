@@ -8,6 +8,37 @@ body {
   color: #f0f0f0ee;
 }
 
+img {
+  max-width:100%;
+  margin: 0 0 5px;
+  height:auto;
+}
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+header {
+  // background-color: rgb(46, 61, 72);
+  width:300px;
+  float:left;
+  position:fixed;
+  top: 0;
+  font-size: 14.5px;
+  font-weight:350;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+section {
+  width:620px;
+  float:right;
+  padding: 20px 0 20px;
+  font-size: 15.5px;
+  font-weight:400;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
 p, ul, ol, table, pre, dl {
   margin: 0 0 20px;
 }
@@ -57,38 +88,6 @@ strong {
 // small {
 //   font-size:11px;
 // }
-
-img {
-  max-width:100%;
-  margin: 0 0 5px;
-  height:auto;
-}
-
-.wrapper {
-  width: 1000px;
-  margin: 0 auto;
-}
-
-header {
-  // background-color: rgb(46, 61, 72);
-  width:300px;
-  float:left;
-  position:fixed;
-  top: 0;
-  font-size: 14.5px;
-  font-weight:350;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
-section {
-  width:620px;
-  float:right;
-  padding: 20px 0 20px;
-  font-size: 15.5px;
-  font-weight:400;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
 
 a {
   color:#59a2f7;
@@ -185,26 +184,6 @@ hr {
 //   -webkit-font-smoothing:subpixel-antialiased;
 // }
 
-/* Center the container for downloads and text */
-// .downloads-container {
-//   display: flex; /* Use flexbox for alignment */
-//   flex-direction: column; /* Stack items vertically */
-//   align-items: center; /* Center horizontally */
-//   gap: 10px; /* Space between buttons */
-//   text-align: center; /* Center text alignment */
-//   margin: 20px auto; /* Center container on the page */
-// }
-
-.downloads-container {
-  display: flex; /* Use flexbox for alignment */
-  flex-direction: row; /* Default: Buttons stay in a row */
-  justify-content: center; /* Center buttons horizontally */
-  align-items: center; /* Align items vertically */
-  gap: 10px; /* Space between buttons */
-  flex-wrap: wrap; /* Allow wrapping for smaller screens */
-  text-align: center; /* Center text alignment */
-  margin: 20px auto; /* Center container */
-}
 
 /* Center and align the list of buttons */
 ul.downloads {
@@ -257,6 +236,18 @@ ul.downloads {
 
 .downloads a strong:hover, .downloads a strong:focus {
   color:#0022ff;
+}
+
+/* Center the container for downloads and text */
+.downloads-container {
+  display: flex; /* Use flexbox for alignment */
+  flex-direction: row; /* Default: Buttons stay in a row */
+  justify-content: center; /* Center buttons horizontally */
+  align-items: center; /* Align items vertically */
+  gap: 10px; /* Space between buttons */
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
+  text-align: center; /* Center text alignment */
+  margin: 20px auto; /* Center container */
 }
 
 /* Adjustments for smaller screens */
@@ -314,41 +305,54 @@ ul.downloads {
     padding: 15px;
   }
 
+  /* Adjust header for smaller screens */
   header {
-    padding: 0;
+    position: static; /* Ensure header flows with content */
+    width: 100%; /* Make the header take up full width */
     display: flex;
-    flex-direction: column; /* Stack header items vertically */
-    align-items: center; /* Center header elements */
-    gap: 10px; /* Add spacing between header elements */
+    flex-direction: column; /* Stack header elements vertically */
+    align-items: center; /* Center header content */
+    padding: 10px; /* Add some padding for spacing */
+    gap: 20px; /* Add spacing between header elements */
   }
 
-  header ul, header p.view {
-    position: static;
+  /* Wrapper adjustments */
+  .wrapper {
+    width: auto; /* Make wrapper width auto to fit screen */
+    margin: 0; /* Remove extra margins */
   }
 
-  pre, code {
-    word-wrap: normal;
+  /* Adjust section for responsive layout */
+  section {
+    width: 100%; /* Make section take up full width */
+    float: none; /* Remove float for proper stacking */
+    padding: 20px; /* Add padding for content */
   }
 
+  /* Ensure downloads container aligns properly */
   .downloads-container {
-    flex-wrap: wrap; /* Allow buttons to wrap to the next line */
-    justify-content: center; /* Center buttons on smaller screens */
+    display: flex;
+    flex-wrap: wrap; /* Allow buttons to wrap */
+    justify-content: center; /* Center buttons */
+    margin: 20px auto; /* Maintain spacing */
   }
 
   .downloads-container a {
-    flex: 1 1 45%; /* Buttons take up 45% of the width */
+    flex: 1 1 45%; /* Make buttons take up 45% of the width */
     text-align: center; /* Center-align button content */
-    margin: 5px; /* Add spacing between wrapped buttons */
+    margin: 5px; /* Add spacing between buttons */
   }
 
   ul.downloads {
-    flex-direction: row; /* Keep buttons horizontal */
-    justify-content: center; /* Center-align horizontally */
+    display: flex;
+    flex-wrap: wrap; /* Allow buttons to wrap */
+    gap: 10px; /* Add space between buttons */
+    justify-content: center; /* Center-align the buttons */
   }
 
   .downloads a {
-    font-size: 12px; /* Adjust size for smaller screens */
-    padding: 6px 10px; /* Reduce button padding */
+    font-size: 14px; /* Keep buttons readable */
+    padding: 10px 15px; /* Add padding for better touch experience */
   }
 }
 
