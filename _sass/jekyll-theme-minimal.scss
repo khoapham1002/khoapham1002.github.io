@@ -270,14 +270,14 @@ ul.downloads {
 @media print, screen and (max-width: 720px) {
   body {
     padding: 20px;
-    // word-wrap: normal;
+    word-wrap:break-word;
   }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
     padding: 20px;
-    // word-wrap: normal;
+    word-wrap:break-word;
   }
 }
 
