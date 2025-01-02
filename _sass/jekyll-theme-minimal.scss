@@ -186,12 +186,24 @@ hr {
 // }
 
 /* Center the container for downloads and text */
+// .downloads-container {
+//   display: flex; /* Use flexbox for alignment */
+//   flex-direction: column; /* Stack items vertically */
+//   align-items: center; /* Center horizontally */
+//   gap: 10px; /* Space between buttons */
+//   text-align: center; /* Center text alignment */
+//   margin: 20px auto; /* Center container on the page */
+// }
+
 .downloads-container {
   display: flex; /* Use flexbox for alignment */
-  flex-direction: column; /* Stack items vertically */
-  align-items: center; /* Center horizontally */
+  flex-direction: row; /* Default: Buttons stay in a row */
+  justify-content: center; /* Center buttons horizontally */
+  align-items: center; /* Align items vertically */
+  gap: 10px; /* Space between buttons */
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
   text-align: center; /* Center text alignment */
-  margin: 20px auto; /* Center container on the page */
+  margin: 20px auto; /* Center container */
 }
 
 /* Center and align the list of buttons */
@@ -346,15 +358,13 @@ ul.downloads {
 
   .downloads-container {
     flex-direction: column; /* Stack buttons vertically */
-    justify-content: center; /* Center-align on smaller screens */
     gap: 10px; /* Add spacing between buttons */
   }
 
-  .downloads a {
-    width: 100%; /* Full-width buttons */
-    font-size: 14px; /* Keep text readable */
-    padding: 10px; /* Add padding for touch devices */
-    text-align: center; /* Center-align text */
+  .downloads-container a {
+    flex: 1 1 100%; /* Buttons take up the full width */
+    text-align: center; /* Center-align button content */
+    margin: 5px 0; /* Add spacing between buttons */
   }
 }
 
