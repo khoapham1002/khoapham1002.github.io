@@ -5,7 +5,7 @@ layout: default
 
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
-  <ul>
+  <ul style="margin: 0;">
     <li><a href="#education">Education</a></li>
     <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#interests">Interests</a></li>
