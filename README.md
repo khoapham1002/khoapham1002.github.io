@@ -2,12 +2,12 @@
 
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
-  <ul>
+  <ul style="margin: 0;">
     <li><a href="#links--contacts">Links & Contacts</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
-    <li style="margin: 0"><a href="#portfolio-projects">Portfolio Projects</a></li>
-  <p style="margin-left: 0; font-weight: bold;">>> <a href="./my-experiences">My Experiences</a></p>
+    <li><a href="#portfolio-projects">Portfolio Projects</a></li>
   </ul>
+  <p style="margin-left: 0; font-weight: bold;">>> <a href="./my-experiences">My Experiences</a></p>
 </details>
 
 * * *
