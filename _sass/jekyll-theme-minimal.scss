@@ -271,7 +271,7 @@ footer {
     display: flex;
     flex-direction: row; /* Buttons stay horizontal */
     justify-content: center; /* Center buttons horizontally */
-    margin: 20px auto; /* Space between paragraph and buttons */
+    margin: auto; /* Space between paragraph and buttons */
   }
 
   header {
@@ -314,7 +314,7 @@ footer {
   }
 
   .downloads-container {
-    margin: 20px 0; /* Adjust spacing for smaller screens */
+    margin: auto; /* Adjust spacing for smaller screens */
   }
 
   // ul.downloads {
@@ -342,6 +342,5 @@ footer {
     padding:0.4in;
     font-size:12pt;
     color: white;
-    // color:#444;
   }
 }
