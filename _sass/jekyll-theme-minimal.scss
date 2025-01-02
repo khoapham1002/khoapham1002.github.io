@@ -22,6 +22,7 @@ img {
 header {
   // background-color: rgb(46, 61, 72);
   width:300px;
+  align-items: center;
   float:left;
   position:fixed;
   top: 0;
@@ -271,18 +272,11 @@ ul.downloads {
   body {
     padding: 20px;
   }
-  header {
-    align-items: center;
-  }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
     padding: 20px;
-  }
-
-  header {
-    align-items: center;
   }
 }
 
