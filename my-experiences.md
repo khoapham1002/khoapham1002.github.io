@@ -10,7 +10,7 @@ layout: default
     <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#interests">Interests</a></li>
   </ul>
-  <p style="font-weight: bold;">>> <a href="./">My Portfolio</a></p>
+  <p style="font-weight: bold; margin-left: 20px;">>> <a href="./">My Portfolio</a></p>
 </details>
 
 * * *
