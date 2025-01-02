@@ -6,7 +6,6 @@
     <li><a href="#links--contacts">Links & Contacts</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
-    <p><a href="./my-experiences"> > My Experiences</a></p>
     <li><a href="./my-experiences"> > My Experiences</a></li>
     <!-- <li><a href="#professional-experience">Professional Experience</a></li>
     <li><a href="#education">Education</a></li>
