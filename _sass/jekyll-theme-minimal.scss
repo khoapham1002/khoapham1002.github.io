@@ -173,7 +173,7 @@ hr {
 }
 
 // footer {
-//   color: #f0f0f0; 
+//   color: #f0f0f0;
 //   text-align: center;
 //   font-size: 13px;
 //   width: auto; /*270px*/
@@ -239,13 +239,13 @@ ul.downloads {
 
 /* Center the container for downloads and text */
 .downloads-container {
+  margin: auto; /* Center container */
   display: flex; /* Use flexbox for alignment */
+  flex-wrap: wrap; /* Allow wrapping for smaller screens */
   justify-content: center; /* Center buttons horizontally */
   align-items: center; /* Align items vertically */
-  gap: 10px; /* Space between buttons */
-  flex-wrap: wrap; /* Allow wrapping for smaller screens */
   text-align: center; /* Center text alignment */
-  margin: auto; /* Center container */
+  gap: 10px; /* Space between buttons */
 }
 
 /* Adjustments for smaller screens */
