@@ -49,24 +49,24 @@
 
 ### Portfolio Projects
 
-#### **[Finance Department’s New Hire Request](https://github.com/kdpham-01002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
+#### **[Finance Department’s New Hire Request](https://github.com/kdpham-1002/Finance-Dept-New-Hire-Request)** \| Isenberg School of Management \| Garden Grove, CA \| Fall 2024
 
 *Technology: SQL (SQLite), Tableau (dashboards), Excel & PowerPoint (reporting)*
 - Analyzed 40,000+ admissions from university’s factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
-#### **[Unviersity Mental Health Research Study](https://github.com/kdpham-01002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Summer 2024
+#### **[Unviersity Mental Health Research Study](https://github.com/kdpham-1002/University-Mental-Health-Research-Study)** \| Garden Grove, CA \| Summer 2024
 
 *Technology: SQL (PostgreSQL), Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels, SQLAlchemy), Git/GitHub*
 - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
 - Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it.
 
-#### **[States Economic Dynamics](https://github.com/kdpham-01002/State-Economic-Dynamics-Analysis)** \| Amherst, MA \| Spring 2024
+#### **[States Economic Dynamics](https://github.com/kdpham-1002/State-Economic-Dynamics-Analysis)** \| Amherst, MA \| Spring 2024
 
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
 - Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates).
 
-#### **[Data Science Interview Preps Platform](https://github.com/kdpham-01002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| Fall 2021
+#### **[Data Science Interview Preps Platform](https://github.com/kdpham-1002/Data-Science-Interview-Preps-Platform)** \| Course: Web Programming \| Amherst, MA \| Fall 2021
 
 *Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/Github*
 - Designed a structured notebook system with interactive Q&A platform leveraging the Feynman Technique for Python & SQL coding interview preparation, incorporating toggle-based question-answer lists for self-assessment.
