@@ -6,8 +6,8 @@
     <li><a href="#links--contacts">Links & Contacts</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
-  </ul>
   <p style="margin-left: 0; font-weight: bold;">>> <a href="./my-experiences">My Experiences</a></p>
+  </ul>
 </details>
 
 * * *
