@@ -11,7 +11,8 @@ body {
 img {
   max-width:100%;
   margin: 0 0 5px;
-  height:auto;
+  height: auto;
+  justify-content: center;
 }
 
 .wrapper {
@@ -53,6 +54,7 @@ h1 {
   color: white;
   font-size: 52.5px;
   margin: 10 0 10px;
+  justify-content: center;
 }
 
 h2 {
