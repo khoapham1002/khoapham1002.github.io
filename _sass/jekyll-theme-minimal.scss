@@ -251,7 +251,11 @@ ul.downloads {
 
 /* Adjustments for smaller screens */
 @media print, screen and (max-width: 960px) {
-
+  body {
+    word-wrap:break-word;
+    padding:15px;
+  }
+  
   div.wrapper {
     width:auto;
     margin:0;
