@@ -114,9 +114,9 @@ th, td {
   border: none;
 }
 
-th {
-  // font-weight: normal;
-}
+// th {
+//   font-weight: normal;
+// }
 
 dt {
   color: white;
@@ -305,42 +305,38 @@ ul.downloads {
     padding: 15px;
   }
 
+  /* Adjust header for smaller screens */
   header {
-    padding: 0;
+    position: static; /* Ensure header flows with content */
+    width: 100%; /* Make the header take up full width */
     display: flex;
-    flex-direction: column; /* Stack header items vertically */
-    align-items: center; /* Center header elements */
-    gap: 10px; /* Add spacing between header elements */
+    flex-direction: column; /* Stack header elements vertically */
+    align-items: center; /* Center header content */
+    padding: 10px; /* Add some padding for spacing */
+    gap: 20px; /* Add spacing between header elements */
   }
 
-  header ul, header p.view {
-    position: static;
-  }
-
-  pre, code {
-    word-wrap: normal;
-  }
-
+  /* Ensure downloads container aligns properly */
   .downloads-container {
-    flex-wrap: wrap; /* Allow buttons to wrap to the next line */
-    justify-content: center; /* Center buttons on smaller screens */
+    display: flex;
+    flex-wrap: wrap; /* Allow buttons to wrap */
+    justify-content: center; /* Center buttons */
+    margin: 20px auto; /* Maintain spacing */
   }
 
   .downloads-container a {
-    flex: 1 1 45%; /* Buttons take up 45% of the width */
+    flex: 1 1 45%; /* Make buttons take up 45% of the width */
     text-align: center; /* Center-align button content */
-    margin: 5px; /* Add spacing between wrapped buttons */
+    margin: 5px; /* Add spacing between buttons */
   }
 
   ul.downloads {
-    flex-direction: row; /* Keep buttons horizontal */
-    justify-content: center; /* Center-align horizontally */
+    display: flex;
+    flex-wrap: wrap; /* Allow buttons to wrap */
+    gap: 10px; /* Add space between buttons */
+    justify-content: center; /* Center-align the buttons */
   }
 
-  .downloads a {
-    font-size: 12px; /* Adjust size for smaller screens */
-    padding: 6px 10px; /* Reduce button padding */
-  }
 }
 
 @media print, screen and (max-width: 480px) {
