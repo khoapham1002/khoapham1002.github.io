@@ -62,9 +62,9 @@ layout: default
 
 - **Photography**: I capture dance movements! Check out my photos [@teenee_archives][vsco]!
 - **Dance**: Come dance with me at [@mdcdance][mdcdance]!
-- **Blogging**: I'm still practicing 🤧 -> [...work in progress...][portfolio]!
+- **Blogging**: I'm still practicing 🤧 -> [...work in progress!...][portfolio]
 
-[portfolio]: https://kdpham-01002.github.io/portfolio/
+[portfolio]: https://kdpham-01002.github.io/my-portfolio/
 [vsco]: https://vsco.co/teenee3051/gallery
 [mdcdance]: https://www.instagram.com/mdcdance/
 
