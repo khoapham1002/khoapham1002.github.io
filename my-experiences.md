@@ -66,7 +66,6 @@ layout: default
 - **Blogging**: [...work in progress...][portfolio] 🤧!
 
 [portfolio]: https://kdpham-1002.github.io/my-portfolio/
-https://kdpham-1002.github.io/my-portfolio/
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
 [mdcdance]: https://www.instagram.com/mdcdance/
