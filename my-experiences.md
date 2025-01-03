@@ -60,12 +60,14 @@ layout: default
 
 ### Interests
 
-- **Photography**: I capture dance movements! Check out my photos [@teenee_archives][vsco]!
-- **Dance**: Come dance with me at [@mdcdance][mdcdance]!
-- **Blogging**: I'm still practicing 🤧 -> [...work in progress!...][portfolio]
+- **Photography**: I like capturing dance movements. Check ([VSCO][vsco])!
+- **Videography**: I also film for dance classes at MDC Dance! Check ([@teenee_archives][dance])!
+- **Dance**: a little at [@mdcdance][mdcdance]!
+- **Blogging**: [...work in progress...][portfolio] 🤧!
 
 [portfolio]: https://kdpham-01002.github.io/my-portfolio/
 [vsco]: https://vsco.co/teenee3051/gallery
+[dance]: https://www.instagram.com/teenee_archives/reels/
 [mdcdance]: https://www.instagram.com/mdcdance/
 
 * * *
