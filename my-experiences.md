@@ -62,7 +62,7 @@ layout: default
 
 - **Photography**: I like capturing dance movements. Check ([VSCO][vsco])!
 - **Videography**: I also film for dance classes! Check ([@teenee_archives][dance])!
-- **Dance**: a little at MDC Dance [@mdcdance][mdcdance]!
+- **Dance**: ...a little at MDC Dance [@mdcdance][mdcdance]!
 - **Blogging**: [...work in progress...][blog] 🤧!
 
 <!-- [portfolio]: https://kdpham-1002.github.io/my-portfolio/ -->
