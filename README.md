@@ -16,11 +16,11 @@
 
 |  kdpham@umass.edu  | [LinkedIn][linkedin] |     714-858-7494    |
 |:------------------:|:--------------------:|:-------------------:|
-| [Tableau][tableau] |   [GitHub][github]   |   [Kaggle][kaggle]  |
+| [Tableau][tableau] |   [GitHub Repos][gh-repos]   |   [Kaggle][kaggle]  |
 |   [Dance][dance]   |     [Blog][blog]     | [Photography][vsco] |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
-[github]: https://github.com/kdpham-1002?tab=repositories
+[gh-repos]: https://github.com/kdpham-1002?tab=repositories
 [tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
 [kaggle]: https://www.kaggle.com/teenee3051
 [vsco]: https://vsco.co/teenee3051/gallery
@@ -34,7 +34,6 @@
 
 <!-- [Website][website]  -->
 <!-- [website]: https://kdpham-01002.github.io/DS_portfolio/ -->
-<!-- https://vsco.co/teenee3051/gallery -->
 
 * * *
 
