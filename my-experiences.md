@@ -65,7 +65,7 @@ layout: default
 - **Dance**: ...a little at MDC Dance [@mdcdance][mdcdance]!
 - **Blogging**: [...work in progress...][blog] 🤧!
 
-> Add `/mindpalace` to the URL to have a peek of another [me][mindpalace]!
+> Add **`/mindpalace`** to the URL to have a peek of another [me][mindpalace]!
 
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
