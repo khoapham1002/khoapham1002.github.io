@@ -6,37 +6,45 @@ body {
   background-color: rgb(27, 27, 30);
   color: #f0f0f0ee;
   font: 15px/1.65 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  // padding: 25px;
+  padding: 5px 20px;
 }
 
 img {
-  margin: 5px 0;
-  width: 100%;
+  margin: 10px auto;
+  width: 80%;
   height: auto;
-  justify-content: center;
   border-radius: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
 
 .wrapper {
-  width: 1000px;
-  margin: 0 auto;
+  width: 970px;
+  margin: auto;
+  // padding: 20px 20px;
 }
 
 header {
-  width: 325px;
-  float:left;
-  position:fixed;
-  top: 0;
+  width: 315px;
+  float: left;
+  // position:fixed;
+  top: 0px;
   font-size: 14px;
-  font-weight:350;
+  font-weight: 350;
   border-bottom: 1px solid #dddd;
   -webkit-font-smoothing:subpixel-antialiased;
+  // padding: 5px 5px;
+  // justify-content: center;
+  // align-items: center;
+  // text-align: center;
 }
 
 section {
-  width:600px;
-  float:right;
-  padding: 20px 0 20px;
+  width: 600px;
+  float: right;
+  padding: 10px 10px;
   font-size: 15.5px;
   font-weight:400;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -54,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   color: white;
   font-size: 50px;
-  margin: 15px 0 10px;
+  // margin: 10px 0 10px;
   text-align: center;
   justify-content: center;
 }
@@ -253,7 +261,7 @@ ul.downloads {
   justify-content: center; /* Center buttons horizontally */
   align-items: center; /* Align items vertically */
   text-align: center; /* Center text alignment */
-  gap: 10px; /* Space between buttons */
+  gap: 8px; /* Space between buttons */
 }
 
 /* Adjustments for smaller screens */

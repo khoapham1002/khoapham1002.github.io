@@ -3,7 +3,7 @@
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
   <ul style="margin: 0;">
-    <li><a href="#links--contacts">Links & Contacts</a></li>
+    <li><a href="#about-me">About Me</a></li>
     <li><a href="#technical-skills">Technical Skills</a></li>
     <li><a href="#portfolio-projects">Portfolio Projects</a></li>
   </ul>
@@ -12,7 +12,7 @@
 
 * * *
 
-### Links & Contacts
+### About Me
 
 |  kdpham@umass.edu  | [LinkedIn][linkedin] |     714-858-7494    |
 |:------------------:|:--------------------:|:-------------------:|
@@ -26,14 +26,16 @@
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
-
-
 <!-- [Resume][resume]  -->
 <!-- [resume]: https://drive.google.com/file/d/1XK4EnbtcbcLng_BA5krfmxzvNpKASurw/view?usp=sharing -->
 <!-- [old resume]: https://drive.google.com/file/d/1Djv6lo-Yw6XH4yhkJHX_XsKUxx8IvYkB/view?usp=share_link -->
-
 <!-- [Website][website]  -->
 <!-- [website]: https://kdpham-1002.github.io/my-portfolio/ -->
+
+<!-- - 🎓 I'm a Master's student majoring in Business Analytics and Data Science.
+- 📊 I'm passionate about using data to uncover insights and support strategic decision-making.
+- 📈 My experience in finance and healthcare has enabled me to strengthen my data analysis and research skills.
+- 🧑‍💻 Proficient in Python, SQL, R, and Tableau, and currently advancing my skills in Data Engineering and Cloud technologies. -->
 
 * * *
 
