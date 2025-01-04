@@ -64,12 +64,13 @@ layout: default
 - **Videography**: I also film for dance classes! Check ([@teenee_archives][dance])!
 - **Dance**: ...a little at MDC Dance [@mdcdance][mdcdance]!
 - **Blogging**: [...work in progress...][blog] 🤧!
+> Add `/mindpalace` to the URL to have a peek of another [me][mindpalace]!
 
-<!-- [portfolio]: https://kdpham-1002.github.io/my-portfolio/ -->
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
 [mdcdance]: https://www.instagram.com/mdcdance/
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
+[mindpalace]: https://kdpham-1002.github.io/mindpalace/
 
 * * *
 
