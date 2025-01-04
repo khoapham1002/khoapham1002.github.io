@@ -71,7 +71,7 @@ layout: default
 [dance]: https://www.instagram.com/teenee_archives/reels/
 [mdcdance]: https://www.instagram.com/mdcdance/
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
-[mindpalace]: https://kdpham-1002.github.io/mindpalace/
+[mindpalace]: https://kdpham-1002.github.io/mindpalace/about/
 
 * * *
 
