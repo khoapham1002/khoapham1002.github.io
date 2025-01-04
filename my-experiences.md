@@ -64,6 +64,7 @@ layout: default
 - **Videography**: I also film for dance classes! Check ([@teenee_archives][dance])!
 - **Dance**: ...a little at MDC Dance [@mdcdance][mdcdance]!
 - **Blogging**: [...work in progress...][blog] 🤧!
+
 > Add `/mindpalace` to the URL to have a peek of another [me][mindpalace]!
 
 [vsco]: https://vsco.co/teenee3051/gallery
