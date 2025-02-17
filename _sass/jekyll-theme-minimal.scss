@@ -44,7 +44,7 @@ header {
 section {
   width: 570px;
   float: right;
-  padding: 10px 15px;
+  padding: 0px 15px;
   font-size: 15.5px;
   font-weight:400;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   color: white;
   font-size: 45px;
-  margin: 10px 0 10px;
+  margin: 20px 0 10px;
   text-align: center;
   justify-content: center;
 }
@@ -71,7 +71,7 @@ h2 {
   text-align: center;
   justify-content: center;
   color: white;
-  margin: 5px 0 20px;
+  margin: 20px 0 20px;
   font-size: 35px;
 }
 
@@ -292,6 +292,7 @@ ul.downloads {
     padding: 15px;
     overflow-wrap: break-word;
   }
+
   div.wrapper {
     width:auto;
     margin:0;
