@@ -18,9 +18,9 @@ layout: default
 
 ### About Me
 
-| [GitHub][gh-repos] | [LinkedIn][linkedin]     | [Insta/Inspo][ins]     |
+| [GitHub][gh-repos] | [LinkedIn][linkedin]     | [VSCO/Inspo][vsco]     |
 |:------------------:|:------------------------:|:----------------------:|
-| [Tableau][tableau] | [MindPalace][mindpalace] | [Photography][vsco]    |
+| [Tableau][tableau] | [MindPalace][mindpalace] | [Photography][ins]    |
 | [Kaggle][kaggle]   | [First Blog][blog]       | [Dance/Filming][reels] |
 
 [linkedin]: https://www.linkedin.com/in/kdpham1002/
