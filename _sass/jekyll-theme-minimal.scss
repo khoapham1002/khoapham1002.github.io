@@ -119,7 +119,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   border: none; /* Removes the table's outer border */
-  table-layout: auto; /* Adjusts table width */
+  table-layout: fixed; /* Adjusts table width */
 }
 
 th, td {
