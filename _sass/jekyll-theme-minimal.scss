@@ -119,7 +119,7 @@ table {
   width: 100%;
   border-collapse: collapse;
   border: none; /* Removes the table's outer border */
-  table-layout: fixed; /* Adjusts table width */
+  table-layout: auto; /* Adjusts table width */
 }
 
 th, td {
@@ -187,7 +187,7 @@ hr {
 /* Style the "Made by" text */
 .made-by {
   text-align: center;
-  font-size: 12.5px;
+  font-size: 13px;
 }
 
 // footer {
@@ -269,7 +269,7 @@ ul.downloads {
 /* Adjustments for smaller screens */
 @media print, screen and (max-width: 960px) {
   body {
-    padding: 5px 15px;
+    padding: 10px 15px;
     overflow-wrap: break-word;
   }
 
@@ -289,44 +289,44 @@ ul.downloads {
 
 @media print, screen and (max-width: 720px) {
   body {
-    padding: 5px 15px;
+    padding: 10px 15px;
     overflow-wrap: break-word;
   }
 
-  div.wrapper {
-    width:auto;
-    margin:0;
-    padding:0;
-  }
+  // div.wrapper {
+  //   width:auto;
+  //   margin:0;
+  //   padding:0;
+  // }
 
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-    margin:0;
-    padding:0;
-  }
+  // header, section, footer {
+  //   float:none;
+  //   position:static;
+  //   width:auto;
+  //   margin:0;
+  //   padding:0;
+  // }
 }
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding: 5px 15px;
+    padding: 10px 15px;
     overflow-wrap: break-word;
   }
 
-  div.wrapper {
-    width:auto;
-    margin:0;
-    padding:0;
-  }
+  // div.wrapper {
+  //   width:auto;
+  //   margin:0;
+  //   padding:0;
+  // }
 
-  header, section, footer {
-    float:none;
-    position:static;
-    width:auto;
-    margin:0;
-    padding:0;
-  }
+  // header, section, footer {
+  //   float:none;
+  //   position:static;
+  //   width:auto;
+  //   margin:0;
+  //   padding:0;
+  // }
 }
 
 @media print {
