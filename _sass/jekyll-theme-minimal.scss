@@ -188,6 +188,7 @@ hr {
 .made-by {
   text-align: center;
   font-size: 13px;
+  margin: 0 0 20px;
 }
 
 // footer {
@@ -269,7 +270,7 @@ ul.downloads {
 /* Adjustments for smaller screens */
 @media print, screen and (max-width: 960px) {
   body {
-    padding: 10px 17px 25px;
+    padding: 10px 17px 15px;
     overflow-wrap: break-word;
   }
   p {
@@ -292,7 +293,7 @@ ul.downloads {
 
 @media print, screen and (max-width: 720px) {
   body {
-    padding: 10px 17px 25px;
+    padding: 10px 17px 15px;
     overflow-wrap: break-word;
   }
 
@@ -317,7 +318,7 @@ ul.downloads {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding: 10px 17px 25px;
+    padding: 10px 17px 15px;
     overflow-wrap: break-word;
   }
 
