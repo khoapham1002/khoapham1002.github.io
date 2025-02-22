@@ -272,6 +272,9 @@ ul.downloads {
     padding: 10px 17px 25px;
     overflow-wrap: break-word;
   }
+  p {
+    margin: 0 20px;
+  }
 
   div.wrapper {
     width:auto;
@@ -291,6 +294,10 @@ ul.downloads {
   body {
     padding: 10px 17px 25px;
     overflow-wrap: break-word;
+  }
+
+  p {
+    margin: 0 20px;
   }
 
   // div.wrapper {
@@ -313,6 +320,11 @@ ul.downloads {
     padding: 10px 17px 25px;
     overflow-wrap: break-word;
   }
+
+  p {
+    margin: 0 20px;
+  }
+
   table {
     width: 100%;
     border-collapse: collapse;
