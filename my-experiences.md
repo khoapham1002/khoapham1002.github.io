@@ -20,9 +20,9 @@ layout: default
 #### **University of Massachusetts, Amherst** | _Expected: Dec 2025_
 <!-- #### **University of Massachusetts, Amherst** -->
 
-- **Master of Science (M.S), Business Analytics** (Accelerated 4+1 Program)
+- **M.S in Business Analytics** (Accelerated 4+1 Program)
+- **B.S in Informatics Data Science** \| Minor: Statistics \| Pre-Med Track
   - **GPA:** 3.97/4.0
-- **Bachelor of Science (B.S), Informatics Data Science** <br> Minor: Statistics \| Pre-Med Track
   - Dean's List (all year), Chancellor's Award Scholarship
 
 - **Relevant Courses:** Database Management (SQL), Machine Learning & Data Science for Business (Python), Applied Statistics (R), Linear Algebra, Discrete Math, Data Structures & Algorithms (Java), Web Programming (HTML/CSS/JavaScript), Project Management, Media Marketing
