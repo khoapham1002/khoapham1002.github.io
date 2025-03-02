@@ -129,11 +129,11 @@ layout: default
 - Designed and implemented an SPC-based monitoring system, reducing manufacturing defects by identifying deviations in control limits.
 - Built a predictive model for car insurance claims, pinpointing driving experience as the strongest predictor with 77.71% accuracy.
 
-#### **[States Economic Dynamics Analysis](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** <br> MGMT 601: Data Management \| Spring 2024
+<!-- #### **[States Economic Dynamics Analysis](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** <br> MGMT 601: Data Management \| Spring 2024
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*
 
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
-- Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates).
+- Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates). -->
 
 * * *
 
