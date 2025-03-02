@@ -77,29 +77,43 @@ layout: default
 #### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> Garden Grove, CA \| Sep - Dec 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
 
-- Designed and implemented ETL pipeline using PySpark and SQL, improving data consistency by 98% and reducing manual data errors by 15%.
-- Developed an inventory management system, automating tracking for 1,000+ products to enable real-time demand forecasting and minimize stock imbalances.
+- Built an OOP-based inventory tracking system for 1,000+ products, ensuring efficient inventory control.
+- Implemented a PySpark retail data pipeline to clean and transform large-scale order records for analysis.
+- Applied Random Forest and Regression models to predict future product demand and sales trends.
+- Engineered features from time-series data, leveraging weekly sales trends for improved forecasting accuracy.
 
-<!-- - Designed scalable ETL workflows and machine learning models for retail sales analysis, achieving 98% data consistency and forecasting product demand with 9.41 MAE, supporting strategic inventory planning.
-- Developed an inventory management system and retail data pipelines, automating tracking for 1,000+ products and improving data accuracy by 15%, enabling precise demand forecasting and operational efficiency. -->
+<!-- - Designed and implemented ETL pipeline using PySpark and SQL, improving data consistency by 98% and reducing manual data errors by 15%.
+- Developed an inventory management system, automating tracking for 1,000+ products to enable real-time demand forecasting and minimize stock imbalances. -->
 
 #### **[Banking and Investment Optimization Framework](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** <br> Garden Grove, CA \| Jun - Sep 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
 
-- Automated credit card approval decisions using logistic regression, improving approval accuracy to 79.8%. Optimized data pipeline for bank marketing analysis, enabling more precise customer targeting.
-- Applied Modern Portfolio Theory to optimize stock portfolios, balancing risk and return profiles while identifying industry trends through financial ratio analysis.
+- Developed a credit card approval model with 81.8% accuracy, automating risk assessment for banks.
+- Optimized data pipeline for bank marketing analysis, enabling more precise customer targeting.
+- Analyzed financial ratios, identifying industry-specific risk trends for investment decision-making.
+- Optimized a FAANG stock portfolio using mean-variance optimization, balancing risk and returns.
 
-<!-- - Automated credit card approvals process with logistic regression model of 79.8% accuracy. Streamlined bank marketing data pipelines, ensuring data quality for future analysis and database integration. 
-- Analyzed financial ratios to provide insights on company risk management, identifying industry trends. Using Modern Portfolio Theory to optimize FAANG stock portfolio allocations, achieving a balanced risk-reward profile. -->
+<!-- - Automated credit card approval decisions using logistic regression, improving approval accuracy to 79.8%. Optimized data pipeline for bank marketing analysis, enabling more precise customer targeting.
+- Applied Modern Portfolio Theory to optimize stock portfolios, balancing risk and return profiles while identifying industry trends through financial ratio analysis. -->
+
+#### **[Healthcare Employee Attrition Prediction](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling)** <br> Garden Grove, CA \| Feb - May 2024
+*Technology: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn), Decision Tree, Logistic Regression, Git/GitHub*
+
+- Developed Decision Tree and Logistic Regression models to predict high-risk employee attrition.
+- Achieved classification accuracy of 80%, providing insights for targeted employee retention strategies.
+- Engineered demographic, work-related, and compensation features, improving model interpretability.
+- Conducted statistical analysis on work-life balance, job involvement, and salary trends to support HR decisions.
+- Created data visualizations using Matplotlib and Seaborn to present key attrition patterns.
 
 #### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** <br> Garden Grove, CA \| Jun - Sep 2023
 *Technology: SQL, Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels), Git/GitHub*
 
-- Developed a machine learning model using Random Forest, predicting student depression risk with 75% accuracy, providing early intervention and recommendations to enhance peer-support programs.
-- Analyzed survey data from 200+ international students, uncovering social and acculturative stress trends to improve mental health resource accessibility.
+- Developed a Random Forest model predicting student depression risk with 75% accuracy, providing early intervention and recommendations to enhance peer-support programs.
+- Conducted statistical analysis on 200+ international students, uncovering mental health trends.
 
 <!-- - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
 - Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it. -->
+
 
 
 
