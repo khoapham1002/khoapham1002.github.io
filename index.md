@@ -78,10 +78,10 @@ layout: default
 #### **[Walmart Purchase Behavior Analysis](https://github.com/khoapham1002/Walmart-Purchases-Behavior-Analysis)** <br> Garden Grove, CA \| Sep - Dec 2024
 *Technology: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, Git/GitHub*
 
-- Performed **exploratory data analysis (EDA)** to understand spending patterns across different customer demographics.
-- Conducted **hypothesis testing and confidence interval analysis** to compare spending behavior between male and female customers.
-- Applied **data visualization techniques** to reveal trends in purchase behavior during Black Friday sales.
-- Provided **actionable recommendations** for business improvements based on key findings.
+- Performed exploratory data analysis (EDA) to understand spending patterns across different customer demographics.
+- Conducted hypothesis testing and confidence interval analysis to compare spending behavior between male and female customers.
+- Applied data visualization techniques to reveal trends in purchase behavior during Black Friday sales.
+- Provided actionable recommendations for business improvements based on key findings.
 
 
 #### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> Garden Grove, CA \| Sep - Dec 2024
