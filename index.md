@@ -76,12 +76,13 @@ layout: default
 ### Portfolio Projects
 
 #### **[Walmart Purchase Behavior Analysis](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> Garden Grove, CA \| Sep - Dec 2024
-*Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
+*Technology: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, Git/GitHub*
 
-- Built an OOP-based inventory tracking system for 1,000+ products, ensuring efficient inventory control.
-- Implemented a PySpark retail data pipeline to clean and transform large-scale order records for analysis.
-- Applied Random Forest and Regression models to predict future product demand and sales trends.
-- Engineered features from time-series data, leveraging weekly sales trends for improved forecasting accuracy.
+- Performed **exploratory data analysis (EDA)** to understand spending patterns across different customer demographics.
+- Conducted **hypothesis testing and confidence interval analysis** to compare spending behavior between male and female customers.
+- Applied **data visualization techniques** to reveal trends in purchase behavior during Black Friday sales.
+- Provided **actionable recommendations** for business improvements based on key findings.
+
 
 #### **[Online Retail Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> Garden Grove, CA \| Sep - Dec 2024
 *Technology: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
