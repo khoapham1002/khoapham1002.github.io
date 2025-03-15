@@ -75,7 +75,7 @@ layout: default
 
 ### Portfolio Projects
 
-#### **[Walmart Purchase Behavior Analysis](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> Garden Grove, CA \| Sep - Dec 2024
+#### **[Walmart Purchase Behavior Analysis](https://github.com/khoapham1002/Walmart-Purchases-Behavior-Analysis)** <br> Garden Grove, CA \| Sep - Dec 2024
 *Technology: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, Git/GitHub*
 
 - Performed **exploratory data analysis (EDA)** to understand spending patterns across different customer demographics.
