@@ -109,8 +109,8 @@ layout: default
 #### **[Unviersity Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** <br> Garden Grove, CA \| Jun - Sep 2023
 *Technology: SQL, Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels), Git/GitHub*
 
-- Developed a Random Forest model predicting student depression risk with 75% accuracy, providing early intervention and recommendations to enhance peer-support programs.
 - Conducted statistical analysis on 200+ international students, uncovering mental health trends.
+- Developed a Random Forest model predicting student depression risk with 75% accuracy, providing early intervention and recommendations to enhance peer-support programs.
 
 <!-- - Leveraged Random Forest to predict depression scores (MSE = 17.59) and classify high-risk students (75% accuracy), providing early intervention strategies and recommendations for peer-support programs.
 - Conducted statistical analysis on 200+ international students, revealing that higher social connectedness (r = -0.54, p < 0.01) strongly reduces depression, while higher acculturative stress (r = 0.41, p < 0.01) moderately increases it. -->
