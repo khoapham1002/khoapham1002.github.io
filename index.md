@@ -53,11 +53,12 @@ layout: default
 
 ### Technical Skills
 
-- **Programming & Tools:** SQL (MySQL, PostgreSQL, Redshift), Python, R; Git/GitHub, Bash/Shell, Agile Scrum
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, SciPy, PyTorch
+- **Programming & Tools:** SQL (PostgreSQL, MySQL), Python, R; Git/GitHub, Bash/Shell, Agile Scrum
 - **Cloud & Big Data:** AWS (S3, Redshift, Glue, QuickSight), Spark (PySpark), Hadoop, Tableau, Excel
-- **Techniques:** Linear & Logistic Regression, Classification, Clustering, Feature Engineering; ETL & ELT Pipelines, Data Warehousing, Data Modeling; Statistical Analysis, Time Series Analysis, A/B Testing, Hypothesis Testing
+- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, SciPy, PyTorch
+- **Techniques:** Predictive Modeling, Statistical Analysis, Hypothesis Testing, ETL/ELT Pipelines, Data Warehousing
 
+<!-- - **Techniques:** Linear & Logistic Regression, Classification, Clustering, Feature Engineering; ETL/ELT Pipelines, Data Warehousing, Data Modeling; Statistical Analysis, Time Series Analysis, A/B Testing, Hypothesis Testing -->
 
 <!-- - **Programming:** Python (Pandas, NumPy, Scikit-learn), SQL (MySQL, PostgreSQL, Redshift), R, Java
 - **Data Tools:** AWS (Redshift, S3, Glue, QuickSight), Spark (PySpark), Hadoop, Apache Airflow, Tableau, Excel

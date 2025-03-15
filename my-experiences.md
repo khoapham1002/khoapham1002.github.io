@@ -33,7 +33,7 @@ layout: default
 
 ### Professional Experience
 
-#### **Data Assistant** \| [Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards) <br> Amherst, MA \| Sep - Dec 2023
+#### **Data Management Assistant** \| [Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards) <br> Amherst, MA \| Sep - Dec 2023
 
 - Managed and cleaned survey data for workshop participation analysis, ensuring data accuracy. Developed automated reports recognizing 300+ professors and lecturers for Distinguished Teaching Awards.
 
