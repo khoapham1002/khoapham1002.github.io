@@ -89,7 +89,7 @@ layout: default
 - Achieved classification accuracy of 80%, providing insights for targeted employee retention strategies.
 - Engineered demographic, work-related, and compensation features, improving model interpretability.
 - Conducted statistical analysis on work-life balance, job involvement, and salary trends to support HR decisions.
-- Created data visualizations using Matplotlib and Seaborn to present key attrition patterns.
+
 
 #### **[University Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** <br> Garden Grove, CA \| Jun - Sep 2023
 *Tech Stack: SQL, Python (Pandas, Seaborn, Scikit-learn, SciPy, Statsmodels), Git/GitHub*
