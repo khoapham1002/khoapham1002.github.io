@@ -55,7 +55,7 @@ layout: default
 - Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
-#### **[Ecommerce Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> Garden Grove, CA \| Sep - Dec 2024
+#### **[Ecommerce Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** <br> Garden Grove, CA \| Jun - Sep 2024
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
 
 - Built an OOP-based inventory tracking system for 1,000+ products, ensuring efficient inventory control.
@@ -64,7 +64,7 @@ layout: default
 - Engineered features from time-series data, leveraging weekly sales trends for improved forecasting accuracy.
 
 
-#### **[Banking Marketing and Investment Optimization](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** <br> Garden Grove, CA \| Jun - Sep 2024
+#### **[Banking Marketing and Investment Optimization](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** <br> Garden Grove, CA \| Sep - Dec 2023
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
 
 - Developed a credit card approval model with 81.8% accuracy, automating risk assessment for banks.
@@ -73,22 +73,22 @@ layout: default
 - Optimized a FAANG stock portfolio using mean-variance optimization, balancing risk and returns.
 
 
-#### **[Customer Subscriber Churn Prediction](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction)** <br> Garden Grove, CA \| Feb - May 2024
-*Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn) Logistic Regression, Decision Tree, Random Forest, K-Means Clustering, Git/GitHub*
-
-- Performed EDA on Walmart sales data to analyze spending trends by gender, age, and marital status.
-- Applied statistical methods (CLT, confidence intervals) to compare demographic spending patterns.
-- Developed visualizations using Matplotlib & Seaborn to showcase purchase behavior insights.
-- Generated recommendations to improve customer acquisition, retention, and marketing strategies.
-
-
-#### **[Healthcare Employee Attrition Prediction](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling)** <br> Garden Grove, CA \| Feb - May 2024
+#### **[Healthcare Employee Attrition Prediction](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling)** <br> Garden Grove, CA \| Sep - Dec 2023
 *Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn), Decision Tree, Logistic Regression, Git/GitHub*
 
 - Developed Decision Tree and Logistic Regression models to predict high-risk employee attrition.
 - Achieved classification accuracy of 80%, providing insights for targeted employee retention strategies.
 - Engineered demographic, work-related, and compensation features, improving model interpretability.
 - Conducted statistical analysis on work-life balance, job involvement, and salary trends to support HR decisions.
+
+
+#### **[Customer Subscriber Churn Prediction](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction)** <br> Garden Grove, CA \| Jun - Sep 2023
+*Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn) Logistic Regression, Decision Tree, Random Forest, K-Means Clustering, Git/GitHub*
+
+- Performed EDA on Walmart sales data to analyze spending trends by gender, age, and marital status.
+- Applied statistical methods (CLT, confidence intervals) to compare demographic spending patterns.
+- Developed visualizations using Matplotlib & Seaborn to showcase purchase behavior insights.
+- Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
 #### **[University Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** <br> Garden Grove, CA \| Jun - Sep 2023
