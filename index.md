@@ -37,10 +37,11 @@ layout: default
 
 ### Technical Skills
 
-- **Programming & Tools:** SQL (PostgreSQL, MySQL), Python, R; Git/GitHub, Bash/Shell; Agile Scrum
-- **Cloud & Big Data:** AWS (S3, Redshift, Glue, QuickSight), Spark (PySpark), Hadoop, Tableau, Excel
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Statsmodels, Matplotlib, Seaborn, SciPy, PyTorch
-- **Techniques:** Predictive Modeling, Statistical Analysis, Hypothesis Testing, ETL/ELT Pipelines, Data Warehousing
+- **Programming & Tools:** SQL, Python, R/RStudio, Tableau/Power BI, Git/GitHub; MS Office (Excel, Word, PowerPoint, Access, Outlook, Project)
+- **Cloud & Big Data:** AWS (S3, Redshift, Glue, QuickSight), Snowflake, Spark (PySpark)
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SciPy, PyTorch
+- **Techniques/Workflow:** Statistical Analysis, Hypothesis Testing, Predictive Modeling, AI/ML, ETL/ELT Pipelines, Data Integration, Data Visualization, Data Warehousing; Agile/Scrum, SOP Documentation
+- **Healthcare Knowledge:** EMR/EHR Systems, ICD-10/CPT Coding Familiarity, Claims Processing, 340B Drug Pricing Program, HIPAA Compliance, Medicaid/Medicare Regulations
 
 * * *
 
