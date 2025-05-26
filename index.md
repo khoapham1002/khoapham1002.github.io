@@ -40,7 +40,8 @@ layout: default
 - **Programming & Tools:** SQL, Python, R/RStudio, Tableau/Power BI, Git/GitHub; MS Office (Excel, Word, PowerPoint, Access, Outlook, Project)
 - **Cloud & Big Data:** AWS (S3, Redshift, Glue, QuickSight), Snowflake, Spark (PySpark)
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SciPy, PyTorch
-- **Techniques/Workflow:** Statistical Analysis, Hypothesis Testing, Predictive Modeling, AI/ML, ETL/ELT Pipelines, Data Integration, Data Visualization, Data Warehousing; Agile/Scrum, SOP Documentation
+- **Techniques:** Statistical Analysis, Hypothesis Testing, Predictive Modeling, AI/ML, ETL/ELT Pipelines, Data Integration, Data Visualization, Data Warehousing
+- **Project Management:** Agile/Scrum, SOP Documentation
 - **Healthcare Knowledge:** EMR/EHR Systems, ICD-10/CPT Coding Familiarity, Claims Processing, 340B Drug Pricing Program, HIPAA Compliance, Medicaid/Medicare Regulations
 
 * * *
