@@ -33,11 +33,6 @@ layout: default
 [ins]: https://www.instagram.com/teenee_archives/
 [reels]: https://www.instagram.com/teenee_archives/reels/
 
-<!-- | [GitHub][gh-repos]   | [Tableau][tableau]       | [Kaggle][kaggle]       |
-|:--------------------:|:------------------------:|:----------------------:|
-| [LinkedIn][linkedin] | [MindPalace][mindpalace] | [First Blog][blog]     |
-| [VSCO/Inspo][vsco]   | [Photography][ins]       | [Dance/Filming][reels] | -->
-
 * * *
 
 ### Technical Skills
