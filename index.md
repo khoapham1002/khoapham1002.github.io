@@ -18,20 +18,25 @@ layout: default
 
 ### About Me
 
-| [GitHub][gh-repos]   | [Tableau][tableau]       | [Kaggle][kaggle]       |
-|:--------------------:|:------------------------:|:----------------------:|
-| [LinkedIn][linkedin] | [MindPalace][mindpalace] | [First Blog][blog]     |
-| [VSCO/Inspo][vsco]   | [Photography][ins]       | [Dance/Filming][reels] |
+| [GitHub][gh-repos] | [LinkedIn][linkedin]        | [VSCO/Inspo][vsco]     |
+|:------------------:|:---------------------------:|:----------------------:|
+| [Tableau][tableau] | [My MindPalace][mindpalace] | [Photography][ins]     |
+| [Kaggle][kaggle]   | [My First Blog][blog]       | [Dance/Filming][reels] |
 
-[linkedin]: https://www.linkedin.com/in/kdpham1002/
 [gh-repos]: https://github.com/khoapham1002?tab=repositories
 [tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
 [kaggle]: https://www.kaggle.com/teenee3051
-[vsco]: https://vsco.co/teenee3051/gallery
-[reels]: https://www.instagram.com/teenee_archives/reels/
-[ins]: https://www.instagram.com/teenee_archives/
+[linkedin]: https://www.linkedin.com/in/kdpham1002/
 [mindpalace]: https://khoapham1002.github.io/mindpalace/categories/
 [blog]: https://isenbergmarketing.wordpress.com/2023/06/12/netflix-and-learn/?fbclid=IwZXh0bgNhZW0CMTEAAR1hEqlSY2sZx2p6ysM-EFkoQkFC4r9FBFxAKLc-z-wHuv3fW_YzuziMpSc_aem_v81C0HMR5vpAzpT02UQxqA
+[vsco]: https://vsco.co/teenee3051/gallery
+[ins]: https://www.instagram.com/teenee_archives/
+[reels]: https://www.instagram.com/teenee_archives/reels/
+
+<!-- | [GitHub][gh-repos]   | [Tableau][tableau]       | [Kaggle][kaggle]       |
+|:--------------------:|:------------------------:|:----------------------:|
+| [LinkedIn][linkedin] | [MindPalace][mindpalace] | [First Blog][blog]     |
+| [VSCO/Inspo][vsco]   | [Photography][ins]       | [Dance/Filming][reels] | -->
 
 * * *
 
