@@ -20,8 +20,8 @@ layout: default
 
 | [GitHub][gh-repos] | [LinkedIn][linkedin]        | [VSCO/Inspo][vsco]     |
 |:------------------:|:---------------------------:|:----------------------:|
-| [Tableau][tableau] | [My MindPalace][mindpalace] | [Photography][ins]     |
-| [Kaggle][kaggle]   | [My First Blog][blog]       | [Dance/Filming][reels] |
+| [Tableau][tableau] | [MindPalace][mindpalace]    | [Photography][ins]     |
+| [Kaggle][kaggle]   | [First Blog][blog]          | [Dance/Filming][reels] |
 
 [gh-repos]: https://github.com/khoapham1002?tab=repositories
 [tableau]: https://public.tableau.com/app/profile/kdpham.umass/vizzes
