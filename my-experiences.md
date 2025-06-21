@@ -76,7 +76,7 @@ layout: default
 - Conduct weekly lessons to improve students' language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
 
-#### **Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) <br> Orange, CA \| Amherst, MA | Summer 2024
+#### **Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) <br> Orange, CA \| Summer 2024
 
 - Filmed, edited, and managed video database for dance classes, implementing efficient categorization to enhance digital workflows.
 - Analyzed social media performance, delivering weekly insights and recommendations that drove increased audience engagements and social media growth.

@@ -42,6 +42,7 @@ layout: default
 - **Cloud & Big Data:** AWS (S3, Redshift, Glue, QuickSight), Snowflake, Spark (PySpark)
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit&#8209;learn, Statsmodels, SciPy, PyTorch
 - **Techniques:** Statistical Analysis, Hypothesis Testing, Predictive Modeling, AI/ML, ETL/ELT Pipelines, Data Integration, Data Visualization, Data Warehousing
+
 - **Project Management:** Agile/Scrum, SOP Documentation
 - **Healthcare Knowledge:** EMR/EHR Systems, ICD-10/CPT Coding Familiarity, Claims Processing, 340B Drug Pricing Program, HIPAA Compliance, Medicaid/Medicare Regulations
 
