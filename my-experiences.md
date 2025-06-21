@@ -66,7 +66,7 @@ layout: default
 
 
 #### **Data Science Interview Preps Platform** \| [CS326: Web Programming](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform) <br> Amherst, MA \| Sep 2021 - May 2022
-*Technology: SQL, Python, nbconvert, HTML, CSS, VSCode (Jupyter Notebook), Git/GitHub*
+*Technology: HTML, CSS, JavaScript, Ruby, VSCode (Jupyter Notebook), Git/GitHub*
 
 - Developed a Q&A interview practice platform for Python, SQL, and cloud technologies, leveraging Feynman Technique and Active Recall to improve retention of technical concepts and problem&#8209;solving skills.
 

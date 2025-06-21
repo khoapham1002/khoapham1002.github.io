@@ -56,7 +56,7 @@ layout: default
 
 ### Portfolio Projects
 
-#### **[Customer Purchase Behavior Analysis](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis)** 
+#### **Customer Purchase Behavior Analysis** | [GitHub](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis) \| [Report](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis/blob/main/reports/customer-purchases-habit.pdf)
 <!-- <br> Garden Grove, CA \| Sep - Dec 2024 -->
 *Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, Git/GitHub*
 
@@ -66,7 +66,7 @@ layout: default
 - Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
-#### **[Ecommerce Data Pipeline and Forecasting Model](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** 
+#### **Ecommerce Data Pipeline and Forecasting Model** | [GitHub](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model) \| [Report](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model/blob/main/reports/framework.pdf)
 <!-- <br> Garden Grove, CA \| Jun - Sep 2024 -->
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*
 
@@ -76,7 +76,7 @@ layout: default
 - Engineered features from time-series data, leveraging weekly sales trends for improved forecasting accuracy.
 
 
-#### **[Banking Marketing and Investment Optimization](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** 
+#### **Banking Marketing and Investment Optimization** | [GitHub](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework) \| [Report](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework/blob/main/reports/framework.pdf)
 <!-- <br> Garden Grove, CA \| Sep - Dec 2023 -->
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*
 
@@ -86,7 +86,7 @@ layout: default
 - Optimized a FAANG stock portfolio using mean&#8209;variance optimization, balancing risk and returns.
 
 
-#### **[Healthcare Employee Attrition Prediction](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling)** 
+#### **Healthcare Employee Attrition Prediction** | [GitHub](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling) \| [Report](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling/blob/main/reports/Employee%20Attrition%20with%20Classification%20Tree.pdf)
 <!-- <br> Garden Grove, CA \| Sep - Dec 2023 -->
 *Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn), Decision Tree, Logistic Regression, Git/GitHub*
 
@@ -96,7 +96,7 @@ layout: default
 - Conducted statistical analysis on work&#8209;life balance, job involvement, and salary trends to support HR decisions.
 
 
-#### **[Customer Subscriber Churn Prediction](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction)** 
+#### **Customer Subscriber Churn Prediction** | [GitHub](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction) \| [Report](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction/blob/main/reports/customer_churn.pdf)
 <!-- <br> Garden Grove, CA \| Jun - Sep 2023 -->
 *Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn) Logistic Regression, Decision Tree, Random Forest, K-Means Clustering, Git/GitHub*
 
@@ -106,7 +106,7 @@ layout: default
 - Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
-#### **[University Mental Health Research Study](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** 
+#### **University Mental Health Research Study** | [GitHub](https://github.com/khoapham1002/University-Mental-Health-Research-Study) \| [Report](https://github.com/khoapham1002/University-Mental-Health-Research-Study/blob/main/reports/students_analysis.pdf)
 <!-- <br> Garden Grove, CA \| Jun - Sep 2023 -->
 *Tech Stack: SQL, Python (Pandas, Seaborn, Scikit&#8209;learn, SciPy, Statsmodels), Git/GitHub*
 
