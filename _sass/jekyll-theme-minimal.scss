@@ -4,7 +4,7 @@
 body {
   // background-color: #121212;
   background-color: rgb(27, 27, 30);
-  color: #f0f0f0ee;
+  color: #eeeeeeee;
   font: 15px/1.65 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 5px 20px;
 
@@ -80,13 +80,13 @@ h2 {
 }
 
 h3 {
-  color: white;
+  color: #f0f0f0;
   margin: 0 0 15px;
   font-size: 25px;
 }
 
 h4 {
-  color: white;
+  color: #f0f0f0;
   margin: 0 0 15px;
   font-size: 16.5px;
   line-height: 1.5;
@@ -94,7 +94,7 @@ h4 {
 }
 
 h5 {
-  color: white;
+  color: #f0f0f0;
   margin: 0 0 15px;
   font-size: 15.5px;
   line-height: 1.5;
@@ -102,13 +102,13 @@ h5 {
 }
 
 h6 {
-  color: white;
+  color: #f0f0f0;
   margin: 0 0 20px;
   font-size: 20px;
 }
 
 strong {
-  color: white;
+  color: #f0f0f0;
   font-weight: 900;
 }
 
@@ -140,7 +140,7 @@ table {
 
 th, td {
   font-weight: normal;
-  color: white;
+  color: #f0f0f0;
   text-align: center;
   padding: 10px 0px;
   border: none;
@@ -148,7 +148,7 @@ th, td {
 }
 
 dt {
-  color: white;
+  color: #f0f0f0;
   font-weight: 700;
 }
 
@@ -156,7 +156,7 @@ blockquote {
   border-left:1px solid #dddd;
   margin: 5px;
   padding:0 0 0 15px;
-  color: rgb(180, 180, 180);
+  color: #b4b4b4;
   // font-style:italic;
   // background-color: rgb(65,65,65);
   // border-radius: 5px; /* Optional: rounded corners */
@@ -164,7 +164,7 @@ blockquote {
 
 code, pre {
   font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-  color:white;
+  color: #d5d5d5;
   background-color: rgb(65,65,65);
   border-radius: 5px;
   padding:2px 4px;
@@ -374,6 +374,6 @@ ul.downloads {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:white;
+    color:#eeeeeeee;
   }
 }
