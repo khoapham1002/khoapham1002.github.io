@@ -51,33 +51,40 @@ description: A showcase of my experiences.
 
 ### Experience
 
-#### **Data Management Coordinator** \| [Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards) <br> Amherst, MA \| Sep - Dec 2023   
+<!-- #### **Data Management Coordinator** \| [Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards) <br> Amherst, MA \| Sep - Dec 2023    -->
+#### **[Center for Teaching and Learning](https://www.umass.edu/ctl/grants-awards)** \| Amherst, MA <br> **Data Management Coordinator** \| Sep - Dec 2023  
 - Managed and cleaned survey data for workshop participation analysis, ensuring data accuracy. Developed automated reports recognizing 300+ professors and lecturers for Distinguished Teaching Awards.
 
 
-#### **Research Assistant** \| [Biomedical NLP Processing Laboratory](https://www.cics.umass.edu/organizations/biomedical-informatics-nlp-lab) <br> Amherst, MA \| Feb - May 2022   
+<!-- #### **Research Assistant** \| [Biomedical NLP Processing Laboratory](https://www.cics.umass.edu/organizations/biomedical-informatics-nlp-lab) <br> Amherst, MA \| Feb - May 2022    -->
+#### **[Biomedical NLP Processing Laboratory](https://www.cics.umass.edu/organizations/biomedical-informatics-nlp-lab)** \| Amherst, MA <br> **Biomedical Research Assistant** \| Feb - May 2022   
 - Processed unstructured biomedical data, including EHR notes and scientific articles, to support NLP research. Assisted in developing text&#8209;mining algorithms to identify key medical terms in clinical documentation.
 - Optimized large-scale information retrieval by implementing MapReduce and Spark&#8209;based inverse index tables, enhancing query efficiency.
 
 
-#### **Program Mentor & Peer Tutor** \| [CICS Informatics Department](https://www.cics.umass.edu/advising/undergraduate-advising/undergraduate-peer-advising) <br> Amherst, MA | Sep 2021 - May 2022   
+<!-- #### **Program Mentor & Peer Tutor** \| [CICS Informatics Department](https://www.cics.umass.edu/advising/undergraduate-advising/undergraduate-peer-advising) <br> Amherst, MA | Sep 2021 - May 2022    -->
+#### **[Data Science Track](https://www.cics.umass.edu/advising/undergraduate-advising/undergraduate-peer-advising)** \| Amherst, MA <br> **Program Mentor & Peer Tutor** \| Sep 2021 - May 2022   
 - Guided students in curriculum planning, career development, technical preparation for data science and analyst roles, connecting them with mentors from the Computer Science Department.   
 
-##### **Data Science Interview Preps Platform** \| [CS326: Web Programming](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform) <br> Amherst, MA \| Sep 2021 - May 2022
+<!-- ##### **Data Science Interview Preps Platform** \| [CS326: Web Programming](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform) <br> Amherst, MA \| Sep 2021 - May 2022 -->
+##### **[CS326: Web Programming](https://github.com/khoapham1002/Data-Science-Interview-Preps-Platform)** \| Amherst, MA <br> **Data Science Interview Preps Platform** \| Sep 2021 - May 2022   
 *Technology: SQL, Python, HTML, CSS, JavaScript, Ruby, VSCode (Jupyter Notebook), nbconvert, Git/GitHub*   
 - Developed a Q&A interview practice platform for Python, SQL, and cloud technologies, leveraging Feynman Technique and Active Recall to improve retention of technical concepts and problem&#8209;solving skills.
 
 
-#### **Teaching Assistant** \| [Five College Language Program](https://www.fivecolleges.edu/languages) <br> Amherst, MA | Sep 2021 - Feb 2022   
+<!-- #### **Teaching Assistant** \| [Five College Language Program](https://www.fivecolleges.edu/languages) <br> Amherst, MA | Sep 2021 - Feb 2022    -->
+#### **[Five College Language Program](https://www.fivecolleges.edu/languages)** \| Amherst, MA <br> **Teaching Assistant** \| Sep 2021 - Feb 2022   
 - Conduct weekly lessons to improve students' language proficiency, customized curriculum to meet diverse learning needs, prepared them for final exams and provided detailed weekly progress reports.
 
 
-#### **Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) <br> Orange, CA \| Summer 2024   
+<!-- #### **Digital Media Manager** \| [Millennium Dance Complex](https://www.instagram.com/mdcdance/) <br> Orange, CA \| Summer 2024    -->
+#### **[Millennium Dance Complex](https://www.instagram.com/mdcdance/)** \| Orange, CA <br> **Digital Media Manager** \| Summer 2024   
 - Filmed, edited, and managed video database for dance classes, implementing efficient categorization to enhance digital workflows.
 - Analyzed social media performance, delivering weekly insights and recommendations that drove increased audience engagements and social media growth.
 
 
-#### **Social Media Outreach** \| [Humans of CICS](https://www.instagram.com/humansofcics/) <br> Amherst, MA \| Spring 2020   
+<!-- #### **Social Media Outreach** \| [Humans of CICS](https://www.instagram.com/humansofcics/) <br> Amherst, MA \| Spring 2020    -->
+#### **[Humans of CICS](https://www.instagram.com/humansofcics/)** \| Amherst, MA <br> **Social Media Outreach** \| Spring 2020   
 - Highlighted professional stories of the CS Department's faculty, professors, and student. Collaborated with alumni and staffs to expand and fostering stronger connections within the CICS community.
 
 * * *
