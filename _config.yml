@@ -1,0 +1,19 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
+- jekyll-seo-tag
+
+title: Khoa Pham
+logo: /assets/img/NYC21_00244.JPG
+description: >-
+  📍 Based in Los Angeles, CA <br>
+  📞 Contact me 714-858-7494 <br>
+  📧 kdpham@umass.edu (School) <br>
+  💌 kdpham1002@gmail.com (Personal) <br>
+  <br> 🎓 I'm a Master's student majoring in Business Analytics and Data Science.
+  <br> 📊 I'm passionate about using data to uncover insights and support strategic decision-making.
+  <br> 📈 My experience in finance and healthcare has enabled me to strengthen my data analysis and research skills.
+  <br> 🧑‍💻 Proficient in SQL, Python, R, Tableau and Git; while actively enhancing my expertise in Data Engineering and Cloud technologies.
+
+# show_downloads: true
+theme: jekyll-theme-minimal
