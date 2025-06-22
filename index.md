@@ -1,11 +1,13 @@
 ---
 layout: default
+title: My Portfolio
+description: A showcase of my projects.
 ---
 
 ## My Portfolio
 
 <details open>
-  <summary><span style="font-size: 1.5em; font-weight: bold;">Table of Contents</span></summary>
+  <summary><span style="font-size: 1.5em; font-weight: bold; color: #FFFFFF">Table of Contents</span></summary>
   <ul style="margin: 0;">
     <!-- <li><a href="#about-me">About Me</a></li> -->
     <li><a href="#technical-skills">Technical Skills</a></li>

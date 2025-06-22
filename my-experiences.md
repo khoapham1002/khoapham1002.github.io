@@ -1,11 +1,15 @@
 ---
 layout: default
+title: My Experiences
+description: A showcase of my experiences.
 ---
+
 ## My Experiences
 
 <details open>
   <summary><span style="font-size: 1.5em; font-weight: bold">Table of Contents</span></summary>
   <ul style="margin: 0;">
+    <!-- <li><a href="#about-me">About Me</a></li> -->
     <li><a href="#education">Education</a></li>
     <li><a href="#experience">Experience</a></li>
     <li><a href="#interests">Interests</a></li>
