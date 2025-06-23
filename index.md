@@ -57,7 +57,7 @@ description: A showcase of my projects.
 
 ### Portfolio Projects
 
-#### **Customer Purchase Behavior Analysis** <br> [GitHub](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis) \| [Report](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis/blob/main/reports/customer-purchases-habit.pdf)
+#### **Customer Purchase Behavior Analysis** <br> **[GitHub](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis)** \| **[Report](https://github.com/khoapham1002/Customer-Purchases-Behavior-Analysis/blob/main/reports/customer-purchases-habit.pdf)**
 <!-- <br> Garden Grove, CA \| Sep - Dec 2024 -->
 *Tech Stack: Python, Pandas, Scikit-Learn, Matplotlib, Seaborn, Plotly, Statistical Analysis, Git/GitHub*   
 - Performed EDA on Walmart sales data to analyze spending trends by gender, age, and marital status.
@@ -66,7 +66,7 @@ description: A showcase of my projects.
 - Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
-#### **Ecommerce Data Pipeline and Forecasting Model** <br> [GitHub](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model) \| [Report](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model/blob/main/reports/framework.pdf)
+#### **Ecommerce Data Pipeline and Forecasting Model** <br> **[GitHub](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model)** \| **[Report](https://github.com/khoapham1002/Online-Retail_Data-Pipeline_Forecasting-Model/blob/main/reports/framework.pdf)**
 <!-- <br> Garden Grove, CA \| Jun - Sep 2024 -->
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Scikit-learn), Spark (PySpark), SQL, Git/GitHub*   
 - Built an OOP-based inventory tracking system for 1,000+ products, ensuring efficient inventory control.
@@ -75,7 +75,7 @@ description: A showcase of my projects.
 - Engineered features from time-series data, leveraging weekly sales trends for improved forecasting accuracy.
 
 
-#### **Banking Marketing and Investment Optimization** <br> [GitHub](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework) \| [Report](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework/blob/main/reports/framework.pdf)
+#### **Banking Marketing and Investment Optimization** <br> **[GitHub](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework)** \| **[Report](https://github.com/khoapham1002/Banking-Investment-Optimization-Framework/blob/main/reports/framework.pdf)**
 <!-- <br> Garden Grove, CA \| Sep - Dec 2023 -->
 *Tech Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyPortfolioOpt), SQL, Git/GitHub*   
 - Developed a credit card approval model with 81.8% accuracy, automating risk assessment for banks.
@@ -84,7 +84,7 @@ description: A showcase of my projects.
 - Optimized a FAANG stock portfolio using mean&#8209;variance optimization, balancing risk and returns.
 
 
-#### **Healthcare Employee Attrition Prediction** <br> [GitHub](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling) \| [Report](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling/blob/main/reports/Employee%20Attrition%20with%20Classification%20Tree.pdf)
+#### **Healthcare Employee Attrition Prediction** <br> **[GitHub](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling)** \| **[Report](https://github.com/khoapham1002/Healthcare-Employee-Attrition-Modeling/blob/main/reports/Employee%20Attrition%20with%20Classification%20Tree.pdf)**
 <!-- <br> Garden Grove, CA \| Sep - Dec 2023 -->
 *Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn), Decision Tree, Logistic Regression, Git/GitHub*   
 - Developed Decision Tree and Logistic Regression models to predict high&#8209;risk employee attrition.
@@ -93,7 +93,7 @@ description: A showcase of my projects.
 - Conducted statistical analysis on work&#8209;life balance, job involvement, and salary trends to support HR decisions.
 
 
-#### **Customer Subscriber Churn Prediction** <br> [GitHub](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction) \| [Report](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction/blob/main/reports/customer_churn.pdf)
+#### **Customer Subscriber Churn Prediction** <br> **[GitHub](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction)** \| **[Report](https://github.com/khoapham1002/Customer_Subscriber-Churn-Prediction/blob/main/reports/customer_churn.pdf)**
 <!-- <br> Garden Grove, CA \| Jun - Sep 2023 -->
 *Tech Stack: Python (Pandas, Scikit-Learn, Matplotlib, Seaborn) Logistic Regression, Decision Tree, Random Forest, K-Means Clustering, Git/GitHub*   
 - Performed EDA on Walmart sales data to analyze spending trends by gender, age, and marital status.
@@ -102,7 +102,7 @@ description: A showcase of my projects.
 - Generated recommendations to improve customer acquisition, retention, and marketing strategies.
 
 
-#### **University Mental Health Research Study** <br> [GitHub](https://github.com/khoapham1002/University-Mental-Health-Research-Study) \| [Report](https://github.com/khoapham1002/University-Mental-Health-Research-Study/blob/main/reports/students_analysis.pdf)
+#### **University Mental Health Research Study** <br> **[GitHub](https://github.com/khoapham1002/University-Mental-Health-Research-Study)** \| **[Report](https://github.com/khoapham1002/University-Mental-Health-Research-Study/blob/main/reports/students_analysis.pdf)**
 <!-- <br> Garden Grove, CA \| Jun - Sep 2023 -->
 *Tech Stack: SQL, Python (Pandas, Seaborn, Scikit&#8209;learn, SciPy, Statsmodels), Git/GitHub*   
 - Conducted statistical analysis on 200+ international students, uncovering mental health trends.
@@ -110,25 +110,25 @@ description: A showcase of my projects.
 
 ---
 
-#### **[Pharmaceutical Market Share & Pricing Analysis](https://github.com/khoapham1002/Vertex-Pharma-OA_Market-Analysis/blob/main/USMA_Coop_Exercise.ipynb)** <br> Vertex Pharmaceutical OA \| Spring 2025
+#### **[Pharmaceutical Market Share & Pricing Analysis](https://github.com/khoapham1002/Vertex-Pharma-OA_Market-Analysis/blob/main/USMA_Coop_Exercise.ipynb)** <br> Vertex Pharmaceutical OA \| _Spring 2025_
 *Technology: Excel (Pivot Tables), Python (Pandas, Seaborn), Tableau (dashboards)*   
 - Analyzed US pharma sales data to assess market share, pricing, and revenue across regions and therapeutic areas; visualized trends to distinguish volume-driven vs. premium-priced drugs.
 - Delivered insights and recommendations on pricing strategy and affordability, supporting market access decisions based on therapeutic value.
 
 
-#### **[Finance Department's New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** <br> Isenberg School of Management \| Fall 2024
+#### **[Finance Department's New Hire Request](https://github.com/khoapham1002/Finance-Dept-New-Hire-Request)** <br> Isenberg School of Management \| _Fall 2024_
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*   
 - Analyzed 40,000+ admissions from university's factsheets and data table tables. Identified a 41% growth in undergraduate enrollments and identify gaps in faculty to support resource allocation for Finance Department.
 - Developed dashboards to present 1000+ enrollments, integrated forecasting models leading to recommendations for hiring faculty specialized in risk management to address industry demands and enhance program prestige.
 
 
-#### **[Car Sales, Insurance Claims & Charging Behaviors](https://github.com/khoapham1002/Car-Sales_Insurance-Claims_Behaviors)** <br> College of Information & Computer Science \| Summer 2024
+#### **[Car Sales, Insurance Claims & Charging Behaviors](https://github.com/khoapham1002/Car-Sales_Insurance-Claims_Behaviors)** <br> College of Information & Computer Science \| _Summer 2024_
 *Technology: Python (Pandas, NumPy, Statsmodels), SQL (PostgreSQL, SQLAlchemy), Git/GitHub*   
 - Designed and implemented an SPC&#8209;based monitoring system, reducing manufacturing defects by identifying deviations in control limits.
 - Built a predictive model for car insurance claims, pinpointing driving experience as the strongest predictor with 77.71% accuracy.
 
 
-#### **[States Economic Dynamics Analysis](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** <br> MGMT 601: Data Management \| Spring 2024
+#### **[States Economic Dynamics Analysis](https://github.com/khoapham1002/State-Economic-Dynamics-Analysis)** <br> MGMT 601: Data Management \| _Spring 2024_
 *Technology: SQL (MySQL), Tableau (dashboards), Excel & PowerPoint (reporting)*   
 - Designed interactive dashboards analyzing state-level income, expenses, unemployment rates, cost of living, and population trends.
 - Integrated and processed datasets covering diverse economic indicators (e.g., median income trends from 2012–2023, cost of living indices, and unemployment rates).
