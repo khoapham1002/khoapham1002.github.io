@@ -88,7 +88,7 @@ description: A showcase of my experiences.
 - **Dance**: ...a little at MDC Dance ([@mdcdance][mdcdance])!
 - **Blogging**: *[...work in progress...][blog]* 🤧 -> Visit my [first blog][isenberg] instead!
 
-> Add `/mindpalace` after `github.io` to have a peek of another **[me][mindpalace]**!
+> Add `/mindpalace` after `github.io` to have a peek of another **[me][mindpalace]**! 👀
 
 [vsco]: https://vsco.co/teenee3051/gallery
 [dance]: https://www.instagram.com/teenee_archives/reels/
